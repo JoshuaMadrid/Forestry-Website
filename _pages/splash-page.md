@@ -1,5 +1,5 @@
 ---
-title: Splash Page
+title: 'Splash Page Updated '
 layout: splash
 permalink: "/splash-page/"
 date: 2016-03-23T11:48:41.000-04:00
@@ -63,6 +63,8 @@ feature_row4:
 
 ---
 {% include feature_row id="intro" type="center" %}
+
+<h2>This is a test</h2>
 
 {% include feature_row %}
 
