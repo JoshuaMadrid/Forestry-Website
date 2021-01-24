@@ -18,7 +18,7 @@ sections:
   path: _portfolio
   label: Portfolio
   create: documents
-  match: "**/*"
+  match: "*.md"
 - type: directory
   path: _pages
   label: Pages
