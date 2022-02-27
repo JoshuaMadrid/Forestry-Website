@@ -1,6 +1,5 @@
 ---
 permalink: "/about/"
-title: About
 excerpt: 
 last_modified_at: 
 ---
