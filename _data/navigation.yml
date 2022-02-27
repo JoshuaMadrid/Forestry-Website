@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: /quick-start-guide/
+  - title: "Work"
+    url: /work/
+  - title: "Process"
+    url: /process/
   - title: "About"
     url: /about/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
+  - title: "Contact"
+    url: /contact/
