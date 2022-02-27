@@ -134,3 +134,16 @@ $(document).ready(function() {
     }
   });
 });
+
+$('.parentPlus').click(function(){
+  console.log('this was clicked');
+  $(this).toggleClass('expanded');
+});
+$('.parentPlus.brain').click(function(){
+  $(".BrainCopy").toggleClass('hide');
+  $(".BrainCopy").toggleClass('show');
+});
+$('.parentPlus.laura').click(function(){
+  $(".LauraCopy").toggleClass('hide');
+  $(".LauraCopy").toggleClass('show');
+});

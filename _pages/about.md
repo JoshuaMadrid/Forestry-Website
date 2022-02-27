@@ -16,71 +16,96 @@ last_modified_at: 2020-05-01T10:15:22.000-04:00
 toc: true
 
 ---
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you.
+<div class="container-fluid mainContainer">
+            <div class="row" style="margin-bottom: 75px;">
+                <div class="col-sm-3 col-lg-3">
+                    <a href="index.html" style="text-decoration: none;"><h1 class="logo dark">lo design</h1></a>
+                </div>
+                <div class="col-sm-9 col-lg-9">
+                    <nav class="mainNav dark">
+                        <ul>
+                            <li><a href="work.html">work</a></li>
+                            <li><a href="process.html">process</a></li>
+                            <li><a href="about.html">about</a></li>
+                            <li><a href="contact.html">contact</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
 
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
+            <div class="row" style="margin: 15px 0px; border-top: solid 1px #2b2b2b; padding-top: 20px;">
+                <div class="col-sm-6 col-lg-6" style="font-size: 25px;">
+                    <p>about lo design</p>
+                </div>
+                <div class="col-sm-6 col-lg-6" style="font-size: 25px;">
+                    <p></p>
+                </div>
+            </div>
+            <div class="row" style="margin: 15px 0px;">
+                <div class="col-sm-6 col-lg-6" style="font-size: 25px;">
+                    
+                </div>
+                <div class="col-sm-6 col-lg-6" style="font-size: 25px;">
+                    <p>Lo: to call attention or to express wonder or surprise.
+                    <br><br>
+                    At Lo.Design we approach every project with enthusiasm and joy. We work thoughtfully. We create beautiful spaces. We respect our clients. We dream big while designing down to earth. This is Lo.Design.
+                    </p>
+                </div>
+            </div>
+            <div class="row" style="margin: 15px 0px;">
+                <img src="https://via.placeholder.com/1980x1080/2b2b2b/ffffff" height="auto" width="100%" style="width:100%; height: auto;">
+            </div>
+            <div class="row" style="margin: 15px 0px; padding-top: 20px;">
+                <div class="col-sm-6 col-lg-6" style="font-size: 25px;">
+                    <div style="position: relative; border-bottom: solid 1px #2b2b2b; padding: 0px 0px 40px 0px; margin-top: 50px;">
+                        <p style="font-size: 50px; font-weight: normal; line-height: 0px;">Brain </p>
+                        </a><span class="parentPlus expand brain" style="position: absolute; right: 0px;"><a class="plusMin"></a></span>
+                    </div>
 
-[![Import into Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=dirtyf/jekyll-minimal-mistakes-forestry&engine=jekyll)
+                    <p class="hide BrainCopy">
+                        Brian is an architect and urban designer whose experience is with projects of a wide range of scales. His work focuses on the interrelation of architecture and urban design, shaping the built environment through the creation of vibrant and engaging places that are both environmentally sustainable and intensely site-specific. He has completed regional master plans, large-scale watershed plans, governmental and collegiate campus plans, non-profit community center feasibility studies and multi-family housing site plans. In addition, he has designed, detailed and built projects as small as single-family row home renovations to large-scale, multi-family housing projects, with a constant eye on the intersection and interrelation of architecture and urbanism.
+                        <br><br>
+                        Education: Bachelor of Arts, English; Bachelor of Arts, Art History; Williams Collage, MA
+                        <br><br>
+                        Master of Architecture; Master of Urban Design; Washington University, St. Louis
+                        <br><br>
+                        Experience:
+                        Hufft Project, Kansas City, MO
+                        January 2018- September 2014
+                        <br><br>
+                        Voith and Mactavish Architects, Philadelphia, PA
+                        August 2014- February 2013
+                    </p>
+                </div>
+                <div class="col-sm-6 col-lg-6" style="font-size: 25px;">
+                    <div style="position: relative; border-bottom: solid 1px #2b2b2b; padding: 0px 0px 40px 0px; margin-top: 50px;">
+                        <p style="font-size: 50px; font-weight: normal; line-height: 0px;">Laura </p>
+                        </a><span class="parentPlus expand laura" style="position: absolute; right: 0px;"><a class="plusMin"></a></span>
+                    </div>
+                    <p class="hide LauraCopy" >
+                        Laura Bauers is a registered architect who has been practicing for over 10 years. She has experience in a wide array of typologies including healthcare, labs, academic, adaptive reuse, corporate, residential, and hospitality. She is both an optimist and a skeptic. She will buy the occasional Power Ball ticket, but needs peer reviewed evidence for everything else. 
+                        <br><br>
+                        Education: University of Missouri - Columbia
+                        BA in English; Minor in Environmental Design
+                        <br><br>
+                        Washington University in St. Louis; Master of Architecture
+                        <br><br>
+                        Experience:
+                        Hufft Project, Kansas City, MO
+                        January 2018- September 2014
+                        <br><br>
+                        Voith and Mactavish Architects, Philadelphia, PA
+                        August 2014- February 2013
+                        <br><br>
+                        Ballinger, Philadelphia, PA
+                        February 2013 - August 2009
+                        <br><br>
+                        Cannon Design, St. Louis, MO
+                        July 2009 - June 2008
 
-## Notable Features
-
-- Pre-configured for [Forestry.io](https://forestry.io) CMS
-- Bundled as a "theme gem" for easier install/upgrading.
-- Compatible with GitHub Pages.
-- Support for Jekyll's built-in Sass/SCSS preprocessor.
-- Nine different skins (color variations).
-- Several responsive layout options (single, archive index, search, splash, and paginated home page).
-- Optimized for search engines with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data
-- Optional [header images](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#headers), [custom sidebars](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#sidebars), [table of contents](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#table-of-contents), [galleries](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery), related posts, [breadcrumb links](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#breadcrumb-navigation-beta), [navigation lists](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#navigation-list), and more.
-- Commenting support (powered by [Disqus](https://disqus.com/), [Facebook](https://developers.facebook.com/docs/plugins/comments), [Discourse](https://www.discourse.org/), [utterances](https://utteranc.es/), static-based via [Staticman v1 and v2](https://staticman.net/), and custom).
-- [Google Analytics](https://www.google.com/analytics/) support.
-- UI localized text in English (default), Brazilian Portuguese (Português brasileiro), Catalan, Chinese, Danish, Dutch, Finnish, French (Français), German (Deutsch), Greek, Hindi (हिंदी), Hungarian, Indonesian, Irish (Gaeilge), Italian (Italiano), Japanese, Korean, Malayalam, Myanmar (Burmese), Nepali (Nepalese), Persian (فارسی), Polish, Punjabi (ਪੰਜਾਬੀ), Romanian, Russian, Slovak, Spanish (Español), Swedish, Thai, Turkish (Türkçe), and Vietnamese.
-
-## Demo Pages
-
-| Name                                        | Description                                           |
-| ------------------------------------------- | ----------------------------------------------------- |
-| [Post with Header Image][header-image-post] | A post with a large header image. |
-| [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
-| [Syntax Highlighting Post][syntax-post] | Post displaying highlighted code. |
-| [Post with a Gallery][gallery-post] | A post showing several images wrapped in `<figure>` elements. |
-| [Sample Collection Page][sample-collection] | Single page from a collection. |
-| [Categories Archive][categories-archive] | Posts grouped by category. |
-| [Tags Archive][tags-archive] | Posts grouped by tag. |
-
-For even more demo pages check the [posts archive][year-archive].
-
-[header-image-post]: {{ "" | relative_url }}{% post_url 2012-03-15-layout-header-image-text-readability %}
-[gallery-post]: {{ "" | relative_url }}{% post_url 2010-09-09-post-gallery %}
-[html-tags-post]: {{ "" | relative_url }}{% post_url 2013-01-11-markup-html-tags-and-formatting %}
-[syntax-post]: {{ "" | relative_url }}{% post_url 2013-08-16-markup-syntax-highlighting %}
-[sample-collection]: {{ "/recipes/chocolate-chip-cookies/" | relative_url }}
-[categories-archive]: {{ "/categories/" | relative_url }}
-[tags-archive]: {{ "/tags/" | relative_url }}
-[year-archive]: {{ "/year-archive/" | relative_url }}
-
----
-
-## Credits
-
-### Icons + Demo Images:
-
-- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
-- [Font Awesome](http://fontawesome.io/)
-- [Unsplash](https://unsplash.com/)
-
-### Other:
-
-- [Jekyll](https://jekyllrb.com/)
-- [jQuery](https://jquery.com/)
-- [Susy](http://susy.oddbird.net/)
-- [Breakpoint](http://breakpoint-sass.com/)
-- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
-- [FitVids.JS](http://fitvidsjs.com/)
-- Greedy Navigation - [lukejacksonn](https://codepen.io/lukejacksonn/pen/PwmwWV)
-- [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
-- [Lunr](http://lunrjs.com)
-
----
-
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
+                    </p>
+                </div>
+            </div>
+            
+            
+        </div>
