@@ -29,15 +29,15 @@ last_modified_at:
     </div>
 </div>
 <div class="row" style="margin: 15px 0px;">
-    <div class="col-sm-6 col-lg-6" style="font-size: 25px;">
+<div class="col-sm-6 col-lg-6" style="font-size: 25px;">
         
-    </div>
-    <div class="col-sm-6 col-lg-6" style="font-size: 25px;">
-        <p>Lo: to call attention or to express wonder or surprise.
-        <br><br>
-        At Lo.Design we approach every project with enthusiasm and joy. We work thoughtfully. We create beautiful spaces. We respect our clients. We dream big while designing down to earth. This is Lo.Design.
-        </p>
-    </div>
+</div>
+<div class="col-sm-6 col-lg-6" style="font-size: 25px;">
+    <p>Lo: to call attention or to express wonder or surprise.
+    <br><br>
+    At Lo.Design we approach every project with enthusiasm and joy. We work thoughtfully. We create beautiful spaces. We respect our clients. We dream big while designing down to earth. This is Lo.Design.
+    </p>
+</div>
 </div>
 <div class="row" style="margin: 15px 0px;">
     <img src="https://via.placeholder.com/1980x1080/2b2b2b/ffffff" height="auto" width="100%" style="width:100%; height: auto;">
@@ -46,7 +46,7 @@ last_modified_at:
     <div class="col-sm-6 col-lg-6" style="font-size: 25px;">
         <div style="position: relative; border-bottom: solid 1px #2b2b2b; padding: 0px 0px 40px 0px; margin-top: 50px;">
             <p style="font-size: 50px; font-weight: normal; line-height: 0px;">Brain </p>
-            </a><span class="parentPlus expand brain" style="position: absolute; right: 0px;"><a class="plusMin"></a></span>
+            <span class="parentPlus expand brain" style="position: absolute; right: 0px;"><a class="plusMin"></a></span>
         </div>
 
 <p class="hide BrainCopy">
@@ -67,7 +67,7 @@ last_modified_at:
 <div class="col-sm-6 col-lg-6" style="font-size: 25px;">
     <div style="position: relative; border-bottom: solid 1px #2b2b2b; padding: 0px 0px 40px 0px; margin-top: 50px;">
         <p style="font-size: 50px; font-weight: normal; line-height: 0px;">Laura </p>
-        </a><span class="parentPlus expand laura" style="position: absolute; right: 0px;"><a class="plusMin"></a></span>
+        <span class="parentPlus expand laura" style="position: absolute; right: 0px;"><a class="plusMin"></a></span>
     </div>
     <p class="hide LauraCopy" >
         Laura Bauers is a registered architect who has been practicing for over 10 years. She has experience in a wide array of typologies including healthcare, labs, academic, adaptive reuse, corporate, residential, and hospitality. She is both an optimist and a skeptic. She will buy the occasional Power Ball ticket, but needs peer reviewed evidence for everything else. 
@@ -88,9 +88,7 @@ last_modified_at:
         February 2013 - August 2009
         <br><br>
         Cannon Design, St. Louis, MO
-        July 2009 - June 2008
-
-    </p>
+        July 2009 - June 2008</p>
 </div>
 </div>
 
