@@ -3,8 +3,6 @@ permalink: "/about/"
 title: About
 excerpt: 
 last_modified_at: 
-toc: false
-
 ---
 <div class="row" style="margin-bottom: 75px;">
     <div class="col-sm-3 col-lg-3">
