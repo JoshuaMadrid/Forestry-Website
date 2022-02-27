@@ -4,22 +4,6 @@ title: About
 excerpt: 
 last_modified_at: 
 ---
-<div class="row" style="margin-bottom: 75px;">
-    <div class="col-sm-3 col-lg-3">
-        <a href="index.html" style="text-decoration: none;"><h1 class="logo dark">lo design</h1></a>
-    </div>
-    <div class="col-sm-9 col-lg-9">
-        <nav class="mainNav dark">
-            <ul>
-                <li><a href="work.html">work</a></li>
-                <li><a href="process.html">process</a></li>
-                <li><a href="about.html">about</a></li>
-                <li><a href="contact.html">contact</a></li>
-            </ul>
-        </nav>
-    </div>
-</div>
-
 <div class="row" style="margin: 15px 0px; border-top: solid 1px #2b2b2b; padding-top: 20px;">
     <div class="col-sm-6 col-lg-6" style="font-size: 25px;">
         <p>about lo design</p>
