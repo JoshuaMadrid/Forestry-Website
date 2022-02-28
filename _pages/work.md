@@ -23,59 +23,59 @@ feature_row:
 <!-- --include feature_row -->
 
 <div class="row" style="margin: 15px 0px;">
-                <div class="col-sm-3 col-lg-3" style="padding-left: 0px;">
-                    <img src="https://via.placeholder.com/1980x1080/2b2b2b/ffffff" width="100%" height="auto">
-                </div>
-                <div class="col-sm-3 col-lg-3" style="padding-left: 0px;">
-                    <img src="https://via.placeholder.com/1980x1080/2b2b2b/ffffff" width="100%" height="auto">
-                </div>
-                <div class="col-sm-3 col-lg-3" style="padding-left: 0px;">
-                    <img src="https://via.placeholder.com/1980x1080/2b2b2b/ffffff" width="100%" height="auto">
-                </div>
-                <div class="col-sm-3 col-lg-3" style="padding-left: 0px;">
-                    <img src="https://via.placeholder.com/1980x1080/2b2b2b/ffffff" width="100%" height="auto">
-                </div>
-            </div>
-            <div class="row" style="margin: 15px 0px;">
-                <div class="col-sm-3 col-lg-3" style="padding-left: 0px;">
-                    <img src="https://via.placeholder.com/1980x1080/2b2b2b/ffffff" width="100%" height="auto">
-                </div>
-                <div class="col-sm-3 col-lg-3" style="padding-left: 0px;">
-                    <img src="https://via.placeholder.com/1980x1080/2b2b2b/ffffff" width="100%" height="auto">
-                </div>
-                <div class="col-sm-3 col-lg-3" style="padding-left: 0px;">
-                    <img src="https://via.placeholder.com/1980x1080/2b2b2b/ffffff" width="100%" height="auto">
-                </div>
-                <div class="col-sm-3 col-lg-3" style="padding-left: 0px;">
-                    <img src="https://via.placeholder.com/1980x1080/2b2b2b/ffffff" width="100%" height="auto">
-                </div>
-            </div>
-            <div class="row" style="margin: 15px 0px;">
-                <div class="col-sm-3 col-lg-3" style="padding-left: 0px;">
-                    <img src="https://via.placeholder.com/1980x1080/2b2b2b/ffffff" width="100%" height="auto">
-                </div>
-                <div class="col-sm-3 col-lg-3" style="padding-left: 0px;">
-                    <img src="https://via.placeholder.com/1980x1080/2b2b2b/ffffff" width="100%" height="auto">
-                </div>
-                <div class="col-sm-3 col-lg-3" style="padding-left: 0px;">
-                    <img src="https://via.placeholder.com/1980x1080/2b2b2b/ffffff" width="100%" height="auto">
-                </div>
-                <div class="col-sm-3 col-lg-3" style="padding-left: 0px;">
-                    <img src="https://via.placeholder.com/1980x1080/2b2b2b/ffffff" width="100%" height="auto">
-                </div>
-            </div>
-            <div class="row" style="margin: 15px 0px;">
-                <div class="col-sm-3 col-lg-3" style="padding-left: 0px;">
-                    <img src="https://via.placeholder.com/1980x1080/2b2b2b/ffffff" width="100%" height="auto">
-                </div>
-                <div class="col-sm-3 col-lg-3" style="padding-left: 0px;">
-                    <img src="https://via.placeholder.com/1980x1080/2b2b2b/ffffff" width="100%" height="auto">
-                </div>
-                <div class="col-sm-3 col-lg-3" style="padding-left: 0px;">
-                    <img src="https://via.placeholder.com/1980x1080/2b2b2b/ffffff" width="100%" height="auto">
-                </div>
-                <div class="col-sm-3 col-lg-3" style="padding-left: 0px;">
-                    <img src="https://via.placeholder.com/1980x1080/2b2b2b/ffffff" width="100%" height="auto">
-                </div>
-            </div>
-        </div>
+    <div class="col-sm-3 col-lg-3" style="padding-left: 0px;">
+        <img src="https://via.placeholder.com/1980x1080/2b2b2b/ffffff" width="100%" height="auto">
+    </div>
+    <div class="col-sm-3 col-lg-3" style="padding-left: 0px;">
+        <img src="https://via.placeholder.com/1980x1080/2b2b2b/ffffff" width="100%" height="auto">
+    </div>
+    <div class="col-sm-3 col-lg-3" style="padding-left: 0px;">
+        <img src="https://via.placeholder.com/1980x1080/2b2b2b/ffffff" width="100%" height="auto">
+    </div>
+    <div class="col-sm-3 col-lg-3" style="padding-left: 0px;">
+        <img src="https://via.placeholder.com/1980x1080/2b2b2b/ffffff" width="100%" height="auto">
+    </div>
+</div>
+<div class="row" style="margin: 15px 0px;">
+    <div class="col-sm-3 col-lg-3" style="padding-left: 0px;">
+        <img src="https://via.placeholder.com/1980x1080/2b2b2b/ffffff" width="100%" height="auto">
+    </div>
+    <div class="col-sm-3 col-lg-3" style="padding-left: 0px;">
+        <img src="https://via.placeholder.com/1980x1080/2b2b2b/ffffff" width="100%" height="auto">
+    </div>
+    <div class="col-sm-3 col-lg-3" style="padding-left: 0px;">
+        <img src="https://via.placeholder.com/1980x1080/2b2b2b/ffffff" width="100%" height="auto">
+    </div>
+    <div class="col-sm-3 col-lg-3" style="padding-left: 0px;">
+        <img src="https://via.placeholder.com/1980x1080/2b2b2b/ffffff" width="100%" height="auto">
+    </div>
+</div>
+<div class="row" style="margin: 15px 0px;">
+    <div class="col-sm-3 col-lg-3" style="padding-left: 0px;">
+        <img src="https://via.placeholder.com/1980x1080/2b2b2b/ffffff" width="100%" height="auto">
+    </div>
+    <div class="col-sm-3 col-lg-3" style="padding-left: 0px;">
+        <img src="https://via.placeholder.com/1980x1080/2b2b2b/ffffff" width="100%" height="auto">
+    </div>
+    <div class="col-sm-3 col-lg-3" style="padding-left: 0px;">
+        <img src="https://via.placeholder.com/1980x1080/2b2b2b/ffffff" width="100%" height="auto">
+    </div>
+    <div class="col-sm-3 col-lg-3" style="padding-left: 0px;">
+        <img src="https://via.placeholder.com/1980x1080/2b2b2b/ffffff" width="100%" height="auto">
+    </div>
+</div>
+<div class="row" style="margin: 15px 0px;">
+    <div class="col-sm-3 col-lg-3" style="padding-left: 0px;">
+        <img src="https://via.placeholder.com/1980x1080/2b2b2b/ffffff" width="100%" height="auto">
+    </div>
+    <div class="col-sm-3 col-lg-3" style="padding-left: 0px;">
+        <img src="https://via.placeholder.com/1980x1080/2b2b2b/ffffff" width="100%" height="auto">
+    </div>
+    <div class="col-sm-3 col-lg-3" style="padding-left: 0px;">
+        <img src="https://via.placeholder.com/1980x1080/2b2b2b/ffffff" width="100%" height="auto">
+    </div>
+    <div class="col-sm-3 col-lg-3" style="padding-left: 0px;">
+        <img src="https://via.placeholder.com/1980x1080/2b2b2b/ffffff" width="100%" height="auto">
+    </div>
+</div>
+</div>
