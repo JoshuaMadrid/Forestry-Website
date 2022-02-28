@@ -1,22 +1,22 @@
 ---
-layout: archive
+layout: default
 ---
-
-{{ content }}
-
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
-
-{% if paginator %}
-  {% assign posts = paginator.posts %}
-{% else %}
-  {% assign posts = site.posts %}
-{% endif %}
-
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
-  {% for post in posts %}
-    {% include archive-single.html type=entries_layout %}
-  {% endfor %}
-</div>
-  
-{% include paginator.html %}
+<div class="hero-image" >
+  <div class="fluid-container">
+  <div class="row">
+      <div class="col-sm-3 col-lg-3">
+          <h1 class="logo">lo design</h1>
+      </div>
+      <div class="col-sm-9 col-lg-9">
+          <nav class="mainNav">
+              <ul>
+                  <li><a href="work.html">work</a></li>
+                  <li><a href="process.html">process</a></li>
+                  <li><a href="about.html">about</a></li>
+                  <li><a href="contact.html">contact</a></li>
+              </ul>
+          </nav>
+      </div>
+  </div>
+  </div>
+  </div>
