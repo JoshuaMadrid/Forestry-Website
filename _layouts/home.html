@@ -1,22 +1,38 @@
 ---
-layout: default
 ---
-<div class="hero-image" >
-  <div class="fluid-container">
-  <div class="row">
-      <div class="col-sm-3 col-lg-3">
-          <h1 class="logo">lo design</h1>
+<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@0,300;0,400;0,500;0,600;0,700;0,900;1,300;1,400;1,700&display=swap" rel="stylesheet">
+  </head>
+
+  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
+    <div class="container-fluid mainContainer">
+      {% include_cached skip-links.html %}
+      {% include_cached browser-upgrade.html %}
+      <div class="hero-image" >
+        <div class="fluid-container">
+          {% include_cached masthead.html %}
+        </div>
       </div>
-      <div class="col-sm-9 col-lg-9">
-          <nav class="mainNav">
-              <ul>
-                  <li><a href="work.html">work</a></li>
-                  <li><a href="process.html">process</a></li>
-                  <li><a href="about.html">about</a></li>
-                  <li><a href="contact.html">contact</a></li>
-              </ul>
-          </nav>
+      <div class="initial-content">
+        {{ content }}
       </div>
-  </div>
-  </div>
-  </div>
+
+      {% if site.search == true %}
+        <div class="search-content">
+          {% include_cached search/search_form.html %}
+        </div>
+      {% endif %}
+
+    </div>
+    {% include scripts.html %}
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <script src="main.js"></script>
+  </body>
+</html>
