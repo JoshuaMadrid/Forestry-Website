@@ -393,10 +393,6 @@ input[type="submit"],
 .mainNav.dark a {
   color: #2b2b2b;
 }
-.mainContainer {
-  margin: 30px 30px 0px 30px;
-  padding: 20px;
-}
 
 a{
   text-decoration: none;
@@ -455,3 +451,11 @@ body{
 .show {
   display: block;
 }
+
+.container-fluid {
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
