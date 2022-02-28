@@ -78,4 +78,3 @@ feature_row:
         <img src="https://via.placeholder.com/1980x1080/2b2b2b/ffffff" width="100%" height="auto">
     </div>
 </div>
-</div>
