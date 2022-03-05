@@ -1,4 +1,26 @@
 ---
 label: 'Block - Accordion '
 hide_body: true
-fields: []
+fields:
+- name: personal_bios
+  type: field_group_list
+  fields:
+  - name: name
+    type: text
+    config:
+      required: true
+    label: Name
+  - name: bio
+    type: textarea
+    default: ''
+    config:
+      required: true
+      wysiwyg: true
+      schema:
+        format: html-blocks
+    label: Bio
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Personal Bios
