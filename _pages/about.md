@@ -41,7 +41,22 @@ content:
 - template: block-about-image
   about_image: ''
 - template: block-accordion
-  personal_bios: []
+  personal_bios:
+  - name: Brain
+    bio: "<p>Brian is an architect and urban designer whose experience is with projects
+      of a wide range of scales. His work focuses on the interrelation of architecture
+      and urban design, shaping the built environment through the creation of vibrant
+      and engaging places that are both environmentally sustainable and intensely
+      site-specific. He has completed regional master plans, large-scale watershed
+      plans, governmental and collegiate campus plans, non-profit community center
+      feasibility studies and multi-family housing site plans. In addition, he has
+      designed, detailed and built projects as small as single-family row home renovations
+      to large-scale, multi-family housing projects, with a constant eye on the intersection
+      and interrelation of architecture and urbanism.<br><br>Education: Bachelor of
+      Arts, English; Bachelor of Arts, Art History; Williams Collage, MA<br><br>Master
+      of Architecture; Master of Urban Design; Washington University, St. Louis<br><br>Experience:
+      Hufft Project, Kansas City, MO January 2018- September 2014<br><br>Voith and
+      Mactavish Architects, Philadelphia, PA August 2014- February 2013</p>"
 
 ---
 <div class="row" style="margin: 15px 0px; border-top: solid 1px #2b2b2b; padding-top: 20px;">
