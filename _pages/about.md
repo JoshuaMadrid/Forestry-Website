@@ -33,8 +33,11 @@ personal_bios:
     2008</p>"
 content:
 - template: block-page-description
-  page_headline: ''
-  page_description: ''
+  page_headline: about lo design
+  page_description: |
+    Lo: to call attention or to express wonder or surprise.
+
+    At Lo.Design we approach every project with enthusiasm and joy. We work thoughtfully. We create beautiful spaces. We respect our clients. We dream big while designing down to earth. This is Lo.Design.
 - template: block-about-image
   about_image: ''
 - template: block-accordion
