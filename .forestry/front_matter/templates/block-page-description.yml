@@ -1,4 +1,18 @@
 ---
 label: Block - Page Description
 hide_body: true
-fields: []
+fields:
+- name: page_headline
+  type: text
+  config:
+    required: false
+  label: Page Headline
+- name: page_description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Page Description
