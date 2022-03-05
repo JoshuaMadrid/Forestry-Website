@@ -1,6 +1,6 @@
 ---
 label: Page - About
-hide_body: true
+hide_body: false
 fields:
 - name: about_description
   type: blocks
