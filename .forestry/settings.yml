@@ -13,6 +13,9 @@ sections:
   match: "*.md"
   templates:
   - block-accordion
+  - block-about-image
+  - block-page-description
+  - page-about
 - type: directory
   path: _portfolio
   label: Portfolio
