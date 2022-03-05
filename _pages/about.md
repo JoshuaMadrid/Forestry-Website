@@ -1,8 +1,37 @@
 ---
 permalink: "/about/"
 excerpt: 
-last_modified_at:
-heroimage: "test" 
+last_modified_at: 
+heroimage: test
+personal_bios:
+- name: Brain
+  bio: "<p>Brian is an architect and urban designer whose experience is with projects
+    of a wide range of scales. His work focuses on the interrelation of architecture
+    and urban design, shaping the built environment through the creation of vibrant
+    and engaging places that are both environmentally sustainable and intensely site-specific.
+    He has completed regional master plans, large-scale watershed plans, governmental
+    and collegiate campus plans, non-profit community center feasibility studies,
+    and multi-family housing site plans. In addition, he has designed, detailed, and
+    built projects as small as single-family row home renovations to large-scale,
+    multi-family housing projects, with a constant eye on the intersection and interrelation
+    of architecture and urbanism.<br><br>Education: Bachelor of Arts, English; Bachelor
+    of Arts, Art History; Williams College, MA<br><br>Master of Architecture; Master
+    of Urban Design; Washington University, St. Louis<br><br>Experience: Hufft Project,
+    Kansas City, MO January 2018- September 2014<br><br>Voith and Mactavish Architects,
+    Philadelphia, PA August 2014- February 2013</p>"
+- name: Laura
+  bio: "<p>Laura Bauers is a registered architect who has been practicing for over
+    10 years. She has experience in a wide array of typologies including healthcare,
+    labs, academic, adaptive reuse, corporate, residential, and hospitality. She is
+    both an optimist and a skeptic. She will buy the occasional Power Ball ticket
+    but needs peer-reviewed evidence for everything else.<br><br>Education: the University
+    of Missouri - Columbia BA in English; Minor in Environmental Design<br><br>Washington
+    University in St. Louis; Master of Architecture<br><br>Experience: Hufft Project,
+    Kansas City, MO January 2018- September 2014<br><br>Voith and Mactavish Architects,
+    Philadelphia, PA August 2014- February 2013<br><br>Ballinger, Philadelphia, PA
+    February 2013 - August 2009<br><br>Cannon Design, St. Louis, MO July 2009 - June
+    2008</p>"
+
 ---
 <div class="row" style="margin: 15px 0px; border-top: solid 1px #2b2b2b; padding-top: 20px;">
     <div class="col-sm-6 col-lg-6" style="font-size: 25px;">
