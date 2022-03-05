@@ -12,3 +12,5 @@ fields:
     min: 
     max: 
   label: Content
+pages:
+- _pages/about.md

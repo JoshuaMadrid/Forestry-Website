@@ -31,6 +31,14 @@ personal_bios:
     Philadelphia, PA August 2014- February 2013<br><br>Ballinger, Philadelphia, PA
     February 2013 - August 2009<br><br>Cannon Design, St. Louis, MO July 2009 - June
     2008</p>"
+content:
+- template: block-accordion
+  personal_bios: []
+- template: block-page-description
+  page_headline: ''
+  page_description: ''
+- template: block-about-image
+  about_image: ''
 
 ---
 <div class="row" style="margin: 15px 0px; border-top: solid 1px #2b2b2b; padding-top: 20px;">
