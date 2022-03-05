@@ -1,4 +1,9 @@
 ---
 label: Block - Process
 hide_body: true
-fields: []
+fields:
+- name: step_headline
+  type: text
+  config:
+    required: false
+  label: Step Headline
