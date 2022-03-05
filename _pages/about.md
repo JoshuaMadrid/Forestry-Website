@@ -1,7 +1,8 @@
 ---
 permalink: "/about/"
 excerpt: 
-last_modified_at: 
+last_modified_at:
+heroimage: test 
 ---
 <div class="row" style="margin: 15px 0px; border-top: solid 1px #2b2b2b; padding-top: 20px;">
     <div class="col-sm-6 col-lg-6" style="font-size: 25px;">
@@ -18,6 +19,7 @@ last_modified_at:
 <div class="col-sm-6 col-lg-6" style="font-size: 25px;">
     <p>Lo: to call attention or to express wonder or surprise.
     <br><br>
+    {{ page.heroimage }}
     At Lo.Design we approach every project with enthusiasm and joy. We work thoughtfully. We create beautiful spaces. We respect our clients. We dream big while designing down to earth. This is Lo.Design.
     </p>
 </div>
