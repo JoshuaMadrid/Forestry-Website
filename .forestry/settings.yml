@@ -11,6 +11,8 @@ sections:
   label: Pages
   create: documents
   match: "*.md"
+  templates:
+  - block-accordion
 - type: directory
   path: _portfolio
   label: Portfolio
