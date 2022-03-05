@@ -1,4 +1,28 @@
 ---
 label: Page - About
 hide_body: true
-fields: []
+fields:
+- name: about_description
+  type: blocks
+  template_types:
+  - block-page-description
+  config:
+    min: 
+    max: 
+  label: About Description
+- name: about_image
+  type: blocks
+  label: About Image
+  template_types:
+  - block-about-image
+  config:
+    min: 
+    max: 
+- name: bios
+  type: blocks
+  label: Bios
+  template_types:
+  - block-accordion
+  config:
+    min: 
+    max: 
