@@ -21,7 +21,10 @@ feature_row:
   excerpt: This is some sample content that goes here with **Markdown** formatting.
 content:
 - template: block-gallery
-  project: []
+  project:
+  - title_project: Project One
+    project_cover_image: ''
+    project_link: ''
 
 ---
 <!-- --include feature_row -->
