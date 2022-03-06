@@ -44,7 +44,7 @@ page_sections:
       - June 2008</p>"
 
 ---
-{% include block-page-description.html %}
+<!-- {% include block-page-description.html %}
 <p>
 {{ page.page_sections }}
 </p>
@@ -54,7 +54,7 @@ page_sections:
 {% for block in page.page_sections %}
   {{ block.template }}
 {% endfor %}
-</p>
+</p> -->
 
 <h2>template</h2>
 <p>
