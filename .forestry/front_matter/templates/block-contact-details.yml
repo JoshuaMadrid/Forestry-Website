@@ -1,4 +1,19 @@
 ---
 label: Block - Contact Details
 hide_body: true
-fields: []
+fields:
+- name: email
+  type: text
+  config:
+    required: false
+  label: Email
+- name: phone_number
+  type: text
+  config:
+    required: false
+  label: Phone Number
+- name: address
+  type: text
+  config:
+    required: false
+  label: Address
