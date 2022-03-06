@@ -2,7 +2,7 @@
 label: Page
 hide_body: true
 fields:
-- name: content
+- name: page_sections
   type: blocks
   template_types:
   - block-page-description
@@ -18,9 +18,8 @@ fields:
   config:
     min: 
     max: 
-  label: Content
+  label: Page Sections
 pages:
-- _pages/About.md
 - _pages/index.md
 - _pages/work.md
 - _portfolio/Hanover House.md
