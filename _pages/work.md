@@ -22,6 +22,12 @@ feature_row:
 content:
 - template: block-gallery
   project:
+  - title_project: Master of All Baths
+    project_cover_image: "/images/257-merlin-road4.jpg"
+    project_link: ''
+  - title_project: Material Minutia
+    project_cover_image: "/images/img_2990.jpg"
+    project_link: ''
   - title_project: Summit Grill Waldo
     project_cover_image: "/images/20180412-summit-0230-edit_hr.jpg"
     project_link: ''
