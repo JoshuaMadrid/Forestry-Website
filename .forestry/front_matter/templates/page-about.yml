@@ -8,6 +8,8 @@ fields:
   - block-page-description
   - block-about-image
   - block-accordion
+  - block-contact-details
+  - block-process
   config:
     min: 
     max: 
