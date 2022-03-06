@@ -1,8 +1,8 @@
 ---
-title: 'Work'
+title: Work
 layout: splash
 permalink: "/work/"
-date: 2016-03-23T11:48:41.000-04:00
+date: '2016-03-23T11:48:41.000-04:00'
 feature_row:
 - image_path: assets/images/unsplash-gallery-image-1-th.jpg
   alt: placeholder image 1
@@ -19,6 +19,10 @@ feature_row:
 - image_path: "/assets/images/unsplash-gallery-image-3-th.jpg"
   title: Placeholder 3
   excerpt: This is some sample content that goes here with **Markdown** formatting.
+content:
+- template: block-gallery
+  project: []
+
 ---
 <!-- --include feature_row -->
 
