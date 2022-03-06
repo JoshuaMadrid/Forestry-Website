@@ -22,6 +22,9 @@ feature_row:
 content:
 - template: block-gallery
   project:
+  - title_project: Summit Grill Gladstone
+    project_cover_image: "/images/20190918-dscf0869-lr.jpg"
+    project_link: ''
   - title_project: Waldo Home
     project_cover_image: "/images/dining1.jpg"
     project_link: ''
