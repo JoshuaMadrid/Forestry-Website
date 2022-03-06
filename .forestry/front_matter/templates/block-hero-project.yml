@@ -12,3 +12,12 @@ fields:
   config:
     required: false
   label: Project Title
+- name: project_description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Project Description
