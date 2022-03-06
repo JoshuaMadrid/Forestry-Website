@@ -17,6 +17,14 @@
       {% include_cached browser-upgrade.html %}
       {% include_cached masthead.html %}
       
+      
+      {% for block in page.page_sections %}
+          {% assign template = block.template %}
+          {% case template %}
+          {% when 'block-page-description' %}
+              {% include block_page_description.html %}        
+          {% endcase %}
+      {% endfor %} 
       {{ content }}
     </div>
     {% include scripts.html %}
