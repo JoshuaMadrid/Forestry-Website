@@ -7,11 +7,12 @@ layout: default
 page_sections:
 - template: block-page-description
   page_headline: about lo design
-  page_description: |-
+  page_description:
     Lo to call attention or to express wonder or surprise.
+
     At Lo.Design we approach every project with enthusiasm and joy. We work thoughtfully. We create beautiful spaces. We respect our clients. We dream big while designing down to earth. This is Lo.Design.
 - template: block-about-image
-  about_image: "/images/5_huntley_finaledit_24-medium.jpg"
+  about_image: ''
 - template: block-accordion
   personal_bios:
   - name: Brain
@@ -43,15 +44,16 @@ page_sections:
       - June 2008</p>"
 
 ---
+
 {% for block in page.page_sections %}
     {% assign template = block.template %}
     {% case template %}
         {% when 'block-page-description' %}
-            {% include {{template}}.html %}
+{% include {{template}}.html %}
         {% when 'block-about-image' %}
-            {% include {{template}}.html %}
+{% include {{template}}.html %}
         {% when 'block-accordion' %}
-            {% include {{template}}.html %}
+{% include {{template}}.html %}
     {% endcase %}
 {% endfor %} 
 
@@ -104,3 +106,4 @@ page_sections:
         July 2009 - June 2008</p>
 </div>
 </div>
+
