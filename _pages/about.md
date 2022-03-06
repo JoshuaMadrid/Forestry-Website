@@ -58,7 +58,7 @@ content:
         
 </div>
 <div class="col-sm-6 col-lg-6" style="font-size: 25px;">
-    <p>Lo: to call attention or to express wonder or surprise.
+    <p>Lo to call attention or to express wonder or surprise.
     <br><br>
     At Lo.Design we approach every project with enthusiasm and joy. We work thoughtfully. We create beautiful spaces. We respect our clients. We dream big while designing down to earth. This is Lo.Design.
     </p>
