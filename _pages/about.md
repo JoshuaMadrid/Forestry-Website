@@ -48,22 +48,27 @@ page_sections:
 <p>
 {{ page.page_sections }}
 </p>
-<h2>template section</h2>
-<p>
-{{ page.page_sections.template }}
-</p>
+
 <h2>template</h2>
 <p>
-{% for user in page.page_sections %}
-  {{ user.template }}
+{% for block in page.page_sections %}
+  {{ block.template }}
 {% endfor %}
 </p>
-<h2>no template</h2>
+
+<h2>template</h2>
 <p>
-{% for user in page.page_sections %}
-  {{ user }}
-{% endfor %}
+{% for block in page.page_sections %}
+    {% assign template = block.template %}
+    {% case template %}
+        {% when 'block-page-description' %}
+            <p>this is a test and it worked</p> 
+        {% when 'block-about-image' %}
+            <p>image test</p>   
+    {% endcase %}
+{% endfor %} 
 </p>
+
 <div class="row" style="margin: 15px 0px; border-top: solid 1px #2b2b2b; padding-top: 20px;">
     <div class="col-sm-6 col-lg-6" style="font-size: 25px;">
         <p>about lo design</p>
