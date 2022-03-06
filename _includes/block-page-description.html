@@ -4,7 +4,7 @@
     {% case template %}
         {% when 'block-page-description' %}
             <p>this is a test</p>
-            <h4>{{ block-page-description.page_headline }}</h4>
-            <p>{{ block-page-description.page_headline }}</p>
+            <h4>{{ template.page_headline }}</h4>
+            <p>{{ template.page_headline }}</p>
     {% endcase %}
 {% endfor %} 
