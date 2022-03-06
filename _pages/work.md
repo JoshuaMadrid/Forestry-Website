@@ -22,8 +22,8 @@ feature_row:
 content:
 - template: block-gallery
   project:
-  - title_project: Project One
-    project_cover_image: ''
+  - title_project: HANOVER HOUSE
+    project_cover_image: "/images/5_huntley_finaledit_62_sm.jpg"
     project_link: ''
 
 ---
