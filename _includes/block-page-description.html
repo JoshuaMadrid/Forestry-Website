@@ -1,11 +1,9 @@
 <p>this is a test if the HTML was included</p>
-
-{{ page.page_sections }}
-
-
-<!-- {% for description in block.block-page-description %}
-    <div class="col-md-4">
-        <h4>{{description.page_headline}}</h4>
-        <p>{{ description.page_description }}</p>
-    </div>
-{% endfor %}     -->
+{% for block in page.page_sections %}
+    {% assign template = block.template %}
+    {% case template %}
+        {% when 'block-page-description' %}
+            <h4>{{ page.page_sections.page_headline }}</h4>
+            <p>{{ page.page_sections.page_description }}</p>
+    {% endcase %}
+{% endfor %} 
