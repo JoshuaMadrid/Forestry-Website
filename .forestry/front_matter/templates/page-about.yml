@@ -10,6 +10,10 @@ fields:
   - block-accordion
   - block-contact-details
   - block-process
+  - block-contact-details
+  - block-related-projects
+  - block-hero-project
+  - block-gallery
   config:
     min: 
     max: 
