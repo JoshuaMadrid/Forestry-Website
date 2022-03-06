@@ -18,16 +18,8 @@
       {% include_cached masthead.html %}
       
       {{ content }}
-      
       {% include block_page_description.html %}
 
-      {% assign template = page.page_sections.template %}
-      {% case template %}
-      {% when 'block-page-description' %}
-          {% include block_page_description.html %}        
-      {% endcase %}
-
-      
     </div>
     {% include scripts.html %}
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
