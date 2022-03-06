@@ -25,15 +25,15 @@
       {% include_cached masthead.html %}
 
       <div class="initial-content">
-        {{ content }}
+        {% for block in page.content %}
+            {% assign template = block.template %}
+              {% case template %}
+                {% when 'block-page-description' %}
+                    {% include block_page_description.html %}        
+              {% endcase %}
+        {% endfor %} 
       </div>
 
-      {% if site.search == true %}
-        <div class="search-content">
-          {% include_cached search/search_form.html %}
-        </div>
-      {% endif %}
-      
     </div>
     {% include scripts.html %}
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
