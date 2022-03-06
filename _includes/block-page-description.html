@@ -1,1 +1,7 @@
 <p>this is a test if the HTML was included</p>
+{% for description in block.block-page-description %}
+    <div class="col-md-4">
+        <h4>{{description.page_headline}}</h4>
+        <p>{{ description.page_description }}</p>
+    </div>
+{% endfor %}    
