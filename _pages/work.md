@@ -22,13 +22,19 @@ feature_row:
 content:
 - template: block-gallery
   project:
+  - title_project: South of Summi
+    project_cover_image: "/images/ex8b1192.jpg"
+    project_link: ''
+  - title_project: Lightbox
+    project_cover_image: "/images/img_0626.jpg"
+    project_link: ''
   - title_project: Summit Grill Gladstone
     project_cover_image: "/images/20190918-dscf0869-lr.jpg"
     project_link: ''
   - title_project: Waldo Home
     project_cover_image: "/images/dining1.jpg"
     project_link: ''
-  - title_project: HANOVER HOUSE
+  - title_project: Hanover House
     project_cover_image: "/images/5_huntley_finaledit_62_sm.jpg"
     project_link: ''
 
