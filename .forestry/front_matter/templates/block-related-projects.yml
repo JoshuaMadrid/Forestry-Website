@@ -1,4 +1,27 @@
 ---
 label: Block - Related Projects
 hide_body: true
-fields: []
+fields:
+- name: related_project_title
+  type: text
+  config:
+    required: false
+  label: Related Project Title
+- name: project_
+  type: field_group_list
+  fields:
+  - name: project_title
+    type: text
+    config:
+      required: false
+    label: Project Title
+  - name: project_image
+    type: file
+    config:
+      maxSize: 64
+    label: Project Image
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Project
