@@ -59,10 +59,10 @@ page_sections:
 
 <div class="row" style="margin: 15px 0px; padding-top: 20px;">
     <div class="col-sm-6 col-lg-6" style="font-size: 25px;">
-        <div style="position: relative; border-bottom: solid 1px #2b2b2b; padding: 0px 0px 40px 0px; margin-top: 50px;">
-            <p style="font-size: 50px; font-weight: normal; line-height: 0px;">Brain </p>
-            <span class="parentPlus expand brain" style="position: absolute; right: 0px;"><a class="plusMin"></a></span>
-        </div>
+    <div style="position: relative; border-bottom: solid 1px #2b2b2b; padding: 0px 0px 40px 0px; margin-top: 50px;">
+    <p style="font-size: 50px; font-weight: normal; line-height: 0px;">Brain </p>
+    <span class="parentPlus expand brain" style="position: absolute; right: 0px;"><a class="plusMin"></a></span>
+</div>
 
 <p class="hide BrainCopy">
     Brian is an architect and urban designer whose experience is with projects of a wide range of scales. His work focuses on the interrelation of architecture and urban design, shaping the built environment through the creation of vibrant and engaging places that are both environmentally sustainable and intensely site-specific. He has completed regional master plans, large-scale watershed plans, governmental and collegiate campus plans, non-profit community center feasibility studies and multi-family housing site plans. In addition, he has designed, detailed and built projects as small as single-family row home renovations to large-scale, multi-family housing projects, with a constant eye on the intersection and interrelation of architecture and urbanism.
