@@ -62,7 +62,7 @@ page_sections:
     {% assign template = block.template %}
     {% case template %}
         {% when 'block-page-description' %}
-            <p>this is a test and it worked</p> 
+            {% include {{template}}.html %}
         {% when 'block-about-image' %}
             <p>image test</p>   
     {% endcase %}
