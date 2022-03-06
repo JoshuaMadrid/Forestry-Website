@@ -19,5 +19,5 @@ fields:
     max: 
   label: Content
 pages:
-- _pages/about.md
+- _pages/About.md
 - _pages/index.md
