@@ -3,8 +3,6 @@
     {% assign template = block.template %}
     {% case template %}
         {% when 'block-page-description' %}
-            <p>this is a test</p>
-            <h4>{{ template.page_headline }}</h4>
-            <p>{{ template.page_headline }}</p>
+            <h4>{{ block.page_headline }}</h4>
     {% endcase %}
 {% endfor %} 

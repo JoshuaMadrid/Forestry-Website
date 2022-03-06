@@ -50,10 +50,8 @@ page_sections:
     {% assign template = block.template %}
     {% case template %}
         {% when 'block-page-description' %}
-            <p>this is a test</p>
-            <h4>{{ block.page_headline }}</h4>
+            {% include blocks_{{template}}.html %}
         {% when 'block-about-image' %}
-            <p>image test</p>   
     {% endcase %}
 {% endfor %} 
 </p>
