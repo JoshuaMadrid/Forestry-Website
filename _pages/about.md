@@ -4,7 +4,7 @@ permalink: "/about/"
 excerpt: 
 last_modified_at: 
 layout: default
-content:
+page_sections:
 - template: block-page-description
   page_headline: about lo design
   page_description:
