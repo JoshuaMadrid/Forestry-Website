@@ -1,0 +1,5 @@
+{% for p in page_sections %}
+    {% if p.block-page-description %}
+        <p>{{ p.block-page-description.page_headline }}</p>
+    {% endif %}
+{% endfor %}
