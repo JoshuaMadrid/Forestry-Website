@@ -44,8 +44,6 @@ content:
       - June 2008</p>"
 
 ---
-
-
 {% for block in page.content %}
   {% assign template = block.template %}
       {% case template %}
@@ -54,6 +52,7 @@ content:
       {% endcase %}
 {% endfor %} 
 
+{% page.content %}
 <div class="row" style="margin: 15px 0px; border-top: solid 1px #2b2b2b; padding-top: 20px;">
     <div class="col-sm-6 col-lg-6" style="font-size: 25px;">
         <p>about lo design</p>
