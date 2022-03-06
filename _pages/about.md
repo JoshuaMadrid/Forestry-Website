@@ -44,25 +44,15 @@ page_sections:
       - June 2008</p>"
 
 ---
-<!-- {% include block-page-description.html %}
-<p>
-{{ page.page_sections }}
-</p>
-
-<h2>template</h2>
-<p>
-{% for block in page.page_sections %}
-  {{ block.template }}
-{% endfor %}
-</p> -->
-
 <h2>template</h2>
 <p>
 {% for block in page.page_sections %}
     {% assign template = block.template %}
     {% case template %}
         {% when 'block-page-description' %}
-            {% include {{template}}.html %}
+            <p>this is a test</p>
+            <h4>{{ template.page_headline }}</h4>
+            <p>{{ template.page_description }}</p>
         {% when 'block-about-image' %}
             <p>image test</p>   
     {% endcase %}
