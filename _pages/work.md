@@ -22,6 +22,12 @@ feature_row:
 content:
 - template: block-gallery
   project:
+  - title_project: Summit Grill Waldo
+    project_cover_image: "/images/20180412-summit-0230-edit_hr.jpg"
+    project_link: ''
+  - title_project: Pool Party
+    project_cover_image: "/images/20190920-dscf1172-lr.jpg"
+    project_link: ''
   - title_project: South of Summi
     project_cover_image: "/images/ex8b1192.jpg"
     project_link: ''
