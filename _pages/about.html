@@ -51,6 +51,9 @@ page_sections:
         {% when 'block-page-description' %}
             {% include {{template}}.html %}
         {% when 'block-about-image' %}
+            {% include {{template}}.html %}
+        {% when 'block-accordion' %}
+            {% include {{template}}.html %}
     {% endcase %}
 {% endfor %} 
 
