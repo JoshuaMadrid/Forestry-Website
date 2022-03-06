@@ -2,6 +2,7 @@
 title: Contact
 permalink: /contact/
 excerpt: 
+layout: default
 last_modified_at: 
 ---
 <div class="row" style="margin: 15px 0px; border-top: solid 1px #2b2b2b; padding-top: 20px;">

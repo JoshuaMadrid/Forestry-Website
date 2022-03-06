@@ -2,6 +2,7 @@
 permalink: "/about/"
 excerpt: 
 last_modified_at: 
+layout: default
 content:
 - template: block-page-description
   page_headline: about lo design

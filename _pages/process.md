@@ -1,6 +1,7 @@
 ---
 title: Process
 permalink: "/process/"
+layout: default
 content:
 - template: block-page-description
 - template: block-process
