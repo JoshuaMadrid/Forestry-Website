@@ -16,16 +16,7 @@
       {% include_cached skip-links.html %}
       {% include_cached browser-upgrade.html %}
       {% include_cached masthead.html %}
-
-      <div class="initial-content">
-        {% for block in page.content %}
-            {% assign template = block.template %}
-              {% case template %}
-                {% when 'block-page-description' %}
-                    {% include block_page_description.html %}        
-              {% endcase %}
-        {% endfor %} 
-      </div>
+      
       {{ content }}
     </div>
     {% include scripts.html %}
