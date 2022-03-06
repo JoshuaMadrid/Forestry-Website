@@ -17,6 +17,7 @@
       {% include_cached browser-upgrade.html %}
       {% include_cached masthead.html %}
       
+      {{ content }}
       
       {% for block in page.page_sections %}
           {% assign template = block.template %}
@@ -25,7 +26,7 @@
               {% include block_page_description.html %}        
           {% endcase %}
       {% endfor %} 
-      {{ content }}
+      
     </div>
     {% include scripts.html %}
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
