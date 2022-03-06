@@ -46,17 +46,6 @@ page_sections:
 ---
 {% include block-page-description.html %}
 <p>
-{{ page_sections.template[0] }}
-{{ page_sections.template[1] }}
-
-{{ page.page_sections.template[0] }}
-{{ page.page_sections.template[1] }}
-
-{{ site.page_sections.template[0] }}
-{{ site.page_sections.template[1] }}
-
-{{ page.page_sections }}
-{{ site.page_sections }}
 {{ page_sections }}
 </p>
 
