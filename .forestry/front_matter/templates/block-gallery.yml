@@ -1,4 +1,28 @@
 ---
 label: Block - Gallery
 hide_body: true
-fields: []
+fields:
+- name: project
+  type: field_group_list
+  fields:
+  - name: title_project
+    type: text
+    config:
+      required: false
+    label: Title Project
+  - name: project_cover_image
+    type: file
+    config:
+      maxSize: 64
+    label: Project Cover Image
+  - name: project_link
+    type: text
+    config:
+      required: false
+    label: Project Link
+    description: Requires the URL to be https://
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Project
