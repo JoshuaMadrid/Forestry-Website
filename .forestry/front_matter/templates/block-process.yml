@@ -7,3 +7,21 @@ fields:
   config:
     required: false
   label: Step Headline
+- name: intro_copy
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Intro Copy
+- name: full_copy
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Full Copy
