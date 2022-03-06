@@ -45,8 +45,11 @@ page_sections:
 
 ---
 {% include block-page-description.html %}
-<p>{{ page.title }}</p>
-<p>{{ page.page_sections.template[0].page_headline }}</p>
+<p>
+{{#each page_sections.template}}
+  <li>{{.}}</li>
+{{/each}}
+</p>
 
 <div class="row" style="margin: 15px 0px; border-top: solid 1px #2b2b2b; padding-top: 20px;">
     <div class="col-sm-6 col-lg-6" style="font-size: 25px;">
