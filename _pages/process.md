@@ -1,6 +1,18 @@
 ---
 title: Process
-permalink: /process/
+permalink: "/process/"
+content:
+- template: block-page-description
+- template: block-process
+  step_headline: Consultation
+  intro_copy: Let's get to know each other We begin every project by listening. We
+    want to hear what your goals are; what you hope to achieve in doing this project
+    and what you expect to gain when it's complete.
+  full_copy: |-
+    let's get to know each other We begin every project by listening. We want to hear what your goals are; what you hope to achieve in doing this project and what you expect to gain when it's complete.
+
+    To facilitate this conversation, we have developed an Initial Client Survey. This high-level set of questions gets you to state in your own words your Desired Outcomes, Project Priorities, Key Components, Design Aesthetic (if any), and any known Design Constraints. It helps clients to sharpen their objectives and it guides us during design. If after this phase, we are a good fit for your project, then we are ready to dig in.
+
 ---
 <div class="row" style="margin: 15px 0px; border-top: solid 1px #2b2b2b; padding-top: 20px;">
     <div class="col-sm-6 col-lg-6" style="font-size: 25px;">
