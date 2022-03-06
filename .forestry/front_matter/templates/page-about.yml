@@ -14,3 +14,4 @@ fields:
   label: Content
 pages:
 - _pages/about.md
+- _pages/index.md

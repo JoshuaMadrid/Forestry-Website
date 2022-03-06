@@ -1,9 +1,10 @@
 ---
 layout: home
-permalink: /
+permalink: "/"
 excerpt: 
 last_modified_at: 
-layout: home
 heroimage: testing hero image idea
+content: []
+
 ---
- {{ page.heroimage }}
+{{ page.heroimage }}
