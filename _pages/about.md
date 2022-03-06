@@ -52,7 +52,9 @@ content:
       {% endcase %}
 {% endfor %} 
 
-{% page.content %}
+{% page.title %}
+{{ page.title }}
+{{ page.content }}
 <div class="row" style="margin: 15px 0px; border-top: solid 1px #2b2b2b; padding-top: 20px;">
     <div class="col-sm-6 col-lg-6" style="font-size: 25px;">
         <p>about lo design</p>
