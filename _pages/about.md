@@ -52,9 +52,6 @@ page_sections:
         {% when 'block-page-description' %}
             <p>this is a test</p>
             <h4>{{ page.page_sections }}</h4>
-            <h4>{{ page.page_sections.template[block-page-description].page_description }}</h4>
-            <h4>{{ page.page_sections.template[0].page_description }}</h4>
-            <p>{{ template[block-page-description].page_description }}</p>
             <p>{{ template[0].page_description }}</p>
         {% when 'block-about-image' %}
             <p>image test</p>   
