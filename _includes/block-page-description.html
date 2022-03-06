@@ -1,5 +1,5 @@
 {% for p in page_sections %}
     {% if p.template %}
-        <p>{{ p.block-page-description.page_headline }}</p>
+        <p>{{ page_sections.template[0].page_headline }}</p>
     {% endif %}
 {% endfor %}
