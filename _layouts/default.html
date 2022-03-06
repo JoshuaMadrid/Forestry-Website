@@ -21,13 +21,12 @@
       
       {% include block_page_description.html %}
 
-      {% for block in page.page_sections %}
-          {% assign template = block.template %}
-          {% case template %}
-          {% when 'block-page-description' %}
-              {% include block_page_description.html %}        
-          {% endcase %}
-      {% endfor %} 
+      {% assign template = page.page_sections.template %}
+      {% case template %}
+      {% when 'block-page-description' %}
+          {% include block_page_description.html %}        
+      {% endcase %}
+
       
     </div>
     {% include scripts.html %}
