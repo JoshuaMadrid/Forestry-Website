@@ -46,12 +46,12 @@ page_sections:
 ---
 
 {% for block in page.page_sections %}
-    {% assign template = block.template %}
-    {% case template %}
-        {% when 'block-page-description' %}
-            {% include {{template}}.html %}
-        {% when 'block-about-image' %}
-    {% endcase %}
+{% assign template = block.template %}
+{% case template %}
+{% when 'block-page-description' %}
+{% include {{template}}.html %}
+{% when 'block-about-image' %}
+{% endcase %}
 {% endfor %} 
 
 <div class="row" style="margin: 15px 0px;">
