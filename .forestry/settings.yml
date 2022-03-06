@@ -12,25 +12,14 @@ sections:
   create: documents
   match: "*.md"
   templates:
-  - block-accordion
-  - block-about-image
-  - block-page-description
   - page-about
 - type: directory
   path: _portfolio
   label: Portfolio
   create: documents
   match: "*.md"
-- type: directory
-  path: _posts
-  label: Posts
-  create: documents
-  match: "*.md"
   templates:
-  - post-standard
-  - post-header
-- type: heading
-  label: Collections
+  - page-about
 - type: heading
   label: Jekyll
 - type: document
