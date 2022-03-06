@@ -51,7 +51,7 @@ page_sections:
     {% case template %}
         {% when 'block-page-description' %}
             <p>this is a test</p>
-            <h4>{{ template }}</h4>
+            <h4>{{ block }}</h4>
         {% when 'block-about-image' %}
             <p>image test</p>   
     {% endcase %}
