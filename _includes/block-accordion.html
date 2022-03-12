@@ -9,3 +9,7 @@
     <p class="hide LauraCopy" >
         {{block.bio[0]}}
 </div>
+
+{% for about in block.personal_bios %}
+    {{ about.bio }}
+{% endfor %} 
