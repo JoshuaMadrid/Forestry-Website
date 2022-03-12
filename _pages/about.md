@@ -11,7 +11,7 @@ page_sections:
     Lo to call attention or to express wonder or surprise.
     At Lo.Design we approach every project with enthusiasm and joy. We work thoughtfully. We create beautiful spaces. We respect our clients. We dream big while designing down to earth. This is Lo.Design.
 - template: block-about-image
-  about_image: "/images/5_huntley_finaledit_24-medium.jpg"
+  about_image: "/images/img_0626.jpg"
 - template: block-accordion
   personal_bios:
   - name: Brian
@@ -57,5 +57,4 @@ page_sections:
 {% include {{template}}.html %}
 </div>
     {% endcase %}
-{% endfor %} 
-
+{% endfor %}
