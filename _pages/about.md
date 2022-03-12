@@ -7,11 +7,12 @@ layout: default
 page_sections:
 - template: block-page-description
   page_headline: about lo design
-  page_description: 
-    Lo to call attention or to express wonder or surprise.
-    At Lo.Design we approach every project with enthusiasm and joy. We work thoughtfully. We create beautiful spaces. We respect our clients. We dream big while designing down to earth. This is Lo.Design.
+  page_description: Lo to call attention or to express wonder or surprise. At Lo.Design
+    we approach every project with enthusiasm and joy. We work thoughtfully. We create
+    beautiful spaces. We respect our clients. We dream big while designing down to
+    earth. This is Lo.Design.
 - template: block-about-image
-  about_image: "/images/img_0626.jpg"
+  about_image: "/images/5_huntley_finaledit_24-medium.jpg"
 - template: block-accordion
   personal_bios:
   - name: Brian
