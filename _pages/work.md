@@ -46,4 +46,4 @@ page_sections:
         {% endcase %}
     {% endfor %}
 </div>
-{% page.date %}
+{{% page.date %}}
