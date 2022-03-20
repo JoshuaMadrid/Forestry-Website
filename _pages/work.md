@@ -46,5 +46,5 @@ page_sections:
     {% endfor %}
 </div>
 
-{% page.page_sections %}
+{% page.layout %}
 is anything showing up
