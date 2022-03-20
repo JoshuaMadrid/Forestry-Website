@@ -45,3 +45,9 @@ page_sections:
     {% endcase %}
 {% endfor %}
 </div>
+
+<script>
+    $( document ).ready(function() {
+        console.log( "ready!" );
+    });
+</script>
