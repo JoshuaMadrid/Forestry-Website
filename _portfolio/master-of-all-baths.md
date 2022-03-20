@@ -12,3 +12,6 @@ content:
 published: false
 
 ---
+<div>
+  <p>Test Content on this page</p>
+</div>

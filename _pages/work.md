@@ -8,7 +8,7 @@ page_sections:
   project:
   - title_project: Master of All Baths
     project_cover_image: "/images/257-merlin-road4.jpg"
-    project_link: ''
+    project_link: 'master-of-all-baths'
   - title_project: Material Minutia
     project_cover_image: "/images/img_2990.jpg"
     project_link: ''
