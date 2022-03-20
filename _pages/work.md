@@ -45,5 +45,6 @@ content:
         {% endcase %}
     {% endfor %}
 </div>
-{% include block-gallery.html %}
+
+{% page.content %}
 is anything showing up
