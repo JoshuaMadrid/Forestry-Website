@@ -43,7 +43,7 @@ page_sections:
         {% when 'block-gallery' %}
 {% include {{template}}.html %}
     {% endcase %}
-{% endfor %}[]=
+{% endfor %}
 </div>
 
 
