@@ -35,15 +35,14 @@ page_sections:
     project_link: ''
 
 ---
-<!-- --include feature_row -->
+<!-- --include feature_row-- -->
 <div class="row" style="margin: 15px 0px;">
 <p>is anything showing up</p>
-    {% for block in page.page_sections %}
-        {% assign template = block.template %}
-        {% case template %}
-            {% when 'block-gallery' %}
-                {% include {{template}}.html %}
-        {% endcase %}
-    {% endfor %}
+{% for block in page.page_sections %}
+    {% assign template = block.template %}
+    {% case template %}
+        {% when 'block-gallery' %}
+{% include {{template}}.html %}
+    {% endcase %}
+{% endfor %}
 </div>
-{{% page.date %}}
