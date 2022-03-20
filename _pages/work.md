@@ -37,7 +37,6 @@ page_sections:
 ---
 <!-- --include feature_row-- -->
 <div class="row" style="margin: 15px 0px;">
-<p>is anything showing up</p>
 {% for block in page.page_sections %}
     {% assign template = block.template %}
     {% case template %}
