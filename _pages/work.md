@@ -3,7 +3,7 @@ title: Work
 permalink: "/work/"
 date: '2016-03-23T11:48:41.000-04:00'
 layout: default
-content:
+page_sections:
 - template: block-gallery
   project:
   - title_project: Master of All Baths
@@ -37,7 +37,7 @@ content:
 ---
 <!-- --include feature_row -->
 <div class="row" style="margin: 15px 0px;">
-    {% for block in page.content %}
+    {% for block in page.page_sections %}
         {% assign template = block.template %}
         {% case template %}
             {% when 'block-gallery' %}
@@ -46,5 +46,5 @@ content:
     {% endfor %}
 </div>
 
-{% page.content %}
+{% page.page_sections %}
 is anything showing up
