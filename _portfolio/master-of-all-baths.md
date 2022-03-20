@@ -3,7 +3,7 @@ title: Master of All Baths
 permalink: "/work/master-of-all-baths/"
 date: '2016-03-23T11:48:41.000-04:00'
 layout: default
-content:
+page_sections:
 - template: block-hero-project
   hero_image: ''
   project_title: ''
@@ -13,11 +13,6 @@ content:
 - template: block-related-projects
   related_project_title: ''
   project_: []
-page_sections:
-- template: block-contact-details
-  email: Placeholder
-  phone_number: Place Holder
-  address: Placeholder
 
 ---
 <div>
