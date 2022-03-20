@@ -52,6 +52,9 @@ page_sections:
 $( document ).ready(function() {
     document.querySelectorAll('.project').forEach((project) => {
       console.log(project);
+      project.addEventListener("mouseover", function(){
+        project.style.display = "none";
+      };
     });
 });
 </script>
