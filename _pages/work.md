@@ -45,5 +45,5 @@ content:
         {% endcase %}
     {% endfor %}
 </div>
-
+{% include block-gallery.html %}
 test
