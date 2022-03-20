@@ -37,7 +37,7 @@ content:
 ---
 <!-- --include feature_row -->
 <div class="row" style="margin: 15px 0px;">
-    {% for block in page.page_sections %}
+    {% for block in page.content %}
         {% assign template = block.template %}
         {% case template %}
             {% when 'block-gallery' %}
