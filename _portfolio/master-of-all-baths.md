@@ -1,4 +1,8 @@
 ---
+title: Master of All Baths
+permalink: "/work/master-of-all-baths/"
+date: '2016-03-23T11:48:41.000-04:00'
+layout: default
 content:
 - template: block-hero-project
   hero_image: ''
