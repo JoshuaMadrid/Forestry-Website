@@ -9,6 +9,11 @@ content:
 - template: block-related-projects
   related_project_title: ''
   project_: []
+page_sections:
+- template: block-contact-details
+  email: Placeholder
+  phone_number: Place Holder
+  address: Placeholder
 
 ---
 <div>
