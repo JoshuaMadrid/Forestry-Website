@@ -54,7 +54,7 @@ $( document ).ready(function() {
       console.log(project);
       project.addEventListener("mouseover", function(){
         project.style.display = "none";
-      };
+      });
     });
 });
 </script>
