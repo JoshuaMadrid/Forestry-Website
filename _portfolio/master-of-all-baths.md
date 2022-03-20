@@ -9,7 +9,6 @@ content:
 - template: block-related-projects
   related_project_title: ''
   project_: []
-published: false
 
 ---
 <div>
