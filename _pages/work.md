@@ -54,9 +54,11 @@ $( document ).ready(function() {
       console.log(project);
       project.addEventListener("mouseover", function(){
         project.children[0].style.visibility = "hidden";
+        project.children[1].style.display = "none";
       });
       project.addEventListener("mouseout", function(){
         project.children[0].style.visibility = "visible";
+        project.children[1].style.display = "block";
       });
     });
 });
