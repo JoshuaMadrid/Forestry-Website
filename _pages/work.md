@@ -41,7 +41,7 @@ page_sections:
     {% assign template = block.template %}
     {% case template %}
         {% when 'block-gallery' %}
-{% include {{template}}.html %}
+        {% include {{template}}.html %}
     {% endcase %}
 {% endfor %}
 </div>
