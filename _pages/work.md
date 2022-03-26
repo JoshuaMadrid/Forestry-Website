@@ -7,7 +7,7 @@ page_sections:
 - template: block-gallery
   project:
   - title_project: Master of All Baths
-    project_cover_image: "/images/20180412-summit-0230-edit_hr.jpg"
+    project_cover_image: "/images/257-merlin-road4.jpg"
     project_link: master-of-all-baths
   - title_project: Material Minutia
     project_cover_image: "/images/img_2990.jpg"
