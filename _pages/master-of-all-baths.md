@@ -16,9 +16,8 @@ page_sections:
 
 ---
 <div class="container">
-  <div class="row">
+  <div class="row" style="height: 100vh; width: 100vw; background-image: url(https://via.placeholder.com/1920x1080/2b2b2b); background-size: cover; background-position: center center;">
     <div class="col-lg-12">
-        something
     </div>
   </div>
 </div>
