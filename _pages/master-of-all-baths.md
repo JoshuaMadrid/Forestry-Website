@@ -15,6 +15,10 @@ page_sections:
   project_: []
 
 ---
-<div>
-  <p>Test Content on this page</p>
+<div class="container">
+  <div class="row">
+    <div class="col-lg-12">
+        something
+    </div>
+  </div>
 </div>
