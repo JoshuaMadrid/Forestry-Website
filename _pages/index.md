@@ -14,6 +14,5 @@ layout: default
     left: 0px;
     width: 100%;
     height: auto;
-    z-index: -999;
 }
 </style>
