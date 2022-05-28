@@ -6,4 +6,4 @@ last_modified_at:
 layout: default
 ---
 
-<p>this is a test</p>
+<img src="/images/ex8b1192.jpg">
