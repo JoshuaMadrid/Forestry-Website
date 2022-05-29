@@ -135,14 +135,18 @@ $(document).ready(function() {
   });
 });
 
-$('.parentPlus').click(function(){
-  console.log('this was clicked');
-  $(this).toggleClass('expanded');
-  if(this.parentNode.parentNode.childNodes[3].style.display == "none"){
-      this.parentNode.parentNode.childNodes[3].style.display = "block"
-  } else if(this.parentNode.parentNode.childNodes[3].style.display == "block" ){
-      this.parentNode.parentNode.childNodes[3].style.display = "none"
-  } else{
-      this.parentNode.parentNode.childNodes[3].style.display = "none"
-  }
+$( document ).ready(function() {
+  $('.parentPlus').click(function(){
+    console.log('this was clicked');
+    $(this).toggleClass('expanded');
+    if(this.parentNode.parentNode.childNodes[3].style.display == "none"){
+        this.parentNode.parentNode.childNodes[3].style.display = "block"
+    } else if(this.parentNode.parentNode.childNodes[3].style.display == "block" ){
+        this.parentNode.parentNode.childNodes[3].style.display = "none"
+    } else{
+        this.parentNode.parentNode.childNodes[3].style.display = "none"
+    }
+  });
+  console.log( "ready!" );
 });
+
