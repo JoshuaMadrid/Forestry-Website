@@ -22,7 +22,7 @@ content:
     <div class="col-sm-6 col-lg-6" style="font-size: 25px;">
         <p> It is important to state that this is a process; we do
             not have floor plans for sale or pre-package designs
-            for purchase.<span class="parentPlus expand" style="position: absolute; right: 0px;"><a class="plusMin"></a></span>
+            for purchase.
             <br><br>
             <span class="SeeMore">
                 We work intentionally with our clients
