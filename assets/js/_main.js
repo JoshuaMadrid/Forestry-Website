@@ -138,12 +138,11 @@ $(document).ready(function() {
 $('.parentPlus').click(function(){
   console.log('this was clicked');
   $(this).toggleClass('expanded');
-});
-$('.parentPlus.brain').click(function(){
-  $(".BrainCopy").toggleClass('hide');
-  $(".BrainCopy").toggleClass('show');
-});
-$('.parentPlus.laura').click(function(){
-  $(".LauraCopy").toggleClass('hide');
-  $(".LauraCopy").toggleClass('show');
+  if(this.parentNode.parentNode.childNodes[3].style.display == "none"){
+      this.parentNode.parentNode.childNodes[3].style.display = "block"
+  } else if(this.parentNode.parentNode.childNodes[3].style.display == "block" ){
+      this.parentNode.parentNode.childNodes[3].style.display = "none"
+  } else{
+      this.parentNode.parentNode.childNodes[3].style.display = "none"
+  }
 });
