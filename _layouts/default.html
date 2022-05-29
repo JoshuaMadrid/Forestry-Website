@@ -24,6 +24,22 @@
     {% include scripts.html %}
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <script>
+      $( document ).ready(function() {
+        $('.parentPlus').click(function(){
+          console.log('this was clicked');
+          $(this).toggleClass('expanded');
+          if(this.parentNode.parentNode.childNodes[3].style.display == "none"){
+              this.parentNode.parentNode.childNodes[3].style.display = "block"
+          } else if(this.parentNode.parentNode.childNodes[3].style.display == "block" ){
+              this.parentNode.parentNode.childNodes[3].style.display = "none"
+          } else{
+              this.parentNode.parentNode.childNodes[3].style.display = "none"
+          }
+        });
+        console.log( "ready!" );
+      });
+    </script>
     <script src="main.js"></script>
   </body>
 </html>
