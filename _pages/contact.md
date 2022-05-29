@@ -5,7 +5,7 @@ excerpt:
 layout: default
 last_modified_at: 
 ---
-<div class="row" style="margin: 15px 0px; border-top: solid 1px #2b2b2b; padding-top: 20px;">
+<div class="row" style="margin: 15px 30px; border-top: solid 1px #2b2b2b; padding-top: 20px;">
     <div class="col-sm-6 col-lg-6" style="font-size: 25px;">
         <p>let's chat</p>
     </div>
@@ -13,7 +13,7 @@ last_modified_at:
         <p></p>
     </div>
 </div>
-<div class="row" style="margin: 15px 0px;">
+<div class="row" style="margin: 15px 30px;">
     <div class="col-sm-6 col-lg-6" style="font-size: 25px;">
         <p style="font-size: 50px; font-weight: normal; line-height: 0.5em;">laura@lodesign.us</p>
         <p>Click to Copy</p>

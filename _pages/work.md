@@ -36,7 +36,7 @@ page_sections:
 
 ---
 <!-- --include feature_row-- -->
-<div class="row" style="margin: 15px 0px;">
+<div class="row" style="margin: 15px 30px;">
 {% for block in page.page_sections %}
     {% assign template = block.template %}
     {% case template %}

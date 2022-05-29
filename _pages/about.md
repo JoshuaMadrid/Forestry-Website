@@ -54,7 +54,7 @@ page_sections:
         {% when 'block-about-image' %}
 {% include {{template}}.html %}
         {% when 'block-accordion' %}
-<div class="row" style="margin: 15px 0px; padding-top: 20px;">
+<div class="row" style="margin: 15px 30px; padding-top: 20px;">
 {% include {{template}}.html %}
 </div>
     {% endcase %}
