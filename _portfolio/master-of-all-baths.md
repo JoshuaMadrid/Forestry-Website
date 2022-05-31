@@ -27,6 +27,14 @@ page_sections:
       <p>something</p>
     </div>
   </div>
+  <div class="row">
+    <div class="col-12">
+       <img class="backgroundEle" style="max-height:100vh; width: auto; height: 100%;" src="https://via.placeholder.com/530x800/EEEEEE">
+    </div>
+    <div class="col-12">
+       <img class="backgroundEle" style="max-height:100vh; width: auto; height: 100%;" src="https://via.placeholder.com/1200x800/EEEEEE">
+    </div>
+  </div>
 </div>
 
 <style>
