@@ -18,7 +18,7 @@ page_sections:
 <div class="limitedFull">
   <img class="backgroundEle" src="https://via.placeholder.com/1920x1080/EEEEEE">
 </div>
-<div class="" style="background-color: green; padding: 0px;">
+<div class="" style="padding: 0px;">
   <div class="row">
     <div style="" class="col-lg-8 col-md-8">
       <p>something</p>
