@@ -16,9 +16,10 @@ page_sections:
 
 ---
 <div class="limitedFull">
-  <img class="backgroundEle" src="https://via.placeholder.com/1920x1080/2b2b2b">
+  <img class="backgroundEle" src="https://via.placeholder.com/1920x1080/EEEEEE">
 </div>
 <div class="col-lg-12">
+this is a test
 </div>
 
 
