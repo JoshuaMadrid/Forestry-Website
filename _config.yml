@@ -261,10 +261,6 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  pets:
-    output: true
-    permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
