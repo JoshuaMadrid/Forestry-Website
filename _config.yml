@@ -258,7 +258,7 @@ compress_html:
 
 # Collections
 collections:
-  recipes:
+  portfolio:
     output: true
     permalink: /:collection/:path/
   pets:
