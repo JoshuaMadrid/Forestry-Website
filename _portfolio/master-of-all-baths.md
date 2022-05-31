@@ -29,6 +29,11 @@ page_sections:
   </div>
 </div>
 
+<style>
+  .container-fluid{
+    padding-left: 0px !important;
+  }
+</style>
 
 <!-- <div class="container">
   <div class="row" style="height: 100vh; width: 100vw; background-image: url(https://via.placeholder.com/1920x1080/eeeeee); background-size: cover; background-position: center center;">
