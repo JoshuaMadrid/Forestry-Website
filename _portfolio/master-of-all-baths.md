@@ -29,10 +29,10 @@ page_sections:
   </div>
   <div class="row">
     <div class="col-lg-12">
-       <img style="max-height:100vh; width: auto; height: 100%; margin: 0px auto;" src="https://via.placeholder.com/530x800/EEEEEE">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 0px auto; max-width: 530px; display: block;" src="https://via.placeholder.com/530x800/EEEEEE">
     </div>
     <div class="col-lg-12">
-       <img style="max-height:100vh; width: auto; height: 100%; margin: 0px auto;" src="https://via.placeholder.com/1200x800/EEEEEE">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 0px auto; max-width: 530px; display: block;" src="https://via.placeholder.com/1200x800/EEEEEE">
     </div>
   </div>
 </div>
