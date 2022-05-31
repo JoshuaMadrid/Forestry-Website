@@ -16,11 +16,14 @@ page_sections:
 
 ---
 <div class="limitedFull">
-<img class="backgroundEle" src="https://via.placeholder.com/1920x1080/2b2b2b">
+  <img class="backgroundEle" src="https://via.placeholder.com/1920x1080/2b2b2b">
+</div>
+<div class="col-lg-12">
 </div>
 
+
 <!-- <div class="container">
-  <div class="row" style="height: 100vh; width: 100vw; background-image: url(https://via.placeholder.com/1920x1080/2b2b2b); background-size: cover; background-position: center center;">
+  <div class="row" style="height: 100vh; width: 100vw; background-image: url(https://via.placeholder.com/1920x1080/eeeeee); background-size: cover; background-position: center center;">
     <div class="col-lg-12">
     </div>
   </div>
