@@ -41,7 +41,7 @@ page_sections:
   .container-fluid{
     padding-left: 0px !important;
   }
-  body{
+  .container-fluid{
     background-color: #ded9d3;
   }
 </style>
