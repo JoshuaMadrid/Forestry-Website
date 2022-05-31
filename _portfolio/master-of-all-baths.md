@@ -27,12 +27,12 @@ page_sections:
       <p>something</p>
     </div>
   </div>
-  <div class="row">
+  <div class="row" style="background-color: #ded9d3;">
     <div class="col-lg-12">
-       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block;" src="https://via.placeholder.com/530x800/EEEEEE">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://via.placeholder.com/530x800/EEEEEE">
     </div>
     <div class="col-lg-12">
-       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 1200px; display: block;" src="https://via.placeholder.com/1200x800/EEEEEE">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 1200px; display: block; background-color: #ded9d3;" src="https://via.placeholder.com/1200x800/EEEEEE">
     </div>
   </div>
 </div>
@@ -40,9 +40,6 @@ page_sections:
 <style>
   .container-fluid{
     padding-left: 0px !important;
-  }
-  .container-fluid{
-    background-color: #ded9d3;
   }
 </style>
 
