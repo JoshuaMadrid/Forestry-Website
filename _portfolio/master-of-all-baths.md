@@ -1,6 +1,6 @@
 ---
 title: Portfolio - Master of All Baths
-permalink: "/work/master-of-all-baths/"
+permalink: "/portfolio/master-of-all-baths/"
 date: '2016-03-23T11:48:41.000-04:00'
 layout: default
 page_sections:
