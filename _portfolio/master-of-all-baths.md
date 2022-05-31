@@ -18,12 +18,13 @@ page_sections:
 <div class="limitedFull">
   <img class="backgroundEle" src="https://via.placeholder.com/1920x1080/EEEEEE">
 </div>
-<div class="row">
-  <div style="height: 100vh; background-color: red;" class="offset-lg-8 col-lg-4">
+<div class="container">
+  <div class="row">
+    <div style="height: 100vh; background-color: red;" class="offset-lg-8 col-lg-4">
 
+    </div>
   </div>
 </div>
-
 
 
 <!-- <div class="container">
