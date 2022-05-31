@@ -21,7 +21,7 @@ page_sections:
 <div class="container-fluid" style="background-color: green;">
   <div class="row">
     <div style="height: 100vh; background-color: red;" class="offset-lg-8 col-lg-4">
-
+      <p>something</p>
     </div>
   </div>
 </div>
