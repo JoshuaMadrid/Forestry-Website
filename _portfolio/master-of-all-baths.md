@@ -20,7 +20,7 @@ page_sections:
 </div>
 <div class="container-fluid" style="background-color: green; padding: 0px;">
   <div class="row">
-    <div style="height: 100vh; background-color: red;" class="offset-lg-8 col-lg-4">
+    <div style="height: 100vh; background-color: red;" class="offset-lg-8 col-lg-4 offset-md-8 col-md-4">
       <p>something</p>
     </div>
   </div>
