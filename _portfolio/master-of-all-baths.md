@@ -21,10 +21,10 @@ page_sections:
 <div class="" style="padding: 0px;">
   <div class="row">
     <div style="" class="col-lg-8 col-md-8">
-       <img class="backgroundEle" src="https://via.placeholder.com/150x150/EEEEEE">
+       <img style="width: 150px; height: auto;" src="https://via.placeholder.com/150x150/EEEEEE">
     </div>
     <div style="height: 100vh;" class="col-lg-4 col-md-4">
-      <img class="backgroundEle" src="https://via.placeholder.com/150x150/EEEEEE">
+      <img style="width: 150px; height: auto;" src="https://via.placeholder.com/150x150/EEEEEE">
     </div>
   </div>
   <div class="row" style="background-color: #ded9d3;">
