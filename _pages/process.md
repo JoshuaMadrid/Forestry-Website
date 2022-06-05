@@ -37,7 +37,7 @@ content:
             </p>
     </div>
 </div>
-<div class="row" style="margin: 150px 0px 30px 0px; border-bottom: solid 1px #2b2b2b; padding-top: 20px;">
+<div class="row" style="margin: 150px 30px 15px 30px; border-bottom: solid 1px #2b2b2b; padding-top: 20px;">
     <div class="col-sm-6 col-lg-6">
         <p style="font-size: 50px; font-weight: normal;">Consultation</p>
     </div>
