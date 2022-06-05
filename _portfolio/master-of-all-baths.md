@@ -57,16 +57,7 @@ page_sections:
 
   </div>
 </div>
-<div class="row" style="background-color: #ded9d3; margin: 0px 0px 0px 0px;">
-  <div class="col-lg-2"></div>
-  <div class="col-lg-4">
-       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 1200px; display: block; background-color: #ded9d3;" src="https://via.placeholder.com/1200x800/EEEEEE">
-  </div>
-  <div class="col-lg-4">
-       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 1200px; display: block; background-color: #ded9d3;" src="https://via.placeholder.com/1200x800/EEEEEE">
-  </div>
-  <div class="col-lg-2"></div>
-</div>
+
 <!--  -->
 <div class="row" style="background-color: #ded9d3;">
   <div class="col-lg-2"></div>
@@ -77,6 +68,22 @@ page_sections:
        <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 1200px; display: block; background-color: #ded9d3;" src="https://via.placeholder.com/1200x800/EEEEEE">
   </div>
   <div class="col-lg-2"></div>
+</div>
+
+<!--  -->
+<div class="row" style="background-color: #ded9d3;">
+  <div class="col-lg-2"></div>
+  <div class="col-lg-4">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 1200px; display: block; background-color: #ded9d3;" src="https://via.placeholder.com/1200x800/EEEEEE">
+  </div>
+  <div class="col-lg-4">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 1200px; display: block; background-color: #ded9d3;" src="https://via.placeholder.com/1200x800/EEEEEE">
+  </div>
+  <div class="col-lg-2"></div>
+</div>
+
+<div class="row" style="background-color: #ded9d3; margin: 0px 0px 50px 0px;">
+  <div class="col-lg-12"></div>
 </div>
 
 <style>
