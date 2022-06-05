@@ -82,7 +82,7 @@ page_sections:
   <div class="col-lg-2"></div>
 </div>
 
-<div class="row" style=" padding: 0px; background-color: #ded9d3; margin: 0px 0px 0px 0px;">
+<div class="row" style="width: 100vw; padding: 0px; background-color: #ded9d3; margin: 0px 0px 0px 0px;">
   <div class="col-lg-12" style="height: 100px; padding: 0px; margin: 0px;"></div>
 </div>
 
