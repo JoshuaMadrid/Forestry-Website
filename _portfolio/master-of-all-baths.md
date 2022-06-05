@@ -83,7 +83,7 @@ page_sections:
 </div>
 
 <div class="row" style="background-color: #ded9d3; margin: 0px 0px 50px 0px;">
-  <div class="col-lg-12"></div>
+  <div class="col-lg-12" style="height: 100px;"></div>
 </div>
 
 <style>
