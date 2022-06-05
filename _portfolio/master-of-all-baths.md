@@ -17,7 +17,7 @@ page_sections:
 ---
 <div class="limitedFull">
   <img class="backgroundEle" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1521053010535-HWIP90UAGP9C2GWTK5ID/Dining1.jpg?format=2500ww">
-</div>
+</div> 
 <div class="" style="padding: 0px; " >
   <div class="row">
     <div style="height: 100vh;" class="col-lg-8 col-md-8">
