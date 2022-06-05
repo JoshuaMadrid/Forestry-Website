@@ -45,8 +45,9 @@ content:
         <p> <b>let's get to know each other</b><br>
             We begin every project by listening. We want to hear what your
             goals are; what you hope to achieve in doing this project and
-            what you expect to gain when it's complete.</p>
-            <p><br><br><span class="SeeMore">
+            what you expect to gain when it's complete.
+            </p>
+            <p><span class="SeeMore">
             To facilitate this conversation, we have developed an Initial
             Client Survey. This high-level set of questions gets you to state
             in your own words your Desired Outcomes, Project Priorities,
@@ -63,10 +64,10 @@ content:
         <p style="font-size: 50px; font-weight: normal;">Design</p>
     </div>
     <div class="col-sm-6 col-lg-5" style="font-size: 18px;">
-        <p><b>a discovery-based process</b><br>
-        This is the core of what we do: we imagine the possibilities, test the limits of constraint, and shape potential solutions. This phase has three distinct stages that result in a clear design direction that can be initially priced by a general contractor:<span class="parentPlus expand" style="position: absolute; right: 0px;"><a class="plusMin"></a></span>
-            <br><br>
-            <span class="SeeMore">
+            <p><b>a discovery-based process</b><br>
+            This is the core of what we do: we imagine the possibilities, test the limits of constraint, and shape potential solutions. This phase has three distinct stages that result in a clear design direction that can be initially priced by a general contractor:
+            </p>
+            <p><span class="SeeMore">
             <b>Measure and Model Existing Conditions</b>
             Before we do anything, it is critical to understand exactly what exists on the site today…even if nothing exists on the site today. We do this by taking in-person field measurements, photographs and (usually) obtaining a certified survey of the property. This information is then compiled with any existing owner-supplied drawing content as well as publicly available information (such as zoning or utility data) to create an accurate site plan of the property and 3D model of the project area. 
             <br><br>
@@ -92,8 +93,8 @@ content:
     <div class="col-sm-6 col-lg-5" style="font-size: 18px;">
         <p>
             <b>memorializing critical information</b><br>
-            The Construction Document stage shifts the effort from WHAT is being designed to documenting HOW the project will be implemented. Additional design issues may still emerge as the design team works out the final material and system selections; however, these issues are often minor and should not affect major architectural elements.
-            <span class="SeeMore">
+            The Construction Document stage shifts the effort from WHAT is being designed to documenting HOW the project will be implemented. Additional design issues may still emerge as the design team works out the final material and system selections; however, these issues are often minor and should not affect major architectural elements.</p>
+            <p><span class="SeeMore">
              The construction documents include three basic types of information: 1.) legal and contractual information, 2.) procedural and administrative information, and 3.) architectural and construction information. The latter are used to secure a construction permit from the governing authority at this time.
             <br><br>
             Clear, coordinated construction Documents communicate, in detail, to the owner what the project involves through drawings, specifications, bidding requirements, contract forms and supplementary conditions. This ensures a smooth construction process with as few unexpected complications as possible.
@@ -108,8 +109,8 @@ content:
     <div class="col-sm-6 col-lg-5" style="font-size: 18px;">
         <p>
             <b>preserving the design intent</b><br>
-            To the extent possible (or desired by the client) we remain involved in the project throughout construction. We observe the construction progress at regular intervals, photographing it for our records and troubleshooting real world issues as they arise. As the architects, we are the ultimate voice in interpretting the Construction Documents.<span class="parentPlus expand" style="position: absolute; right: 0px;"><a class="plusMin"></a></span>
-            <span class="SeeMore">
+            To the extent possible (or desired by the client) we remain involved in the project throughout construction. We observe the construction progress at regular intervals, photographing it for our records and troubleshooting real world issues as they arise. As the architects, we are the ultimate voice in interpretting the Construction Documents.</p>
+            <p><span class="SeeMore">
              If, for any reason, something is not clear or there is a discrepancy in the project, it is our job to weigh in and preserve the design intent as the project gets built.
             <br><br>
             The construction phase brings all the concept design, detailed design, construction documents, and intent into realization.
