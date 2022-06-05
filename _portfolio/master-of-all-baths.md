@@ -16,7 +16,7 @@ page_sections:
 
 ---
 <div class="limitedFull">
-  <img class="backgroundEle" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1521052934180-W1I20MJ8R771D8WDJ51E/Kitchen1.jpg?format=2500w">
+  <img class="backgroundEle" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1521053010535-HWIP90UAGP9C2GWTK5ID/Dining1.jpg?format=2500ww">
 </div>
 <div class="" style="padding: 0px;">
   <div class="row">
@@ -37,7 +37,7 @@ page_sections:
        <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 1200px; display: block; background-color: #ded9d3;" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1521053010535-HWIP90UAGP9C2GWTK5ID/Dining1.jpg?format=2500w">
     </div>
     <div class="col-lg-12">
-       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://via.placeholder.com/530x800/EEEEEE">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1521052934180-W1I20MJ8R771D8WDJ51E/Kitchen1.jpg?format=2500w">
     </div>
     <div class="col-lg-12">
        <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 1200px; display: block; background-color: #ded9d3;" src="https://via.placeholder.com/1200x800/EEEEEE">
