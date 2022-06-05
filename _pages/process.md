@@ -42,23 +42,25 @@ content:
         <p style="font-size: 50px; font-weight: normal;">Consultation</p>
     </div>
     <div class="col-sm-6 col-lg-5" style="font-size: 18px;">
-        <div class="col-lg-10" style="margin: 0px; padding: 0px">
-            <div>
-                <p><b>let's get to know each other</b><br>
-                We begin every project by listening. We want to hear what your
-                goals are; what you hope to achieve in doing this project and
-                what you expect to gain when it's complete.
-                </p>
-                <p><span class="SeeMore">
-                To facilitate this conversation, we have developed an Initial
-                Client Survey. This high-level set of questions gets you to state
-                in your own words your Desired Outcomes, Project Priorities,
-                Key Components, Design Aesthetic (if any), and any known
-                Design Constraints. It helps clients to sharpen their objectives
-                and it guides us during design. If after this phase, we are a
-                good fit for your project, then we are ready to dig in.
-                </span>
-                </p>
+        <div class="row">
+            <div class="col-lg-10" style="margin: 0px; padding: 0px">
+                <div>
+                    <p><b>let's get to know each other</b><br>
+                    We begin every project by listening. We want to hear what your
+                    goals are; what you hope to achieve in doing this project and
+                    what you expect to gain when it's complete.
+                    </p>
+                    <p><span class="SeeMore">
+                    To facilitate this conversation, we have developed an Initial
+                    Client Survey. This high-level set of questions gets you to state
+                    in your own words your Desired Outcomes, Project Priorities,
+                    Key Components, Design Aesthetic (if any), and any known
+                    Design Constraints. It helps clients to sharpen their objectives
+                    and it guides us during design. If after this phase, we are a
+                    good fit for your project, then we are ready to dig in.
+                    </span>
+                    </p>
+                </div>
             </div>
             <div class="col-lg-2">
                 <div class="parentPlustwo expand" style="float: right; display: inline-block"><a class="plusMintwo"></a></div>
