@@ -53,10 +53,10 @@ $( document ).ready(function() {
     document.querySelectorAll('.project').forEach((project) => {
       console.log(project);
       project.addEventListener("mouseover", function(){
-        project.children[0].children[0].style.visibility = "hidden";
+        project.children[0].children[0].style.display = "none";
       });
       project.addEventListener("mouseout", function(){
-        project.children[0].children[0].style.visibility = "visible";
+        project.children[0].children[0].style.display = "block";
       });
     });
 });
