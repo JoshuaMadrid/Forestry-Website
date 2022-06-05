@@ -47,6 +47,7 @@ content:
             goals are; what you hope to achieve in doing this project and
             what you expect to gain when it's complete.
             </p>
+            <div class="parentPlus expand" style="float: right; display: inline-block"><a class="plusMin"></a></div>
             <p><span class="SeeMore">
             To facilitate this conversation, we have developed an Initial
             Client Survey. This high-level set of questions gets you to state
