@@ -42,8 +42,22 @@ page_sections:
        <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1521052934180-W1I20MJ8R771D8WDJ51E/Kitchen1.jpg?format=2500w">
     </div>
     <div class="col-lg-12">
-       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 1200px; display: block; background-color: #ded9d3;" src="https://via.placeholder.com/1200x800/EEEEEE">
+      <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1521052991524-8OR1P6XFGI9XP25NHTXB/Kitchen2.jpg?format=2500w">
     </div>
+     <div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1521053013519-FE1OSN7J1IWHFOXDLCYZ/PowderRoom1.jpg?format=2500w">
+    </div>
+  <div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1532371859024-4I2NNFXFR2HAPGVF10M3/Diagrams2.gif?format=2500w">
+    </div>
+
+
+
+
+
+
+
+
   </div>
 </div>
 <div class="row" style="background-color: #ded9d3; margin: 50px 0px 0px 0px;">
