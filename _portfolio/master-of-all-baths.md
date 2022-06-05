@@ -25,7 +25,7 @@ page_sections:
        <p style="position: absolute; bottom: 0px; left: 30px; font-size: 45px; color: white;">Master of All Baths</p>
     </div>
     <div id="InfoShow" style="height: 100vh; position: relative;" class="col-lg-4 col-md-4">
-      <a href="https://clever-hugle-2c32c1.netlify.app/work/"><img style="width: 75px; height: auto; margin: 20px; float: right;" src="/assets/images/icons-02.svg"></a>
+      <a href="https://clever-hugle-2c32c1.netlify.app/work/"><img style="width: 75px; height: auto; margin: 20px; position: absolute; right: 0px;" src="/assets/images/icons-02.svg"></a>
       <img id="showInfo" style="width: 75px; height: auto; margin: 20px; position: absolute; bottom: 0px; right: 0px;" src="/assets/images/icons-01.svg">
     </div>
     <div id="InfoHidden" style="height: 100vh; position: relative; background-color: #ded9d3; display: none;" class="col-lg-4 col-md-4">

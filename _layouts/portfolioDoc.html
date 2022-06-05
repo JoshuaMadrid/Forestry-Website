@@ -24,6 +24,17 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
     <script>
+      document.querySelector('#showInfo').addEventListener("click", function(){
+        document.querySelector('#InfoHidden').style.display = "block";
+        document.querySelector('#InfoShow').style.display = "none";
+      });
+      document.querySelector('#HideInfo').addEventListener("click", function(){
+        document.querySelector('#InfoHidden').style.display = "none";
+        document.querySelector('#InfoShow').style.display = "block";
+      });
+    </script>
+    
+    <script>
       $( document ).ready(function() {
         $('.parentPlus').click(function(){
             console.log('this was clicked');
