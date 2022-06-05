@@ -438,6 +438,38 @@ body{
   margin-top: 0;
 }
 
+
+.plusMintwo:before {
+  position: absolute;
+  top: 23px;
+  right: 0;
+  content: "";
+  height: 2px;
+  width: 50px;
+  background-color: #2b2b2b;
+}
+.plusMintwo:after {
+  position: absolute;
+  top: 0px;
+  right: 23px;
+  content: "";
+  height: 50px;
+  width: 2px;
+  background-color: #2b2b2b;
+}
+.parentPlustwo{
+    height: 50px;
+    width: 50px;
+    top: -25px;
+    /* background-color: red; */
+}
+.parentPlustwo.expanded .plusMintwo:after{
+  height: 0px;
+  width: 0px;
+  margin-top: 0;
+}
+
+
 .hide {
     display: none;
 }

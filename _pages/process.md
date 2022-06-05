@@ -42,7 +42,7 @@ content:
         <p style="font-size: 50px; font-weight: normal;">Consultation</p>
     </div>
     <div class="col-sm-6 col-lg-5" style="font-size: 18px;">
-        <div class="col-lg-10">
+        <div class="col-lg-10" style="margin: 0px; padding: 0px">
             <div>
                 <p><b>let's get to know each other</b><br>
                 We begin every project by listening. We want to hear what your
@@ -61,7 +61,7 @@ content:
                 </p>
             </div>
             <div class="col-lg-2">
-                <div class="parentPlus expand" style="float: right; display: inline-block"><a class="plusMin"></a></div>
+                <div class="parentPlustwo expand" style="float: right; display: inline-block"><a class="plusMintwo"></a></div>
             </div>
         </div>
     </div>
