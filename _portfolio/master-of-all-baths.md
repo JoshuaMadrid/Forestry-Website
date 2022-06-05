@@ -16,7 +16,7 @@ page_sections:
 
 ---
 <div class="limitedFull">
-  <img class="backgroundEle" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1521053010535-HWIP90UAGP9C2GWTK5ID/Dining1.jpg?format=2500ww">
+  <img class="backgroundEle" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1528204994293-EK1BK4WMPNDSWY73IOYY/257+Merlin+Road4.jpg?format=2500w">
 </div> 
 <div class="" style="padding: 0px; " >
   <div class="row">
@@ -36,22 +36,19 @@ page_sections:
   </div>
   <div class="row" style="background-color: #ded9d3;">
     <div class="col-lg-12">
-       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1521052980272-N6JHPCMHCQQQOPK0ITV4/Hall1.jpg?format=2500w">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1528204995652-DF589L83NHFKGHL7AZNV/257+Merlin+Road6.jpg?format=2500w">
     </div>
     <div class="col-lg-12">
-       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 1200px; display: block; background-color: #ded9d3;" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1521053010535-HWIP90UAGP9C2GWTK5ID/Dining1.jpg?format=2500w">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 1200px; display: block; background-color: #ded9d3;" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1528204994293-EK1BK4WMPNDSWY73IOYY/257+Merlin+Road4.jpg?format=2500w">
     </div>
     <div class="col-lg-12">
-       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1521052934180-W1I20MJ8R771D8WDJ51E/Kitchen1.jpg?format=2500w">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1528205002292-DFCFBPBNL27LT1G9H6YC/257+Merlin+Road20.jpg?format=2500w">
     </div>
     <div class="col-lg-12">
-      <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1521052991524-8OR1P6XFGI9XP25NHTXB/Kitchen2.jpg?format=2500w">
+      <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1528204992888-0MEWGP6M0CNCAMUZWWLP/257+Merlin+Road5.jpg?format=2500w">
     </div>
      <div class="col-lg-12">
-       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1521053013519-FE1OSN7J1IWHFOXDLCYZ/PowderRoom1.jpg?format=2500w">
-    </div>
-    <div class="col-lg-12">
-        <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 1200px; display: block; background-color: #ded9d3;" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1532371859024-4I2NNFXFR2HAPGVF10M3/Diagrams2.gif?format=2500w">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1528310722901-9DOJR3RS4GTAY3DFA74L/MichenerBathroom.gif?format=2500w">
     </div>
     <div class="row" style="background-color: #ded9d3; margin: 0px 0px 50px 0px;">
       <div class="col-lg-12"></div>
