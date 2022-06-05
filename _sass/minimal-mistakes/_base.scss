@@ -479,15 +479,15 @@ body{
   display: none;
 }
 a{
-  color: black;
+  color: black !important;
 }
 a:active{
-  color: #2b2b2b;
+  color: #2b2b2b !important;
 }
 a:visited{
-  color: #2b2b2b;
+  color: #2b2b2b !important;
 }
 a:hover{
-  color: #2b2b2b;
+  color: #2b2b2b !important;
 }
 
