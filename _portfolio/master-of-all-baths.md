@@ -16,7 +16,7 @@ page_sections:
 
 ---
 <div class="limitedFull">
-  <img class="backgroundEle" src="https://via.placeholder.com/1920x1080/EEEEEE">
+  <img class="backgroundEle" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1521052934180-W1I20MJ8R771D8WDJ51E/Kitchen1.jpg?format=2500w">
 </div>
 <div class="" style="padding: 0px;">
   <div class="row">
@@ -24,15 +24,17 @@ page_sections:
        <img style="width: 150px; height: auto;" src="https://via.placeholder.com/150x150/2b2b2b">
     </div>
     <div style="height: 100vh;" class="col-lg-4 col-md-4">
-      <img style="width: 150px; height: auto;" src="https://via.placeholder.com/150x150/2b2b2b">
+      <img style="width: 150px; height: auto; float: right;" src="https://via.placeholder.com/150x150/2b2b2b">
+      <p>WALDO HOME</p>
+      <p>When the we first walked into this house a few things struck us. First, were the large windows and ample natural light. Second, were the high ceilings. Third, was the third floor, a finished space with beautiful pine floors. It hadn't been updated in 40 years and didn't have air conditioning, but we were convinced that with a lot of love, and a lot of retro fitting, we could make this an ideal family home. There were a few key factors in making that happen. We rearranged the kitchen and blew out the dining room wall to create connectivity on the 1st floor. We rearranged the walls on the 2nd floor to insert a second full bath and create and en suite master bathroom. We delicately inserted a new HVAC system in without losing any habitable space in the house. Now this home has all the charm of a 100 year old house with all of the amenities that a 21st century family requires.</p>
     </div>
   </div>
   <div class="row" style="background-color: #ded9d3;">
     <div class="col-lg-12">
-       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://via.placeholder.com/530x800/EEEEEE">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1521052980272-N6JHPCMHCQQQOPK0ITV4/Hall1.jpg?format=2500w">
     </div>
     <div class="col-lg-12">
-       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 1200px; display: block; background-color: #ded9d3;" src="https://via.placeholder.com/1200x800/EEEEEE">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 1200px; display: block; background-color: #ded9d3;" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1521053010535-HWIP90UAGP9C2GWTK5ID/Dining1.jpg?format=2500w">
     </div>
     <div class="col-lg-12">
        <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://via.placeholder.com/530x800/EEEEEE">
