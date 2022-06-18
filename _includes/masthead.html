@@ -1,14 +1,24 @@
 {% capture logo_path %}{{ site.logo }}{% endcapture %}
 
-
-<div class="row" style="margin: 40px 30px 0px 30px;">
+<div class="mobileButton"></div>
+<div class="mobileNav">
+  <nav class="mainNav dark">
+    <ul>
+        {%- for link in site.data.navigation.main -%}
+        <li class="masthead__menu-item">
+          <a style="font-family: 'Montserrat Alternates', sans-serif !important;" href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
+        </li>
+        {%- endfor -%}
+    </ul>
+  </nav>
+</div>
+<div class="row hide1000" style="margin: 40px 30px 0px 30px;">
   <div class="col-sm-3 col-lg-3">
       <a href="{{ '/' | relative_url }}" style="text-decoration: none;">
         <h1 class="logo dark">lo design</h1>
       </a>
   </div>
   <div class="col-sm-9 col-lg-9">
-      <div class="mobileButton"></div>
       <nav class="mainNav dark">
           <ul>
               {%- for link in site.data.navigation.main -%}
