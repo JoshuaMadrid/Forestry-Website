@@ -150,3 +150,10 @@ $( document ).ready(function() {
   console.log( "ready!" );
 });
 
+document.querySelector('.mobileButton').addEventListener('click', function(){
+  if(document.querySelector('.mobileNav').classList.contains('active')){
+    document.querySelector('.mobileNav').classList.remove('active')
+  } else{
+    document.querySelector('.mobileNav').classList.add('active')
+  }
+})
