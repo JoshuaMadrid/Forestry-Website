@@ -40,14 +40,41 @@ www.olivemediakc.com</p>
     </div>
   </div>
   <div class="row" style="background-color: #ded9d3;">
-    <div class="col-lg-12">
-       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1528204995652-DF589L83NHFKGHL7AZNV/257+Merlin+Road6.jpg?format=2500w">
+    
+
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="/assets/images/summit-grill-gladstone20190918-dscf0869-lr.jpeg">
+    </div>
+<div clas="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="/assets/images/summit-grill-gladstone20190918-dscf0882-998.jpeg">
+    </div>
+<div clas="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="/assets/images/summit-grill-gladstone20190918-dscf0896-lr.jpeg">
+    </div>
+<div clas="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="/assets/images/summit-grill-gladstone20190918-dscf0983-lr.jpeg">
+    </div>
+<div clas="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="/assets/images/summit-grill-gladstone20190918-dscf1003-lr.jpeg">
+    </div>
+<div clas="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="/assets/images/summit-grill-gladstone20190918-dscf1041-lr.jpeg">
+    </div>
+<div clas="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="/assets/images/summit-grill-gladstone20190918-dscf1125-lr.jpeg">
+    </div>
+<div clas="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="/assets/images/summit-grill-gladstone20190918-dscf1136-lr.jpeg">
+    </div>
+<div clas="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="/assets/images/summit-grill-gladstone20190918-dscf1146-1099.jpeg">
+    </div>
+<div clas="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="/assets/images/summit-grill-gladstonepdr-gif.gif">
     </div>
     <div class="row" style="background-color: #ded9d3; margin: 0px 0px 50px 0px;">
       <div class="col-lg-12"></div>
     </div>
-
-
   </div>
 </div>
 
