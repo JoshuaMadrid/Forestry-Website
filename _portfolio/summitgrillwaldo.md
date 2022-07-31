@@ -16,12 +16,12 @@ page_sections:
 
 ---
 <div class="limitedFull">
-  <img class="backgroundEle" src="/assets/images/summitgrillwaldo20180412-summit-0320_hr.jpeg">
+  <img class="backgroundEle" src="https://clever-hugle-2c32c1.netlify.app/assets/images/summitgrillwaldo20180412-summit-0360_hr.jpeg">
 </div> 
 <div class="" style="padding: 0px; " >
   <div class="row">
     <div style="height: 100vh;" class="col-lg-8 col-md-8">
-       <img style="width: 75px; height: auto; margin: 20px;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/summitgrillwaldo20180412-summit-0360_hr.jpeg">
+       <img style="width: 75px; height: auto; margin: 20px;" src="/assets/images/icons-04.svg">
        <p style="position: absolute; bottom: 0px; left: 30px; font-size: 45px; color: white;">SUMMIT GRILL WALDO</p>
     </div>
     <div id="InfoShow" style="height: 100vh; position: relative;" class="col-lg-4 col-md-4">
