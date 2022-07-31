@@ -536,7 +536,7 @@ a:hover{
 }
 @media (max-width: 1100px) {
   .mobileFix{
-    margin-top: 100px;
+    margin-top: 100px !important;
   }
   .mobileButton{
       content: "";
