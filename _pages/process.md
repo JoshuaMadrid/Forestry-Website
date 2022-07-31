@@ -37,9 +37,9 @@ content:
             </p>
     </div>
 </div>
-<div class="row" style="margin: 150px 30px 15px 30px; border-bottom: solid 1px #2b2b2b; padding-top: 20px;">
+<div class="row" style="margin: 135px 30px 15px 30px; border-bottom: solid 1px #2b2b2b; padding-top: 20px;">
     <div class="col-sm-6 col-lg-6">
-        <p style="font-size: 50px; font-weight: normal;">Consultation</p>
+        <p style="font-size: 35px; font-weight: normal;">Consultation</p>
     </div>
     <div class="col-sm-6 col-lg-5" style="font-size: 18px;">
         <div class="row">
@@ -70,7 +70,7 @@ content:
 </div>
 <div class="row" style="margin: 15px 30px; border-bottom: solid 1px #2b2b2b; padding-top: 20px;">
     <div class="col-sm-6 col-lg-6">
-        <p style="font-size: 50px; font-weight: normal;">Design</p>
+        <p style="font-size: 35px; font-weight: normal;">Design</p>
     </div>
     <div class="col-sm-6 col-lg-5" style="font-size: 18px;">
             <p><b>a discovery-based process</b><br>
@@ -97,7 +97,7 @@ content:
 </div>
 <div class="row" style="margin: 15px 30px; border-bottom: solid 1px #2b2b2b; padding-top: 20px;">
     <div class="col-sm-6 col-lg-6">
-        <p style="font-size: 50px; font-weight: normal;">Documentation</p>
+        <p style="font-size: 35px; font-weight: normal;">Documentation</p>
     </div>
     <div class="col-sm-6 col-lg-5" style="font-size: 18px;">
         <p>
@@ -113,7 +113,7 @@ content:
 </div>
 <div class="row" style="margin: 15px 30px; border-bottom: solid 1px #2b2b2b; padding-top: 20px;">
     <div class="col-sm-6 col-lg-6">
-        <p style="font-size: 50px; font-weight: normal;">Construction Documents</p>
+        <p style="font-size: 35px; font-weight: normal;">Construction Documents</p>
     </div>
     <div class="col-sm-6 col-lg-5" style="font-size: 18px;">
         <p>

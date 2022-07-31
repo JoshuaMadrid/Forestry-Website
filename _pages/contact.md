@@ -18,9 +18,9 @@ last_modified_at:
         <p style="font-size: 50px; font-weight: normal; line-height: 0.5em;">laura@lodesign.us</p>
         <p>Click to Copy</p>
         <br>
-        <p style="font-size: 50px; font-weight: normal;">816.527.5424</p>
+        <p style="font-size: 35px; font-weight: normal;">816.527.5424</p>
         <br>
-        <p style="font-size: 50px; font-weight: normal;">7327 Summit Street<br> Kansas City, mo 64114</p>
+        <p style="font-size: 35px; font-weight: normal;">7327 Summit Street<br> Kansas City, mo 64114</p>
     </div>
     <div class="col-sm-6 col-lg-6" style="font-size: 25px;">
         <p>
