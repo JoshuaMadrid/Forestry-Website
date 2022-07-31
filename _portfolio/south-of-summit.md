@@ -16,7 +16,7 @@ page_sections:
 
 ---
 <div class="limitedFull">
-  <img class="backgroundEle" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1528204994293-EK1BK4WMPNDSWY73IOYY/257+Merlin+Road4.jpg?format=2500w">
+  <img class="backgroundEle" src="https://clever-hugle-2c32c1.netlify.app/assets/images/south-of-summitex8b1192.jpeg">
 </div> 
 <div class="" style="padding: 0px; " >
   <div class="row">
