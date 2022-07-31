@@ -22,7 +22,7 @@ page_sections:
   <div class="row">
     <div style="height: 100vh;" class="col-lg-8 col-md-8">
        <img style="width: 75px; height: auto; margin: 20px;" src="/assets/images/icons-04.svg">
-       <p style="position: absolute; bottom: 0px; left: 30px; font-size: 45px; color: white;">MASTER OF ALL BATHS</p>
+       <p style="position: absolute; bottom: 0px; left: 30px; font-size: 45px; color: white;">SUMMIT GRILL WALDO</p>
     </div>
     <div id="InfoShow" style="height: 100vh; position: relative;" class="col-lg-4 col-md-4">
       <a href="https://clever-hugle-2c32c1.netlify.app/work/"><img style="width: 75px; height: auto; margin: 20px; position: absolute; right: 0px;" src="/assets/images/icons-02.svg"></a>
@@ -31,7 +31,12 @@ page_sections:
     <div id="InfoHidden" style="height: 100vh; position: relative; background-color: #ded9d3; display: none;" class="col-lg-4 col-md-4">
       <img id="HideInfo" style="width: 75px; height: auto; margin: 20px; float: right;" src="/assets/images/icons-03.svg">
       <div class="clearfix"> </div>
-      <p style="font-size: 18px; padding: 20px;">The original master bathroom in this suburban home suffered from a rampant trend from the 90’s, the gigantic spa tub. So while there was plenty of light and space, there was also a tiny shower and vanity. We revamped the space by partitioning the room into two sides to create a shower sanctuary and a toilette area. The toilette area is warm and bright with ample storage for toiletries, linens and laundry. One can walk right into the zero entry shower and have a quiet calm experience with sunlight streaming in from the skylight.</p>
+      <p style="font-size: 18px; padding: 20px;">
+        Summit Grill is a staple in the Waldo neighborhood of Kansas City. When they moved down the street to expand into the former 75th Street Brewery, we completely overhauled the building to give it new life. We demolished almost the entire interior of the space in order to get a clean slate. The restaurant has two identities that complement one another, the bright, lively bar and the moodier, cozy dining room. We exposed and replaced the existing windows, inserting sliders to connect the bar to the outdoors and the neighborhood. The monumental steel and glass back bar shelving create a vibrant display for the expansive collection of liquor and wine. Photographs of the neighborhood and an abstracted map of Kansas City's topography infuse local identity into the space. The details come together to create a refined but casual environment.
+<br><br>
+Photo Credit: Jake Famer <br>
+www.olivemediakc.com <br>
+      </p>
     </div>
   </div>
   <div class="row" style="background-color: #ded9d3;">

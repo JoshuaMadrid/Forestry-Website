@@ -22,7 +22,7 @@ page_sections:
   <div class="row">
     <div style="height: 100vh;" class="col-lg-8 col-md-8">
        <img style="width: 75px; height: auto; margin: 20px;" src="/assets/images/icons-04.svg">
-       <p style="position: absolute; bottom: 0px; left: 30px; font-size: 45px; color: white;">MASTER OF ALL BATHS</p>
+       <p style="position: absolute; bottom: 0px; left: 30px; font-size: 45px; color: white;">Master of All Baths</p>
     </div>
     <div id="InfoShow" style="height: 100vh; position: relative;" class="col-lg-4 col-md-4">
       <a href="https://clever-hugle-2c32c1.netlify.app/work/"><img style="width: 75px; height: auto; margin: 20px; position: absolute; right: 0px;" src="/assets/images/icons-02.svg"></a>
@@ -31,7 +31,7 @@ page_sections:
     <div id="InfoHidden" style="height: 100vh; position: relative; background-color: #ded9d3; display: none;" class="col-lg-4 col-md-4">
       <img id="HideInfo" style="width: 75px; height: auto; margin: 20px; float: right;" src="/assets/images/icons-03.svg">
       <div class="clearfix"> </div>
-      <p style="font-size: 18px; padding: 20px;">The original master bathroom in this suburban home suffered from a rampant trend from the 90’s, the gigantic spa tub. So while there was plenty of light and space, there was also a tiny shower and vanity. We revamped the space by partitioning the room into two sides to create a shower sanctuary and a toilette area. The toilette area is warm and bright with ample storage for toiletries, linens and laundry. One can walk right into the zero entry shower and have a quiet calm experience with sunlight streaming in from the skylight.</p>
+      <p style="font-size: 18px; padding: 20px;">When the we first walked into this house a few things struck us. First, were the large windows and ample natural light. Second, were the high ceilings. Third, was the third floor, a finished space with beautiful pine floors. It hadn't been updated in 40 years and didn't have air conditioning, but we were convinced that with a lot of love, and a lot of retro fitting, we could make this an ideal family home. There were a few key factors in making that happen. We rearranged the kitchen and blew out the dining room wall to create connectivity on the 1st floor. We rearranged the walls on the 2nd floor to insert a second full bath and create and en suite master bathroom. We delicately inserted a new HVAC system in without losing any habitable space in the house. Now this home has all the charm of a 100 year old house with all of the amenities that a 21st century family requires.</p>
     </div>
   </div>
   <div class="row" style="background-color: #ded9d3;">

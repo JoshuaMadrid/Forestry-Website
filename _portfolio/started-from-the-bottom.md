@@ -22,7 +22,7 @@ page_sections:
   <div class="row">
     <div style="height: 100vh;" class="col-lg-8 col-md-8">
        <img style="width: 75px; height: auto; margin: 20px;" src="/assets/images/icons-04.svg">
-       <p style="position: absolute; bottom: 0px; left: 30px; font-size: 45px; color: white;">MASTER OF ALL BATHS</p>
+       <p style="position: absolute; bottom: 0px; left: 30px; font-size: 45px; color: white;">STARTED FROM THE BOTTOM...</p>
     </div>
     <div id="InfoShow" style="height: 100vh; position: relative;" class="col-lg-4 col-md-4">
       <a href="https://clever-hugle-2c32c1.netlify.app/work/"><img style="width: 75px; height: auto; margin: 20px; position: absolute; right: 0px;" src="/assets/images/icons-02.svg"></a>
@@ -31,7 +31,22 @@ page_sections:
     <div id="InfoHidden" style="height: 100vh; position: relative; background-color: #ded9d3; display: none;" class="col-lg-4 col-md-4">
       <img id="HideInfo" style="width: 75px; height: auto; margin: 20px; float: right;" src="/assets/images/icons-03.svg">
       <div class="clearfix"> </div>
-      <p style="font-size: 18px; padding: 20px;">The original master bathroom in this suburban home suffered from a rampant trend from the 90’s, the gigantic spa tub. So while there was plenty of light and space, there was also a tiny shower and vanity. We revamped the space by partitioning the room into two sides to create a shower sanctuary and a toilette area. The toilette area is warm and bright with ample storage for toiletries, linens and laundry. One can walk right into the zero entry shower and have a quiet calm experience with sunlight streaming in from the skylight.</p>
+      <p style="font-size: 18px; padding: 20px;">The challenge in this house was to create usable, enjoyable, character-rich rooms out of leftover, unfinished spaces. 
+<br><br>
+It started in the bottom with a classic Brookside tuck-under garage. Thick foundation walls, generous head height to structure, and existing plumbing runs all made for a space with a lot of potential. By taking advantage of the limited existing windows and dramatic natural light, the design creates a sophisticated and swanky lounge-like living room complete with a full wet bar, powder room, and card table/game area. The result is a elegant hang out space with the feel of an exclusive speak-easy.
+<br><br>
+Adjacent to the lounge is a mud room, dog wash, and catch-all drop zone for belongings. Custom walnut cubbies provide ample storage for bookbags and school gear while a hidden space under the stair is outfitted with a cozy and comfortable kennel for the family’s two little doggies. The kennel is softly lit from inside with a concealed light switch in the framing.
+<br><br>
+At the very opposite end of the house, existing attic space was reconceived as a suite of rooms for the children as they grow. By adding a couple modest, well-placed dormers to the roofline and taking advantage of every possible inch of head height, the third floor became a playful children-only area. Beneath the sloping ceilings of the dormers are two extra bedrooms, a full bathroom between them, and a quirky, playful reading nook at the top of the stairs. 
+<br><br>
+If the basement is about sophistication and style, these spaces are all about the light!
+<br>
+ARCHITECT: Lo Design
+<br>
+BUILDER: Remodel Moore
+<br>
+INTERIOR DECORATOR: Shop Jorgy<br>
+PHOTOGRAPHY: Impressive Spaces Photography</p>
     </div>
   </div>
   <div class="row" style="background-color: #ded9d3;">

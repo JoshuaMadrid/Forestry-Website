@@ -22,7 +22,7 @@ page_sections:
   <div class="row">
     <div style="height: 100vh;" class="col-lg-8 col-md-8">
        <img style="width: 75px; height: auto; margin: 20px;" src="/assets/images/icons-04.svg">
-       <p style="position: absolute; bottom: 0px; left: 30px; font-size: 45px; color: white;">MASTER OF ALL BATHS</p>
+       <p style="position: absolute; bottom: 0px; left: 30px; font-size: 45px; color: white;">HANOVER HOUSE</p>
     </div>
     <div id="InfoShow" style="height: 100vh; position: relative;" class="col-lg-4 col-md-4">
       <a href="https://clever-hugle-2c32c1.netlify.app/work/"><img style="width: 75px; height: auto; margin: 20px; position: absolute; right: 0px;" src="/assets/images/icons-02.svg"></a>
@@ -31,7 +31,19 @@ page_sections:
     <div id="InfoHidden" style="height: 100vh; position: relative; background-color: #ded9d3; display: none;" class="col-lg-4 col-md-4">
       <img id="HideInfo" style="width: 75px; height: auto; margin: 20px; float: right;" src="/assets/images/icons-03.svg">
       <div class="clearfix"> </div>
-      <p style="font-size: 18px; padding: 20px;">The original master bathroom in this suburban home suffered from a rampant trend from the 90’s, the gigantic spa tub. So while there was plenty of light and space, there was also a tiny shower and vanity. We revamped the space by partitioning the room into two sides to create a shower sanctuary and a toilette area. The toilette area is warm and bright with ample storage for toiletries, linens and laundry. One can walk right into the zero entry shower and have a quiet calm experience with sunlight streaming in from the skylight.</p>
+      <p style="font-size: 18px; padding: 20px;">The Hanover House is an addition to a 19th century residence set on steep topography above the Connecticut River. Like an echo, the addition creates a call and response with the original house as it steps back and up the hill….fading into the woods.
+<br><br>
+The goal of this project was to create a new master bedroom suite for the homeowners with elevated views into and over the spectacular New England tree tops. Additionally, this music-loving family wanted a precious place—a private place—in which to enjoy  listening to music, practicing instruments, or simply enjoying a bit of silence. 
+<br><br>
+In response, the uppermost room performs like a Solarium for Sound. It provides an intentionally sparse, but incredibly light-filled conservatory that is tailored to the owners’ unique interests. Opposing walls of glass with fully operable windows let in light and draw in air as well as the peaceful sounds of wind rolling through the tree tops.
+<br><br>
+Below the addition is a cozy outdoor living room, open on two sides to allow passage from one side yard to the other. Wood-burning fires are a near constant at this house, so the cast-in-place concrete walls stay lined with seasoned logs, year round. 
+<br><br>
+Photo Credit: Matthew Frates Photography
+<br>
+www.mattfratesphoto.com/
+
+</p>
     </div>
   </div>
   <div class="row" style="background-color: #ded9d3;">

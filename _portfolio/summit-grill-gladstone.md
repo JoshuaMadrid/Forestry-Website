@@ -22,7 +22,7 @@ page_sections:
   <div class="row">
     <div style="height: 100vh;" class="col-lg-8 col-md-8">
        <img style="width: 75px; height: auto; margin: 20px;" src="/assets/images/icons-04.svg">
-       <p style="position: absolute; bottom: 0px; left: 30px; font-size: 45px; color: white;">MASTER OF ALL BATHS</p>
+       <p style="position: absolute; bottom: 0px; left: 30px; font-size: 45px; color: white;">SUMMIT GRILL GLADSTONE</p>
     </div>
     <div id="InfoShow" style="height: 100vh; position: relative;" class="col-lg-4 col-md-4">
       <a href="https://clever-hugle-2c32c1.netlify.app/work/"><img style="width: 75px; height: auto; margin: 20px; position: absolute; right: 0px;" src="/assets/images/icons-02.svg"></a>
@@ -31,7 +31,12 @@ page_sections:
     <div id="InfoHidden" style="height: 100vh; position: relative; background-color: #ded9d3; display: none;" class="col-lg-4 col-md-4">
       <img id="HideInfo" style="width: 75px; height: auto; margin: 20px; float: right;" src="/assets/images/icons-03.svg">
       <div class="clearfix"> </div>
-      <p style="font-size: 18px; padding: 20px;">The original master bathroom in this suburban home suffered from a rampant trend from the 90’s, the gigantic spa tub. So while there was plenty of light and space, there was also a tiny shower and vanity. We revamped the space by partitioning the room into two sides to create a shower sanctuary and a toilette area. The toilette area is warm and bright with ample storage for toiletries, linens and laundry. One can walk right into the zero entry shower and have a quiet calm experience with sunlight streaming in from the skylight.</p>
+      <p style="font-size: 18px; padding: 20px;">When the owners of Summit Grill approached us to design a new location, we knew it was a chance to take everything we loved about the renovated Waldo location and elevate the design to the next level. The interior is crisp but warm, plush but durable. <br><br>
+The bar area is lively and grand with a graphic mosaic floor. The dining rooms are cozy and intimate with lush drapery and textured walls. Large sliding doors provide privacy for the private dining room which is complete with a full bar of its own.
+<br>
+Photo Credit: Jake Farmer
+<br>
+www.olivemediakc.com</p>
     </div>
   </div>
   <div class="row" style="background-color: #ded9d3;">
