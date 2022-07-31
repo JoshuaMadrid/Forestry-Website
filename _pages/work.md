@@ -36,7 +36,7 @@ page_sections:
 
 ---
 <!-- --include feature_row-- -->
-<div class="row mobileFix" style="margin: 15px 30px; display: flex;">
+<div class="row mobileFix" style="margin: 15px 30px; display: flex; flex-wrap: wrap;">
 {% for block in page.page_sections %}
     {% assign template = block.template %}
     {% case template %}
