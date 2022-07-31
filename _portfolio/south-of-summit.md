@@ -1,5 +1,5 @@
 ---
-title: Portfolio - Master of All Baths
+title: Portfolio - SOUTH OF SUMMIT
 permalink: "/portfolio/south-of-summit/"
 date: '2016-03-23T11:48:41.000-04:00'
 layout: portfolioDoc

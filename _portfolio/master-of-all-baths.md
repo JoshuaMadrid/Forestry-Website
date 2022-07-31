@@ -1,5 +1,5 @@
 ---
-title: Portfolio - Master of All Baths
+title: Portfolio - MASTER OF ALL BATHS
 permalink: "/portfolio/master-of-all-baths/"
 date: '2016-03-23T11:48:41.000-04:00'
 layout: portfolioDoc

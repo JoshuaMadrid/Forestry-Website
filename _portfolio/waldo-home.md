@@ -1,5 +1,5 @@
 ---
-title: Portfolio - Master of All Baths
+title: Portfolio - WALDO HOME
 permalink: "/portfolio/waldo-home/"
 date: '2016-03-23T11:48:41.000-04:00'
 layout: portfolioDoc
