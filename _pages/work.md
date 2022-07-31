@@ -36,7 +36,7 @@ page_sections:
 
 ---
 <!-- --include feature_row-- -->
-<div class="row" style="margin: 15px 30px;">
+<div class="row mobileFix" style="margin: 15px 30px;">
 {% for block in page.page_sections %}
     {% assign template = block.template %}
     {% case template %}
@@ -55,7 +55,7 @@ $( document ).ready(function() {
       project.addEventListener("mouseover", function(){
         project.children[0].children[0].style.display = "none";
       });
-      project.addEventListener("mouseout", function(){
+      project.addEventListener("mouseleave", function(){
         project.children[0].children[0].style.display = "block";
       });
     });
