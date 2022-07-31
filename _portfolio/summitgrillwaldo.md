@@ -16,7 +16,7 @@ page_sections:
 
 ---
 <div class="limitedFull">
-  <img class="backgroundEle" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1528204994293-EK1BK4WMPNDSWY73IOYY/257+Merlin+Road4.jpg?format=2500w">
+  <img class="backgroundEle" src="/assets/images/summitgrillwaldo20180412-summit-0320_hr.jpeg">
 </div> 
 <div class="" style="padding: 0px; " >
   <div class="row">
@@ -40,8 +40,80 @@ www.olivemediakc.com <br>
     </div>
   </div>
   <div class="row" style="background-color: #ded9d3;">
-    <div class="col-lg-12">
-       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1528204995652-DF589L83NHFKGHL7AZNV/257+Merlin+Road6.jpg?format=2500w">
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="/assets/images/summitgrillwaldo20180409-summit-0157-edit_hr.jpeg">
+    </div>
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="/assets/images/summitgrillwaldo20180409-summit-0189-edit_hr.jpeg">
+    </div>
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="/assets/images/summitgrillwaldo20180409-summit-0201_hr.jpeg">
+    </div>
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="/assets/images/summitgrillwaldo20180409-summit-0210_hr.jpeg">
+    </div>
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="/assets/images/summitgrillwaldo20180412-summit-0230-edit_hr.jpeg">
+    </div>
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="/assets/images/summitgrillwaldo20180412-summit-0259_hr.jpeg">
+    </div>
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="/assets/images/summitgrillwaldo20180412-summit-0273_hr.jpeg">
+    </div>
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="/assets/images/summitgrillwaldo20180412-summit-0283_hr.jpeg">
+    </div>
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="/assets/images/summitgrillwaldo20180412-summit-0285-edit_hr.jpeg">
+    </div>
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="/assets/images/summitgrillwaldo20180412-summit-0293_hr.jpeg">
+    </div>
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="/assets/images/summitgrillwaldo20180412-summit-0320_hr.jpeg">
+    </div>
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="/assets/images/summitgrillwaldo20180412-summit-0358_hr.jpeg">
+    </div>
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="/assets/images/summitgrillwaldo20180412-summit-0360_hr.jpeg">
+    </div>
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="/assets/images/summitgrillwaldo20180412-summit-0380-edit_hr.jpeg">
+    </div>
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="/assets/images/summitgrillwaldo20180412-summit-0383_hr.jpeg">
+    </div>
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="/assets/images/summitgrillwaldo20190918-dscf0869-lr.jpeg">
+    </div>
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="/assets/images/summitgrillwaldo20190918-dscf0882-998.jpeg">
+    </div>
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="/assets/images/summitgrillwaldo20190918-dscf0896-lr.jpeg">
+    </div>
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="/assets/images/summitgrillwaldo20190918-dscf0983-lr.jpeg">
+    </div>
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="/assets/images/summitgrillwaldo20190918-dscf1003-lr.jpeg">
+    </div>
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="/assets/images/summitgrillwaldo20190918-dscf1041-lr.jpeg">
+    </div>
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="/assets/images/summitgrillwaldo20190918-dscf1125-lr.jpeg">
+    </div>
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="/assets/images/summitgrillwaldo20190918-dscf1136-lr.jpeg">
+    </div>
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="/assets/images/summitgrillwaldo20190918-dscf1146-1099.jpeg">
+    </div>
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="/assets/images/summitgrillwaldopdr-gif.gif">
     </div>
     <div class="row" style="background-color: #ded9d3; margin: 0px 0px 50px 0px;">
       <div class="col-lg-12"></div>
