@@ -35,28 +35,6 @@ page_sections:
     </div>
   </div>
 
-<!-- 
-
-
-https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiadetail.jpeg
-https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiadetail2.jpeg
-https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiadoors.jpeg
-https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiahallbath.jpeg
-https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiaimg_2775.jpeg
-https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiaimg_2829.jpeg
-https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiaimg_2839.jpeg
-https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiaimg_2854.jpeg
-https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiaimg_2881.jpeg
-https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiaimg_2896.jpeg
-https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiaimg_2909.jpeg
-https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiaimg_2940.jpeg
-https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiaimg_2990.jpeg
-https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiaimg_20140617_0029.jpeg
-https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiaimg_20140617_0030.jpeg
-https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiaohowells.gif
-https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiashower-sketch.jpeg
- -->
-
   <div class="row" style="background-color: #ded9d3;">
     <div class="col-lg-12">
        <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1528204995652-DF589L83NHFKGHL7AZNV/257+Merlin+Road6.jpg?format=2500w">

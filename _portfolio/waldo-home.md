@@ -35,20 +35,48 @@ page_sections:
     </div>
   </div>
   <div class="row" style="background-color: #ded9d3;">
-    <div class="col-lg-12">
-       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1528204995652-DF589L83NHFKGHL7AZNV/257+Merlin+Road6.jpg?format=2500w">
+    
+ <div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/waldo-home5.jpeg">
     </div>
-    <div class="col-lg-12">
-       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 1200px; display: block; background-color: #ded9d3;" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1528204994293-EK1BK4WMPNDSWY73IOYY/257+Merlin+Road4.jpg?format=2500w">
+ <div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/waldo-homebed-3.jpeg">
     </div>
-    <div class="col-lg-12">
-       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1528205002292-DFCFBPBNL27LT1G9H6YC/257+Merlin+Road20.jpg?format=2500w">
+ <div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/waldo-homebed-mantel-1.jpeg">
     </div>
-    <div class="col-lg-12">
-      <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1528204992888-0MEWGP6M0CNCAMUZWWLP/257+Merlin+Road5.jpg?format=2500w">
+ <div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/waldo-homediagrams1.gif">
     </div>
-     <div class="col-lg-12">
-       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1528310722901-9DOJR3RS4GTAY3DFA74L/MichenerBathroom.gif?format=2500w">
+ <div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/waldo-homediagrams2.gif">
+    </div>
+ <div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/waldo-homediagrams3.gif">
+    </div>
+ <div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/waldo-homedining1.jpeg">
+    </div>
+ <div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/waldo-homedsc_0180.jpeg">
+    </div>
+ <div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/waldo-homeguest-bath-1.jpeg">
+    </div>
+ <div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/waldo-homehall1.jpeg">
+    </div>
+ <div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/waldo-homekitchen1.jpeg">
+    </div>
+ <div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/waldo-homekitchen2.jpeg">
+    </div>
+ <div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/waldo-homeplayroom2.jpeg">
+    </div>
+ <div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/waldo-homepowderroom1.jpeg">
     </div>
     <div class="row" style="background-color: #ded9d3; margin: 0px 0px 50px 0px;">
       <div class="col-lg-12"></div>

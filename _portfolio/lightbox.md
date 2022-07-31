@@ -35,20 +35,72 @@ page_sections:
     </div>
   </div>
   <div class="row" style="background-color: #ded9d3;">
-    <div class="col-lg-12">
-       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1528204995652-DF589L83NHFKGHL7AZNV/257+Merlin+Road6.jpg?format=2500w">
+    
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/lightboxcamac-axon.jpeg">
     </div>
-    <div class="col-lg-12">
-       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 1200px; display: block; background-color: #ded9d3;" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1528204994293-EK1BK4WMPNDSWY73IOYY/257+Merlin+Road4.jpg?format=2500w">
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/lightboxcamac-plans1.gif">
     </div>
-    <div class="col-lg-12">
-       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1528205002292-DFCFBPBNL27LT1G9H6YC/257+Merlin+Road20.jpg?format=2500w">
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/lightboxcamac-plans2.gif">
     </div>
-    <div class="col-lg-12">
-      <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1528204992888-0MEWGP6M0CNCAMUZWWLP/257+Merlin+Road5.jpg?format=2500w">
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/lightboxcamac-timeline.jpeg">
     </div>
-     <div class="col-lg-12">
-       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1528310722901-9DOJR3RS4GTAY3DFA74L/MichenerBathroom.gif?format=2500w">
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/lightboxdsc02731.jpeg">
+    </div>
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/lightboximg_0325.jpeg">
+    </div>
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/lightboximg_0572.jpeg">
+    </div>
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/lightboximg_0590.jpeg">
+    </div>
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/lightboximg_0626.jpeg">
+    </div>
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/lightboximg_0646.jpeg">
+    </div>
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/lightboximg_0662.jpeg">
+    </div>
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/lightboximg_0680.jpeg">
+    </div>
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/lightboximg_0695.jpeg">
+    </div>
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/lightboximg_0712.jpeg">
+    </div>
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/lightboximg_0746-medium.jpeg">
+    </div>
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/lightboximg_0764.jpeg">
+    </div>
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/lightboximg_0780.jpeg">
+    </div>
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/lightboximg_0805.jpeg">
+    </div>
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/lightboximg_0865.jpeg">
+    </div>
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/lightboximg_0967.jpeg">
+    </div>
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/lightboximg_0985-medium.jpeg">
+    </div>
+<div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/lightboximg_1015.jpeg">
     </div>
     <div class="row" style="background-color: #ded9d3; margin: 0px 0px 50px 0px;">
       <div class="col-lg-12"></div>
