@@ -1,6 +1,6 @@
 ---
 title: Portfolio - Master of All Baths
-permalink: "/portfolio/master-of-all-baths/"
+permalink: "/portfolio/south-of-summit/"
 date: '2016-03-23T11:48:41.000-04:00'
 layout: portfolioDoc
 page_sections:
