@@ -64,7 +64,7 @@ page_sections:
         Summit Grill is a staple in the Waldo neighborhood of Kansas City. When they moved down the street to expand into the former 75th Street Brewery, we completely overhauled the building to give it new life. We demolished almost the entire interior of the space in order to get a clean slate. The restaurant has two identities that complement one another, the bright, lively bar and the moodier, cozy dining room. We exposed and replaced the existing windows, inserting sliders to connect the bar to the outdoors and the neighborhood. The monumental steel and glass back bar shelving create a vibrant display for the expansive collection of liquor and wine. Photographs of the neighborhood and an abstracted map of Kansas City's topography infuse local identity into the space. The details come together to create a refined but casual environment.
 <br><br>
 Photo Credit: Jake Famer <br>
-www.olivemediakc.com <br>
+www.olivemediakc.com
       </p>
     </div>
   </div>
