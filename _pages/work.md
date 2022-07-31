@@ -11,7 +11,7 @@ page_sections:
     project_link: master-of-all-baths
   - title_project: Material Minutia
     project_cover_image: "/images/img_2990.jpg"
-    project_link: ''
+    project_link: "/portfolio/materialminutia/"
   - title_project: Summit Grill Waldo
     project_cover_image: "/images/20180412-summit-0230-edit_hr.jpg"
     project_link: ''
