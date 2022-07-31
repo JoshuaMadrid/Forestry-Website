@@ -1,5 +1,5 @@
 {% for work in block.project %}
-    <div onclick="javascript:window.location.href-'/portfolio/{{ work.project_link }}/'" class="col-sm-3 col-lg-3 project" style=" padding-left: 0px; margin-top: 10px; margin-bottom: 7.5px; position: relative;">
+    <div onclick="location.href='/portfolio/{{ work.project_link }}/'" class="col-sm-3 col-lg-3 project" style=" padding-left: 0px; margin-top: 10px; margin-bottom: 7.5px; position: relative;">
         <a href="/portfolio/{{ work.project_link }}/"><img src="https://clever-hugle-2c32c1.netlify.app/assets{{ work.project_cover_image }}" height="auto" width="100%" style="width:100%; height: auto; pointer-events: none;"></a>
         <a style="position: absolute; left: 0px; top: 0px; z-index: -9; display: inline-block; width: 100%;" href="/portfolio/{{ work.project_link }}/"><p style="display: block; font-size: 20px; width: 100%;"> {{ work.title_project }} </p></a>
     </div>
