@@ -16,7 +16,7 @@ page_sections:
 
 ---
 <div class="limitedFull">
-  <img class="backgroundEle" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1528204994293-EK1BK4WMPNDSWY73IOYY/257+Merlin+Road4.jpg?format=2500w">
+  <img class="backgroundEle" src="https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiaimg_2990.jpeg">
 </div> 
 <div class="" style="padding: 0px; " >
   <div class="row">
@@ -34,21 +34,83 @@ page_sections:
       <p style="font-size: 18px; padding: 20px;">Small projects can be the incredibly complex. In this Rockridge, CA home we designed two bathrooms where one used to be and renovated the fireplace. The keys to success here were high quality materials and extreme attention to detail. We were inspired by the clients' love for the arts and crafts style of their home as well as hand glazed tile.</p>
     </div>
   </div>
+
+<!-- 
+
+
+https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiadetail.jpeg
+https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiadetail2.jpeg
+https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiadoors.jpeg
+https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiahallbath.jpeg
+https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiaimg_2775.jpeg
+https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiaimg_2829.jpeg
+https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiaimg_2839.jpeg
+https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiaimg_2854.jpeg
+https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiaimg_2881.jpeg
+https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiaimg_2896.jpeg
+https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiaimg_2909.jpeg
+https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiaimg_2940.jpeg
+https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiaimg_2990.jpeg
+https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiaimg_20140617_0029.jpeg
+https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiaimg_20140617_0030.jpeg
+https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiaohowells.gif
+https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiashower-sketch.jpeg
+ -->
+
   <div class="row" style="background-color: #ded9d3;">
     <div class="col-lg-12">
        <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1528204995652-DF589L83NHFKGHL7AZNV/257+Merlin+Road6.jpg?format=2500w">
     </div>
-    <div class="col-lg-12">
-       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 1200px; display: block; background-color: #ded9d3;" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1528204994293-EK1BK4WMPNDSWY73IOYY/257+Merlin+Road4.jpg?format=2500w">
-    </div>
-    <div class="col-lg-12">
-       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1528205002292-DFCFBPBNL27LT1G9H6YC/257+Merlin+Road20.jpg?format=2500w">
-    </div>
-    <div class="col-lg-12">
-      <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1528204992888-0MEWGP6M0CNCAMUZWWLP/257+Merlin+Road5.jpg?format=2500w">
+     <div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiadetail.jpeg">
     </div>
      <div class="col-lg-12">
-       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://images.squarespace-cdn.com/content/v1/5a51446df43b55247f4842a3/1528310722901-9DOJR3RS4GTAY3DFA74L/MichenerBathroom.gif?format=2500w">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiadetail2.jpeg">
+    </div>
+     <div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiadoors.jpeg">
+    </div>
+     <div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiahallbath.jpeg">
+    </div>
+     <div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiaimg_2775.jpeg">
+    </div>
+     <div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiaimg_2829.jpeg">
+    </div>
+     <div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiaimg_2839.jpeg">
+    </div>
+     <div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiaimg_2854.jpeg">
+    </div>
+     <div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiaimg_2881.jpeg">
+    </div>
+     <div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiaimg_2896.jpeg">
+    </div>
+     <div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiaimg_2909.jpeg">
+    </div>
+     <div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiaimg_2940.jpeg">
+    </div>
+     <div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiaimg_2990.jpeg">
+    </div>
+     <div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiaimg_20140617_0029.jpeg">
+    </div>
+     <div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiaimg_20140617_0030.jpeg">
+    </div>
+     <div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiaohowells.gif">
+    </div>
+     <div class="col-lg-12">
+       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="https://clever-hugle-2c32c1.netlify.app/assets/images/materialminutiashower-sketch.jpeg">
     </div>
     <div class="row" style="background-color: #ded9d3; margin: 0px 0px 50px 0px;">
       <div class="col-lg-12"></div>
@@ -57,6 +119,24 @@ page_sections:
 
   </div>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--  -->
 <div class="row" style="background-color: #ded9d3;">
