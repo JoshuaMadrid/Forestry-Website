@@ -37,6 +37,7 @@ content:
             </p>
     </div>
 </div>
+
 <div class="row" style="margin: 135px 30px 15px 30px; border-bottom: solid 1px #2b2b2b; padding-top: 20px;">
     <div class="col-sm-6 col-lg-6">
         <p style="font-size: 35px; font-weight: normal;">Consultation</p>
@@ -101,7 +102,8 @@ content:
             <div class="col-lg-2">
                 <div class="parentPlustwo expand" style="float: right; display: inline-block"><a class="plusMintwo"></a></div>
             </div>
-    </div>
+        </div>
+     </div>
 </div>
 <div class="row" style="margin: 15px 30px; border-bottom: solid 1px #2b2b2b; padding-top: 20px;">
     <div class="col-sm-6 col-lg-6">
@@ -125,6 +127,7 @@ content:
             <div class="col-lg-2">
                 <div class="parentPlustwo expand" style="float: right; display: inline-block"><a class="plusMintwo"></a></div>
             </div>
+        </div>
     </div>
 </div>
 <div class="row" style="margin: 15px 30px; border-bottom: solid 1px #2b2b2b; padding-top: 20px;">
@@ -149,5 +152,6 @@ content:
             <div class="col-lg-2">
                 <div class="parentPlustwo expand" style="float: right; display: inline-block"><a class="plusMintwo"></a></div>
             </div>
+         </div>
     </div>
 </div>
