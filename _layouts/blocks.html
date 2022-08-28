@@ -18,20 +18,20 @@
 
 <p>before blocks</p>
 {% for section in page.page_sections %}
-    <p>I am working!</p>
-    {% block %}
-    {% assign template = block.template %}
-    {% block.template %}
-        <p>I am working! too</p>
-        {% case template %}
-            <p>What About Me</p>
-            {% include block-{{template}}.html %}
-            {% include block-{{section.block}}.html %}
-            {% when %}
-            <p>What About Me else</p>
-                {% include block-{{template}}.html %}
-                {% include block-{{section.block}}.html %}
-        {% endcase %}
+<p>I am working!</p>
+{% block %}
+{% assign template = block.template %}
+{% block.template %}
+<p>I am working! too</p>
+{% case template %}
+<p>What About Me</p>
+{% include block-{{template}}.html %}
+{% include block-{{section.block}}.html %}
+{% when %}
+<p>What About Me else</p>
+{% include block-{{template}}.html %}
+{% include block-{{section.block}}.html %}
+{% endcase %}
 {% endfor %}
 <p>after blocks</p>
 
