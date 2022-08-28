@@ -15,6 +15,7 @@ fields:
   - block-hero-project
   - block-gallery
   - block-project-images
+  - block-image
   config:
     min: 
     max: 
