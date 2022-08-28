@@ -1,13 +1,8 @@
 ---
-page_sections:
-- template: block-hero-project
-  hero_image: "/images/summit-grill-gladstone-hero-1920px.jpg"
-  project_title: Project Title
-  project_description: This is a testing block
+page_sections: []
 permalink: "/new-project/"
 title: New Project
 layout: blocks
 
 ---
 <p>Something on this page</p>
-
