@@ -14,11 +14,13 @@
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
     <div class="container-fluid mainContainer">
-      {% include_cached skip-links.html %}
-      {% include_cached browser-upgrade.html %}
-      {% include_cached masthead.html %}
-      
-      {{ content }}
+    {% include_cached skip-links.html %}
+    {% include_cached browser-upgrade.html %}
+    {% include_cached masthead.html %}
+
+    {% for section in page.page_sections %}
+        {% include block-{{ section.block }}.html %}
+    {% endfor %}
 
     </div>
     {% include scripts.html %}

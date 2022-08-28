@@ -6,7 +6,7 @@ page_sections:
   project_description: This is a testing block
 permalink: "/new-project/"
 title: New Project
-layout: default
+layout: blocks
 
 ---
 <p>Something on this page</p>
