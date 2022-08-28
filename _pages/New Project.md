@@ -7,5 +7,6 @@ page_sections:
 permalink: "/new-project/"
 title: New Project
 layout: default
+
 ---
 <p>Something on this page</p>
