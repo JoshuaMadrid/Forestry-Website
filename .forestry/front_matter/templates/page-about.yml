@@ -1,5 +1,5 @@
 ---
-label: Page
+label: Page Builder
 hide_body: true
 fields:
 - name: page_sections
