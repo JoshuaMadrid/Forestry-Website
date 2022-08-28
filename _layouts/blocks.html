@@ -2,51 +2,35 @@
 ---
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
-  <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat+Alternates&display=swap" rel="stylesheet">
-  </head>
+<head>
+{% include head.html %}
+{% include head/custom.html %}
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat+Alternates&display=swap" rel="stylesheet">
+</head>
 
-  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
-    <div class="container-fluid mainContainer">
-    {% include_cached skip-links.html %}
-    {% include_cached browser-upgrade.html %}
-    {% include_cached masthead.html %}
+<body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
+<div class="container-fluid mainContainer">
+{% include_cached skip-links.html %}
+{% include_cached browser-upgrade.html %}
+{% include_cached masthead.html %}
 
-    <p>before blocks</p>
+<p>before blocks</p>
 {% for section in page.page_sections %}
 {% include block-{{ section.block }}.html %}
 {% endfor %}
-    <p>after blocks</p>
+<p>after blocks</p>
 
-    </div>
-    {% include scripts.html %}
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-    <script>
-      $( document ).ready(function() {
-        $('.parentPlus').click(function(){
-            console.log('this was clicked');
-            $(this).toggleClass('expanded');
-            if(this.parentNode.parentNode.childNodes[3].style.display == "none"){
-                this.parentNode.parentNode.childNodes[3].style.display = "block"
-            } else if(this.parentNode.parentNode.childNodes[3].style.display == "block" ){
-                this.parentNode.parentNode.childNodes[3].style.display = "none"
-            } else{
-                this.parentNode.parentNode.childNodes[3].style.display = "none"
-            }
-        });
-        document.querySelectorAll('.parentPlus')[0].parentNode.parentNode.childNodes[3].style.display = "none";
-        document.querySelectorAll('.parentPlus')[0].classList.add('expanded');
-        document.querySelectorAll('.parentPlus')[1].parentNode.parentNode.childNodes[3].style.display = "none";
-        document.querySelectorAll('.parentPlus')[1].classList.add('expanded');
-      });
-    </script>
-    <script src="main.js"></script>
-  </body>
+</div>
+{% include scripts.html %}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<script>
+
+</script>
+<script src="main.js"></script>
+</body>
 </html>
