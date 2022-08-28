@@ -1,5 +1,5 @@
 ---
-label: Block-Image
+label: Block - Image
 hide_body: true
 fields:
 - name: image
