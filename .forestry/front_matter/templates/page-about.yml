@@ -19,6 +19,18 @@ fields:
     min: 
     max: 
   label: Page Sections
+- name: permalink
+  type: text
+  config:
+    required: false
+  label: permalink
+  description: URL of the page
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+  description: title of page
 pages:
 - _pages/New Project.md
 - _pages/index.md
