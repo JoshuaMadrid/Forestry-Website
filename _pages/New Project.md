@@ -6,3 +6,4 @@ permalink: "/new-project/"
 title: New Project
 layout: blocks
 ---
+<p>something</p>
