@@ -24,6 +24,9 @@
         {% case template %}
             <p>What About Me</p>
             {% include block-{{ section.block }}.html %}
+            {% else %}
+            <p>What About Me else</p>
+            {% include block-{{ section.block }}.html %}
         {% endcase %}
 {% endfor %}
 <p>after blocks</p>
