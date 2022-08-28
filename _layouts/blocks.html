@@ -20,6 +20,7 @@
 {% for section in page.page_sections %}
     <p>I am working!</p>
     {% assign template = block.template %}
+        <p>I am working! too</p>
         {% case template %}
             {% include block-{{ section.block }}.html %}
         {% endcase %}
