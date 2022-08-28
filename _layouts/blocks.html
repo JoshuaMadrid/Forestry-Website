@@ -18,12 +18,14 @@
 
 <p>before blocks</p>
 {% for section in page.page_sections %}
+    <p>I am working!</p>
     {% assign template = block.template %}
         {% case template %}
             {% include block-{{ section.block }}.html %}
         {% endcase %}
 {% endfor %}
 <p>after blocks</p>
+
 
 </div>
 {% include scripts.html %}
