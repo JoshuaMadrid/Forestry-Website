@@ -10,3 +10,9 @@ layout: default
 
 ---
 <p>Something on this page</p>
+<<<<<<< HEAD
+{% for section in page.page_sections %}
+{% include block-{{ section.block }}.html %}
+{% endfor %}
+=======
+>>>>>>> 70098f62edc317b263f7178171d849dfc7e5415d
