@@ -16,15 +16,19 @@
 {% include_cached browser-upgrade.html %}
 {% include_cached masthead.html %}
 
+
+
+{% page.page_sections %}
+{% page %}
+{% page_sections %}
+{% block %}
+{% template %}
+{% block.template %}
+
 <p>before blocks</p>
 {% for section in page.page_sections %}
 <p>I am working!</p>
 {% assign template = block.template %}
-{% block %}
-{% template %}
-{% page.page_sections %}
-{% page %}
-{% block.template %}
 <p>I am working! too</p>
 {% case template %}
 <p>What About Me</p>
