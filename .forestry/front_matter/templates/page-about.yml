@@ -31,6 +31,14 @@ fields:
     required: false
   label: title
   description: title of page
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
+  description: 'layout to use on this page: Default'
+  hidden: false
+  default: default
 pages:
 - _pages/New Project.md
 - _pages/index.md
