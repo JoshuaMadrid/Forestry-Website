@@ -20,6 +20,10 @@
       
       {{ content }}
 
+      {% for section in page.page_sections %}
+        {% include block-{{ section.block }}.html %}
+      {% endfor %}
+
     </div>
     {% include scripts.html %}
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
