@@ -18,9 +18,11 @@
     {% include_cached browser-upgrade.html %}
     {% include_cached masthead.html %}
 
+    <p>before blocks</p>
     {% for section in page.page_sections %}
         {% include block-{{ section.block }}.html %}
     {% endfor %}
+    <p>after blocks</p>
 
     </div>
     {% include scripts.html %}
