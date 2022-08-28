@@ -22,6 +22,7 @@
     {% assign template = block.template %}
         <p>I am working! too</p>
         {% case template %}
+            <p>What About Me</p>
             {% include block-{{ section.block }}.html %}
         {% endcase %}
 {% endfor %}
