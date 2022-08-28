@@ -19,8 +19,10 @@
 <p>before blocks</p>
 {% for section in page.page_sections %}
 <p>I am working!</p>
-{% block %}
 {% assign template = block.template %}
+{% block %}
+{% template %}
+{% page.page_sections %}
 {% block.template %}
 <p>I am working! too</p>
 {% case template %}
