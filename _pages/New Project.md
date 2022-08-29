@@ -6,6 +6,10 @@ page_sections:
   project_description: some text Here
 - template: block-image
   image: "/images/south-of-summit-hero-2500px.jpg"
+- template: block-project-images
+  project_images:
+  - project_image: ''
+  - project_image: "/images/south-of-summit-hero-1366px.jpg"
 permalink: "/new-project/"
 title: New Project
 layout: blocks
