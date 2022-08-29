@@ -18,6 +18,16 @@
 
 
 
+{% for block in page.page_sections %}
+    {% assign template = block.template %}
+    {% case template %}
+        {% when %}
+{% include {{section.block}}.html %}
+    {% endcase %}
+{% endfor %}
+
+
+
 {% page.page_sections %}
 {% page %}
 {% page_sections %}
