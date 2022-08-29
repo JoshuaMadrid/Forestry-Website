@@ -21,7 +21,8 @@
 {% for block in page.page_sections %}
     {% assign template = block.template %}
     {% case template %}
-{% include {{section.block}}.html %}
+        {% when %}
+{% include {{template}}.html %}
     {% endcase %}
 {% endfor %}
 
