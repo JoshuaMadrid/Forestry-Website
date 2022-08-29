@@ -10,6 +10,10 @@ page_sections:
   project_images:
   - project_image: ''
   - project_image: "/images/south-of-summit-hero-1366px.jpg"
+- template: block-accordion
+  personal_bios:
+  - name: Brian
+    bio: "<p>bibwew befb uwefb  jwevkj.  bkj wevckj. bwecjk</p>"
 permalink: "/new-project/"
 title: New Project
 layout: blocks
