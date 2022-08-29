@@ -19,10 +19,7 @@
 
 
 {% for block in page.page_sections %}
-    {% assign template = block.template %}
-    {% case template %}
-        {% include {{template}}.html %}
-    {% endcase %}
+        {% include {{block.template}}.html %}
 {% endfor %}
 
 
