@@ -21,8 +21,8 @@
 {% for block in page.page_sections %}
     {% assign template = block.template %}
     {% case template %}
-        {% when 'block-image' %}
-{% include {{template}}.html %}
+        {% when 'block-gallery' %}
+        {% include {{template}}.html %}
     {% endcase %}
 {% endfor %}
 
