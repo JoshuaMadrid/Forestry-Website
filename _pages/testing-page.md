@@ -1,6 +1,6 @@
 ---
-title: Testing Page
 permalink: /testedpage/
+title: Testing Page
 layout: blocks
 page_sections:
 - template: block-hero-project
