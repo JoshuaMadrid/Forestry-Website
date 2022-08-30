@@ -41,7 +41,6 @@ fields:
     max: 
   label: Page Sections
 pages:
-- _pages/New Project.md
 - _pages/index.md
 - _pages/testing-page.md
 - _pages/work.md
