@@ -1,7 +1,7 @@
 ---
 layout: blocks
 permalink: "/testing/"
-title: Testing
+title: Testing Page
 page_sections:
 - template: block-hero-project
   hero_image: "/images/south-of-summit-hero-1920px.jpg"
