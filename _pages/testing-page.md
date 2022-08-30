@@ -1,6 +1,6 @@
 ---
 layout: blocks
-permalink: "/testing/"
+permalink: "/testingpage/"
 title: Testing Page
 page_sections:
 - template: block-hero-project
