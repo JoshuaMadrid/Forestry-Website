@@ -14,7 +14,9 @@
 <div class="container-fluid mainContainer">
 
 
-
+{% for block in page.page_sections %}
+    {% include {{block.template}}.html %}
+{% endfor %}
 
 
 </div>
