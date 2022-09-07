@@ -20,6 +20,22 @@ fields:
     min: 
     max: 
   label: Page Sections
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+- name: permalink
+  type: text
+  config:
+    required: false
+  label: permalink
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
+  description: Default or Blocks
 pages:
 - _pages/index.md
 - _pages/testing-page.md
