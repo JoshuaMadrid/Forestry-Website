@@ -1,7 +1,7 @@
 ---
 page_sections:
-- template: block-about-image
-  about_image: "/images/south-of-summit-hero-1280px.jpg"
+- template: block-image
+  image: "/images/waldo-house-hero-2500px.jpg"
 title: Project Test
 permalink: "/testingNewProject/"
 layout: blocks
