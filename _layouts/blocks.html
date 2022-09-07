@@ -17,8 +17,8 @@
 {% include_cached masthead.html %}
 
 
-{% for section in page.page_sections %}
-{% include {{ section.block }}.html %}
+{% for template in page.page_sections %}
+{% include {{template.block}}.html %}
 {% endfor %}
 
 
