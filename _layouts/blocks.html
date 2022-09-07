@@ -14,9 +14,15 @@
 <div class="container-fluid mainContainer">
 
 
+
 {% for block in page.page_sections %}
-        {% include {{block.template}}.html %}
+    {% assign template = block.template %}
+    {% case template %}
+        {% include {{template}}.html %}
+    {% endcase %}
 {% endfor %}
+
+
 
 </div>
 
