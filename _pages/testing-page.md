@@ -9,5 +9,4 @@ page_sections:
   project_description: this is a testing project blocks page
 - template: block-about-image
   about_image: "/images/started-from-the-bottom-hero-1920px.jpg"
-
 ---
