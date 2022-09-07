@@ -38,5 +38,6 @@ fields:
   description: Default or Blocks
 pages:
 - _pages/index.md
+- _pages/project-test.md
 - _pages/testing-page.md
 - _pages/work.md
