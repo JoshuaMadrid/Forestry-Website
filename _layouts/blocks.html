@@ -15,14 +15,14 @@
 
 
 {% for section in page.page_sections %}
-<p>{{ section.block }} Blocks Here</p>
+{% unless page.page_sections[0] == empty %}
+<p>{{ page.page_sections[0].template }}</p>
+{% endunless %}
 {% endfor %}
 
 
 
-{% unless page.page_sections[0] == empty %}
-<p>{{ page.page_sections[0].template }}</p>
-{% endunless %}
+
 
 
 </div>
