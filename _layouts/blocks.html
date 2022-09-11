@@ -18,6 +18,7 @@
 {% unless section == empty %}
 <p style="color: blue;">something here</p>
 <p style="color: green;">{{ section.template }}</p>
+{% include {{ section.template }}.html %}
 <p style="color: yellow;">{{ section[0].template }}</p>
 <p style="color: orange;">{{ section.block }}</p>
 <p style="color: purple;">{{ section[0].block }}</p>
