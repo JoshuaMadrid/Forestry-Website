@@ -14,11 +14,13 @@
 <div class="container-fluid mainContainer">
 
 
-{% for section in page.page_sections %}
-{% unless page.page_sections[0] == empty %}
+{% for section in page.page_sections[0] %}
+{% unless section == empty %}
 <p>something here</p>
+<p>{{ section.template }}</p>
 {% endunless %}
 {% endfor %}
+
 
 {{ page.page_sections[0].template }}
 
