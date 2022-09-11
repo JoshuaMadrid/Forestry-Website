@@ -15,7 +15,9 @@
 
 
 {% for section in page.page_sections %}
-{% include block-{{ section.template }}.html %}
+    {%- if section.length > 0 -%}  
+        {% include block-{{ section.template }}.html %} {% unless section.last %}, {% endunless -%}
+    {%- endif -%}
 {% endfor %}
 
 
