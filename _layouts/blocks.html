@@ -18,13 +18,10 @@
 <p>{{ section.block }} Blocks Here</p>
 {% endfor %}
 
-<p>{{ page.page_sections[0].template }}</p>
+
 
 {% unless page.page_sections[0] == empty %}
-  <h1>{{ page.title }}</h1>
-  <div>
-    {{ page.content }}
-  </div>
+<p>{{ page.page_sections[0].template }}</p>
 {% endunless %}
 
 
