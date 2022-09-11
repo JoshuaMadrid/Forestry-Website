@@ -19,6 +19,14 @@
 {% endfor %}
 
 <p>{{ page.page_sections.template }}</p>
+<p>{{ page.page_sections }}</p>
+
+{% unless page.page_sections == empty %}
+  <h1>{{ page.title }}</h1>
+  <div>
+    {{ page.content }}
+  </div>
+{% endunless %}
 
 
 </div>
