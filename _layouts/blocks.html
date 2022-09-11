@@ -15,10 +15,17 @@
 
 
 {% for section in page.page_sections %}
-    {%- if section.length > 0 -%}  
-        {% include block-{{ section.template }}.html %} {% unless section.last %}, {% endunless -%}
-    {%- endif -%}
+<p>{{ section.block }} Blocks Here</p>
 {% endfor %}
+
+<p>{{ page.page_sections[0].template }}</p>
+
+{% unless page.page_sections[0] == empty %}
+  <h1>{{ page.title }}</h1>
+  <div>
+    {{ page.content }}
+  </div>
+{% endunless %}
 
 
 </div>
