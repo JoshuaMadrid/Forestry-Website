@@ -16,13 +16,9 @@
 
 {% for section in page.page_sections %}
 {% unless page.page_sections[0] == empty %}
-<p>{{ page.page_sections[0].template }}</p>
+{% include block-{{ page.page_sections[0].template }}.html %}
 {% endunless %}
 {% endfor %}
-
-
-
-
 
 
 </div>
