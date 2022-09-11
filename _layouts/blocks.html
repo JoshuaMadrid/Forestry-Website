@@ -15,7 +15,7 @@
 
 
 {% for section in page.page_sections %}
-{% include block-{{ section.block }}.html %}
+{{ section.block }}
 {% endfor %}
 
 
