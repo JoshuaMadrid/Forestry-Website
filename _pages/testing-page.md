@@ -3,7 +3,7 @@ title: Testing Page
 permalink: "/testedpage/"
 layout: blocks
 page_sections:
-- template: block-about-image
-  about_image: "/images/started-from-the-bottom-hero-1920px.jpg"
+- template: block-image
+  image: "/images/pool-party-hero-2500px.jpg"
 
 ---
