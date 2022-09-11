@@ -16,29 +16,9 @@
 
 {% for section in page.page_sections %}
 {% unless section == empty %}
-<p style="color: blue;">something here</p>
-<p style="color: green;">{{ section.template }}</p>
 {% include {{ section.template }}.html %}
-<p style="color: yellow;">{{ section[0].template }}</p>
-<p style="color: orange;">{{ section.block }}</p>
-<p style="color: purple;">{{ section[0].block }}</p>
-<p style="color: red;">{{ page.page_sections[0].template }}</p>
 {% endunless %}
 {% endfor %}
-
-
-{{ page.page_sections[0].template }}
-
-
-
-
-
-
-
-
-
-
-
 
 </div>
 
