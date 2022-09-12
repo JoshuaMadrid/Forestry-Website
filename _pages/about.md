@@ -3,7 +3,7 @@ title: About
 permalink: "/about/"
 excerpt: 
 last_modified_at: 
-layout: default
+layout: blocks
 page_sections:
 - template: block-page-description
   page_headline: about lo design
@@ -44,5 +44,4 @@ page_sections:
       Philadelphia, PA August 2014- February 2013<br><br>Ballinger, Philadelphia,
       PA February 2013 - August 2009<br><br>Cannon Design, St. Louis, MO July 2009
       - June 2008</p>"
-
 ---
