@@ -46,16 +46,3 @@ page_sections:
       - June 2008</p>"
 
 ---
-{% for block in page.page_sections %}
-    {% assign template = block.template %}
-    {% case template %}
-        {% when 'block-page-description' %}
-{% include {{template}}.html %}
-        {% when 'block-about-image' %}
-{% include {{template}}.html %}
-        {% when 'block-accordion' %}
-<div class="row" style="margin: 15px 30px; padding-top: 20px;">
-{% include {{template}}.html %}
-</div>
-    {% endcase %}
-{% endfor %}
