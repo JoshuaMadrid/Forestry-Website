@@ -1,6 +1,6 @@
 ---
 title: Portfolio - WALDO HOME-(copy)
-permalink: "/portfolio/waldo-home/"
+permalink: "/portfolio/waldo-home-2/"
 date: '2016-03-23T11:48:41.000-04:00'
 layout: portfolioDoc
 page_sections:
@@ -13,7 +13,6 @@ page_sections:
 - template: block-related-projects
   related_project_title: ''
   project_: []
-published: false
 
 ---
 <div class="limitedFull">
