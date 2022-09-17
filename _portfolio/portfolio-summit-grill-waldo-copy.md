@@ -15,29 +15,10 @@ page_sections:
 - template: block-project-images
   project_images:
   - project_image: "/images/summitgrillwaldo20180412-summit-0360_hr.jpeg"
-  - {}
   - project_image: "/images/summit-grill-gladstone20190918-dscf0882-998.jpeg"
   - project_image: "/images/summit-grill-gladstone20190918-dscf1041-lr.jpeg"
   - project_image: "/images/summit-grill-gladstone20190918-dscf0869-lr.jpeg"
   - project_image: "/images/summit-grill-gladstone20190918-dscf1146-1099.jpeg"
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
   - project_image: "/images/summitgrillwaldo20180409-summit-0157-edit_hr.jpeg"
 - template: block-related-projects
   related_project_title: ''
