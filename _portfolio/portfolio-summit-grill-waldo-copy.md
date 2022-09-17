@@ -2,7 +2,7 @@
 title: Portfolio - SUMMIT GRILL WALDO Copy
 permalink: "/portfolio/summitgrillwaldo-2/"
 date: '2016-03-23T11:48:41.000-04:00'
-layout: portfolioDoc
+layout: blocks
 page_sections:
 - template: block-hero-project
   hero_image: "/images/summitgrillwaldo20190918-dscf1041-lr.jpeg"
