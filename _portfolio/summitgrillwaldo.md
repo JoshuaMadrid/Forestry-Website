@@ -68,6 +68,8 @@ www.olivemediakc.com
       </p>
     </div>
   </div>
+
+  
   <div class="row" style="background-color: #ded9d3;">
 <div class="col-lg-12">
        <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 530px; display: block; background-color: #ded9d3;" src="/assets/images/summitgrillwaldo20180409-summit-0157-edit_hr.jpeg">
