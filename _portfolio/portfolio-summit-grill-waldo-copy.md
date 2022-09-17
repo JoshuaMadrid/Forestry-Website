@@ -1,5 +1,5 @@
 ---
-title: Portfolio - SUMMIT GRILL WALDO-(copy)
+title: Portfolio - SUMMIT GRILL WALDO Copy
 permalink: "/portfolio/summitgrillwaldo-2/"
 date: '2016-03-23T11:48:41.000-04:00'
 layout: portfolioDoc
