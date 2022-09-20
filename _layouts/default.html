@@ -1,5 +1,3 @@
----
----
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
   <head>
@@ -18,6 +16,13 @@
       {% include_cached browser-upgrade.html %}
       {% include_cached masthead.html %}
       
+
+      {% for section in page.page_sections %}
+      {% unless section == empty %}
+      {% include {{ section.template }}.html %}
+      {% endunless %}
+      {% endfor %}
+
       {{ content }}
 
     </div>
