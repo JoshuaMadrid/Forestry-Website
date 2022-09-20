@@ -2,7 +2,7 @@
 title: Work
 permalink: "/work/"
 date: '2016-03-23T11:48:41.000-04:00'
-layout: blocks
+layout: default
 page_sections:
 - template: block-gallery
   project:
