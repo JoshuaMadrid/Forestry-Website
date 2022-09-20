@@ -35,29 +35,5 @@ page_sections:
     project_link: hanover-house
 
 ---
-<!-- --include feature_row-- -->
-<div class="row mobileFix" style="margin: 15px 30px; display: flex; flex-wrap: wrap;">
-{% for block in page.page_sections %}
-    {% assign template = block.template %}
-    {% case template %}
-        {% when 'block-gallery' %}
-        {% include {{template}}.html %}
-    {% endcase %}
-{% endfor %}
-</div>
 
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-<script>
-$( document ).ready(function() {
-    document.querySelectorAll('.project').forEach((project) => {
-      console.log(project);
-      project.addEventListener("mouseover", function(){
-        project.children[0].children[0].style.display = "none";
-      });
-      project.addEventListener("mouseleave", function(){
-        project.children[0].children[0].style.display = "block";
-      });
-    });
-});
-</script>
