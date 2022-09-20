@@ -3,7 +3,7 @@ title: About
 permalink: "/about/"
 excerpt: 
 last_modified_at: 
-layout: blocks
+layout: default
 page_sections:
 - template: block-page-description
   page_headline: about lo design
