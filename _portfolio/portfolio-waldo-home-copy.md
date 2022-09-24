@@ -1,6 +1,6 @@
 ---
-title: Portfolio - WALDO HOME-(copy)
-permalink: "/portfolio/waldo-home-2/"
+title: Portfolio - WALDO HOME
+permalink: "/portfolio/waldo-home/"
 date: '2016-03-23T11:48:41.000-04:00'
 layout: portfolioDoc
 page_sections:
