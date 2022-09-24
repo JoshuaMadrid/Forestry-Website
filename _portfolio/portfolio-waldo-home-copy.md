@@ -22,6 +22,7 @@ page_sections:
 - template: block-project-images
   project_images:
   - project_image: "/images/waldo-homepowderroom1.jpeg"
+    label: Bathroom Sink
   - project_image: "/images/waldo-homedining1.jpeg"
   - project_image: "/images/waldo-homekitchen1.jpeg"
   - project_image: "/images/waldo-homediagrams1.gif"
