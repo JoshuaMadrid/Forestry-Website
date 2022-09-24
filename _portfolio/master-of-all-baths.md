@@ -16,7 +16,12 @@ page_sections:
     calm experience with sunlight streaming in from the skylight.
 - template: block-project-images
   project_images:
-  - {}
+  - project_image: "/images/master-of-all-baths257-merlin-road6.jpeg"
+  - project_image: "/images/master-of-all-bathsmichenerbathroom.gif"
+  - project_image: "/images/master-of-all-baths257-merlin-road20.jpeg"
+  - project_image: "/images/master-of-all-baths257-merlin-road4.jpeg"
+  - project_image: "/images/master-of-all-baths.jpeg"
+  - project_image: "/images/materialminutiahallbath.jpeg"
   - project_image: "/images/waldo-homeguest-bath-1.jpeg"
 - template: block-related-projects
   related_project_title: ''
