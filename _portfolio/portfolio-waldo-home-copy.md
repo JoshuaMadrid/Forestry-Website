@@ -21,6 +21,14 @@ page_sections:
     requires.
 - template: block-project-images
   project_images:
+  - project_image: "/images/waldo-homepowderroom1.jpeg"
+  - project_image: "/images/waldo-homedining1.jpeg"
+  - project_image: "/images/waldo-homekitchen1.jpeg"
+  - project_image: "/images/waldo-homediagrams1.gif"
+  - project_image: "/images/waldo-homekitchen2.jpeg"
+  - project_image: "/images/waldo-homeplayroom2.jpeg"
+  - project_image: "/images/waldo-homehall1.jpeg"
+  - project_image: "/images/waldo-homebed-3.jpeg"
   - project_image: "/images/waldo-homedsc_0180.jpeg"
   - project_image: "/images/waldo-home5.jpeg"
   - project_image: "/images/waldo-homebed-mantel-1.jpeg"
