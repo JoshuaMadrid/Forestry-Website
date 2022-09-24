@@ -12,7 +12,7 @@ page_sections:
     beautiful spaces. We respect our clients. We dream big while designing down to
     earth. This is Lo.Design.
 - template: block-about-image
-  about_image: "/images/5_huntley_finaledit_24-medium.jpg"
+  about_image: "/images/laura-brian_bw.jpeg"
 - template: block-accordion
   personal_bios:
   - name: Brian
@@ -44,4 +44,5 @@ page_sections:
       Philadelphia, PA August 2014- February 2013<br><br>Ballinger, Philadelphia,
       PA February 2013 - August 2009<br><br>Cannon Design, St. Louis, MO July 2009
       - June 2008</p>"
+
 ---
