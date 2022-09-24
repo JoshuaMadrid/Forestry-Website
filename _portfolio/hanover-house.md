@@ -5,9 +5,30 @@ date: '2016-03-23T11:48:41.000-04:00'
 layout: portfolioDoc
 page_sections:
 - template: block-hero-project
-  hero_image: ''
-  project_title: ''
-  project_description: ''
+  hero_image: "/images/hanover-house-hero-1920px.jpg"
+  project_title: HANOVER HOUSE
+  project_description: |-
+    The Hanover House is an addition to a 19th century residence set on steep topography above the Connecticut River. Like an echo, the addition creates a call and response with the original house as it steps back and up the hill….fading into the woods.
+
+    <br><br>
+
+    The goal of this project was to create a new master bedroom suite for the homeowners with elevated views into and over the spectacular New England tree tops. Additionally, this music-loving family wanted a precious place—a private place—in which to enjoy listening to music, practicing instruments, or simply enjoying a bit of silence.
+
+    <br><br>
+
+    In response, the uppermost room performs like a Solarium for Sound. It provides an intentionally sparse, but incredibly light-filled conservatory that is tailored to the owners’ unique interests. Opposing walls of glass with fully operable windows let in light and draw in air as well as the peaceful sounds of wind rolling through the tree tops.
+
+    <br><br>
+
+    Below the addition is a cozy outdoor living room, open on two sides to allow passage from one side yard to the other. Wood-burning fires are a near constant at this house, so the cast-in-place concrete walls stay lined with seasoned logs, year round.
+
+    <br><br>
+
+    Photo Credit: Matthew Frates Photography
+
+    <br>
+
+    www.mattfratesphoto.com/
 - template: block-project-images
   project_images: []
 - template: block-related-projects
