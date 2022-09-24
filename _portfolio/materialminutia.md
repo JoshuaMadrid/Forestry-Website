@@ -5,9 +5,13 @@ date: '2016-03-23T11:48:41.000-04:00'
 layout: portfolioDoc
 page_sections:
 - template: block-hero-project
-  hero_image: ''
-  project_title: ''
-  project_description: ''
+  hero_image: "/images/material-and-minutia-hero-1920px.jpg"
+  project_title: MATERIAL & MINUTIA
+  project_description: Small projects can be the incredibly complex. In this Rockridge,
+    CA home we designed two bathrooms where one used to be and renovated the fireplace.
+    The keys to success here were high quality materials and extreme attention to
+    detail. We were inspired by the clients' love for the arts and crafts style of
+    their home as well as hand glazed tile.
 - template: block-project-images
   project_images: []
 - template: block-related-projects
