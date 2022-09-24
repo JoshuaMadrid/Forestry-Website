@@ -22,7 +22,18 @@ page_sections:
 
     www.olivemediakc.com
 - template: block-project-images
-  project_images: []
+  project_images:
+  - project_image: "/images/pool-party20190920-dscf1187-lr.jpeg"
+  - project_image: "/images/pool-party20190920-dscf1195-edit-lr.jpeg"
+  - project_image: "/images/pool-party20190920-dscf1221-lr.jpeg"
+  - project_image: "/images/pool-party20190920-dscf1265-lr.jpeg"
+  - project_image: "/images/pool-party20190920-dscf1172-lr.jpeg"
+  - project_image: "/images/pool-party20190920-dscf1241-lr.jpeg"
+  - project_image: "/images/pool-party20190920-dscf1257-lr.jpeg"
+  - project_image: "/images/pool-party20190920-dscf1254-lr.jpeg"
+  - project_image: "/images/pool-party20190920-dscf1229-lr.jpeg"
+  - project_image: "/images/pool-party20190920-dscf1255-lr.jpeg"
+  - project_image: "/images/pool-party20190920-dscf1262-lr.jpeg"
 - template: block-related-projects
   related_project_title: ''
   project_: []
