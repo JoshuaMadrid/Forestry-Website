@@ -5,9 +5,20 @@ date: '2016-03-23T11:48:41.000-04:00'
 layout: portfolioDoc
 page_sections:
 - template: block-hero-project
-  hero_image: ''
-  project_title: ''
-  project_description: ''
+  hero_image: "/images/summit-grill-gladstone-hero-1920px.jpg"
+  project_title: SUMMIT GRILL GLADSTONE
+  project_description: |-
+    When the owners of Summit Grill approached us to design a new location, we knew it was a chance to take everything we loved about the renovated Waldo location and elevate the design to the next level. The interior is crisp but warm, plush but durable. <br><br>
+
+    The bar area is lively and grand with a graphic mosaic floor. The dining rooms are cozy and intimate with lush drapery and textured walls. Large sliding doors provide privacy for the private dining room which is complete with a full bar of its own.
+
+    <br>
+
+    Photo Credit: Jake Farmer
+
+    <br>
+
+    www.olivemediakc.com
 - template: block-project-images
   project_images: []
 - template: block-related-projects
