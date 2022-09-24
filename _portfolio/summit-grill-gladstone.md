@@ -20,7 +20,9 @@ page_sections:
 
     www.olivemediakc.com
 - template: block-project-images
-  project_images: []
+  project_images:
+  - project_image: "/images/summit-grill-gladstonepdr-gif.gif"
+    label: Image 1
 - template: block-related-projects
   related_project_title: ''
   project_: []
