@@ -18,6 +18,11 @@
       {% include_cached browser-upgrade.html %}
       
       {{ content }}
+      {% for section in page.page_sections %}
+      {% unless section == empty %}
+      {% include {{ section.template }}.html %}
+      {% endunless %}
+      {% endfor %}
 
     </div>
     {% include scripts.html %}
