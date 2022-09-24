@@ -20,7 +20,13 @@ page_sections:
     charm of a 100 year old house with all of the amenities that a 21st century family
     requires.
 - template: block-project-images
-  project_images: []
+  project_images:
+  - project_image: "/images/waldo-homedsc_0180.jpeg"
+  - project_image: "/images/waldo-home5.jpeg"
+  - project_image: "/images/waldo-homebed-mantel-1.jpeg"
+  - project_image: "/images/waldo-homeguest-bath-1.jpeg"
+  - project_image: "/images/waldo-homediagrams2.gif"
+  - project_image: "/images/waldo-homediagrams3.gif"
 - template: block-related-projects
   related_project_title: ''
   project_: []
