@@ -5,9 +5,40 @@ date: '2016-03-23T11:48:41.000-04:00'
 layout: portfolioDoc
 page_sections:
 - template: block-hero-project
-  hero_image: ''
-  project_title: ''
-  project_description: ''
+  hero_image: "/images/started-from-the-bottom-hero-1920px.jpg"
+  project_title: STARTED FROM THE BOTTOM...
+  project_description: |-
+    The challenge in this house was to create usable, enjoyable, character-rich rooms out of leftover, unfinished spaces.
+
+    <br><br>
+
+    It started in the bottom with a classic Brookside tuck-under garage. Thick foundation walls, generous head height to structure, and existing plumbing runs all made for a space with a lot of potential. By taking advantage of the limited existing windows and dramatic natural light, the design creates a sophisticated and swanky lounge-like living room complete with a full wet bar, powder room, and card table/game area. The result is a elegant hang out space with the feel of an exclusive speak-easy.
+
+    <br><br>
+
+    Adjacent to the lounge is a mud room, dog wash, and catch-all drop zone for belongings. Custom walnut cubbies provide ample storage for bookbags and school gear while a hidden space under the stair is outfitted with a cozy and comfortable kennel for the family’s two little doggies. The kennel is softly lit from inside with a concealed light switch in the framing.
+
+    <br><br>
+
+    At the very opposite end of the house, existing attic space was reconceived as a suite of rooms for the children as they grow. By adding a couple modest, well-placed dormers to the roofline and taking advantage of every possible inch of head height, the third floor became a playful children-only area. Beneath the sloping ceilings of the dormers are two extra bedrooms, a full bathroom between them, and a quirky, playful reading nook at the top of the stairs.
+
+    <br><br>
+
+    If the basement is about sophistication and style, these spaces are all about the light!
+
+    <br>
+
+    ARCHITECT: Lo Design
+
+    <br>
+
+    BUILDER: Remodel Moore
+
+    <br>
+
+    INTERIOR DECORATOR: Shop Jorgy<br>
+
+    PHOTOGRAPHY: Impressive Spaces Photography</p>
 - template: block-project-images
   project_images: []
 - template: block-related-projects
