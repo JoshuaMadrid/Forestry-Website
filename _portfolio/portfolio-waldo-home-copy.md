@@ -24,7 +24,9 @@ page_sections:
   - project_image: "/images/waldo-homepowderroom1.jpeg"
     label: Bathroom Sink
   - project_image: "/images/waldo-homedining1.jpeg"
+    label: Dining Room
   - project_image: "/images/waldo-homekitchen1.jpeg"
+    label: Kitchen Island
   - project_image: "/images/waldo-homediagrams1.gif"
   - project_image: "/images/waldo-homekitchen2.jpeg"
   - project_image: "/images/waldo-homeplayroom2.jpeg"
