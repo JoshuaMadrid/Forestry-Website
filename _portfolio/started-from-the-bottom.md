@@ -41,7 +41,40 @@ page_sections:
     PHOTOGRAPHY: Impressive Spaces Photography</p>
 - template: block-project-images
   project_images:
+  - project_image: "/images/started-from-the-bottom636meyer_lodesign-3-large.jpeg"
+  - project_image: "/images/started-from-the-bottom636meyer_lodesign-4-large.jpeg"
+  - project_image: "/images/started-from-the-bottom636meyer_lodesign-51-large.jpeg"
+  - project_image: "/images/started-from-the-bottom636meyer_lodesign-1-large.jpeg"
+  - project_image: "/images/started-from-the-bottom636meyer_lodesign-6-large.jpeg"
+  - project_image: "/images/started-from-the-bottom636meyer_lodesign-26-large.jpeg"
+  - project_image: "/images/started-from-the-bottom636meyer_lodesign-9-large.jpeg"
+  - project_image: "/images/started-from-the-bottom636meyer_lodesign-41-large.jpeg"
+  - project_image: "/images/started-from-the-bottomext1-copy.jpeg"
+  - project_image: "/images/started-from-the-bottom636meyer_lodesign-50-large.jpeg"
+  - project_image: "/images/started-from-the-bottom636meyer_lodesign-12-large.jpeg"
+  - project_image: "/images/started-from-the-bottom636meyer_lodesign-44-large.jpeg"
+  - project_image: "/images/started-from-the-bottom636meyer_lodesign-5-large.jpeg"
+  - project_image: "/images/started-from-the-bottom636meyer_lodesign-14-large.jpeg"
+  - project_image: "/images/started-from-the-bottom636meyer_lodesign-11-large.jpeg"
+  - project_image: "/images/started-from-the-bottom636meyer_lodesign-47-large.jpeg"
+  - project_image: "/images/started-from-the-bottom636meyer_lodesign-7-large.jpeg"
+  - project_image: "/images/started-from-the-bottom636meyer_lodesign-7-large.jpeg"
+  - project_image: "/images/started-from-the-bottom636meyer_lodesign-7-large.jpeg"
+  - project_image: "/images/started-from-the-bottom636meyer_lodesign-21-large.jpeg"
+  - project_image: "/images/started-from-the-bottom636meyer_lodesign-35-large.jpeg"
+    label: image 7
+  - project_image: "/images/started-from-the-bottom636meyer_lodesign-23-large.jpeg"
+    label: image 6
+  - project_image: "/images/started-from-the-bottom636meyer_lodesign-27-large.jpeg"
+    label: image 5
+  - project_image: "/images/started-from-the-bottom636meyer_lodesign-46-large.jpeg"
+    label: image 4
+  - project_image: "/images/started-from-the-bottom636meyer_lodesign-45-large.jpeg"
+    label: image 3
+  - project_image: "/images/started-from-the-bottom20200707_121920-copy.jpeg"
+    label: image 2
   - project_image: "/images/started-from-the-bottom20210901_154901.jpeg"
+    label: image 1
 - template: block-related-projects
   related_project_title: ''
   project_: []
