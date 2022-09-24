@@ -5,9 +5,9 @@ date: '2016-03-23T11:48:41.000-04:00'
 layout: portfolioDoc
 page_sections:
 - template: block-hero-project
-  hero_image: ''
-  project_title: ''
-  project_description: ''
+  hero_image: "/images/south-of-summit-hero-1920px.jpg"
+  project_title: SOUTH OF SUMMIT
+  project_description: photography by Alyssa Broadus
 - template: block-project-images
   project_images: []
 - template: block-related-projects
