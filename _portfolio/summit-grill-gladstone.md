@@ -21,6 +21,12 @@ page_sections:
     www.olivemediakc.com
 - template: block-project-images
   project_images:
+  - project_image: "/images/summit-grill-gladstone20190918-dscf1041-lr.jpeg"
+    label: image 4
+  - project_image: "/images/summit-grill-gladstone20190918-dscf0882-998.jpeg"
+    label: image 3
+  - project_image: "/images/summit-grill-gladstone20190918-dscf0896-lr.jpeg"
+    label: image 2
   - project_image: "/images/summit-grill-gladstonepdr-gif.gif"
     label: Image 1
 - template: block-related-projects
