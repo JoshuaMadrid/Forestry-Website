@@ -30,7 +30,34 @@ page_sections:
 
     www.mattfratesphoto.com/
 - template: block-project-images
-  project_images: []
+  project_images:
+  - project_image: "/images/hanover-house.jpeg"
+  - project_image: "/images/hanover-house-5_huntley_finaledit_6-medium.jpeg"
+  - project_image: "/images/hanover-house-5_huntley_finaledit_3-medium.jpeg"
+  - project_image: "/images/hanover-house-5_huntley_finaledit_1-medium.jpeg"
+  - project_image: "/images/hanover-house-5_huntley_finaledit_17-medium.jpeg"
+  - project_image: "/images/hanover-house-5_huntley_finaledit_59_sm.jpeg"
+  - project_image: "/images/hanover-house-5_huntley_finaledit_21-medium.jpeg"
+  - project_image: "/images/hanover-house-5_huntley_finaledit_38-medium.jpeg"
+  - project_image: "/images/hanover-house-5_huntley_finaledit_62_sm.jpeg"
+  - project_image: "/images/hanover-house-5_huntley_finaledit_22-medium.jpeg"
+  - project_image: "/images/hanover-house-5_huntley_finaledit_55-medium.jpeg"
+  - project_image: "/images/hanover-house-5_huntley_finaledit_35-medium.jpeg"
+  - project_image: "/images/hanover-house-5_huntley_finaledit_35-medium.jpeg"
+  - project_image: "/images/hanover-house-5_huntley_finaledit_16-medium.jpeg"
+  - project_image: "/images/hanover-house-5_huntley_finaledit_7-medium.jpeg"
+  - project_image: "/images/hanover-house-5_huntley_finaledit_7-medium.jpeg"
+  - project_image: "/images/hanover-house-5_huntley_finaledit_33-medium.jpeg"
+  - project_image: "/images/hanover-house-5_huntley_finaledit_52-medium.jpeg"
+  - project_image: "/images/hanover-house-5_huntley_finaledit_58-medium.jpeg"
+  - project_image: "/images/hanover-house-5_huntley_finaledit_29-medium.jpeg"
+  - project_image: "/images/hanover-house-5_huntley_finaledit_20-medium.jpeg"
+  - project_image: "/images/hanover-house-5_huntley_finaledit_43-medium.jpeg"
+  - project_image: "/images/hanover-house-5_huntley_finaledit_34-medium.jpeg"
+  - project_image: "/images/hanover-house-5_huntley_finaledit_45-medium.jpeg"
+  - project_image: "/images/hanover-house-5_huntley_finaledit_24-medium.jpeg"
+  - project_image: "/images/hanover-house-5_huntley_finaledit_26-medium.jpeg"
+  - project_image: "/images/hanover-house-icon1647-0959-0000014a.jpeg"
 - template: block-related-projects
   related_project_title: ''
   project_: []
