@@ -40,7 +40,8 @@ page_sections:
 
     PHOTOGRAPHY: Impressive Spaces Photography</p>
 - template: block-project-images
-  project_images: []
+  project_images:
+  - project_image: "/images/started-from-the-bottom20210901_154901.jpeg"
 - template: block-related-projects
   related_project_title: ''
   project_: []
