@@ -15,10 +15,12 @@
         document.querySelectorAll('.project').forEach((project) => {
         console.log(project);
         project.addEventListener("mouseover", function(){
-            project.children[0].children[0].style.display = "none";
+            // project.children[0].children[0].style.display = "none";
+            project.children[0].children[0].style.opacity = "0.2";
         });
         project.addEventListener("mouseleave", function(){
-            project.children[0].children[0].style.display = "block";
+            // project.children[0].children[0].style.display = "block";
+            project.children[0].children[0].style.opacity = "1";
         });
         });
     });
