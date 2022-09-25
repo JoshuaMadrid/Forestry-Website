@@ -145,7 +145,7 @@ page_sections:
     offset_column_desktop: offset-xl-1
     offset_column_phone: none
 - template: block-related-projects
-  related_project_title: ''
+  related_project_title: 'Related projects '
   project_:
   - project_title: POOL PARTY
     project_image: "/images/pool-party-hero-1366px.jpg"
