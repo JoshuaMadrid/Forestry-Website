@@ -225,11 +225,11 @@ fields:
         file: 
         path: 
     label: Offset Column Desktop
-  - name: margin
+  - name: padding
     type: text
     config:
       required: false
-    label: Margin
+    label: Padding
   config:
     min: 
     max: 
