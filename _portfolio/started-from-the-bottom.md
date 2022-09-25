@@ -42,39 +42,275 @@ page_sections:
 - template: block-project-images
   project_images:
   - project_image: "/images/started-from-the-bottom636meyer_lodesign-3-large.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/started-from-the-bottom636meyer_lodesign-4-large.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/started-from-the-bottom636meyer_lodesign-51-large.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/started-from-the-bottom636meyer_lodesign-1-large.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/started-from-the-bottom636meyer_lodesign-6-large.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/started-from-the-bottom636meyer_lodesign-26-large.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/started-from-the-bottom636meyer_lodesign-9-large.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/started-from-the-bottom636meyer_lodesign-41-large.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/started-from-the-bottomext1-copy.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/started-from-the-bottom636meyer_lodesign-50-large.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/started-from-the-bottom636meyer_lodesign-12-large.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/started-from-the-bottom636meyer_lodesign-44-large.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/started-from-the-bottom636meyer_lodesign-5-large.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/started-from-the-bottom636meyer_lodesign-14-large.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/started-from-the-bottom636meyer_lodesign-11-large.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/started-from-the-bottom636meyer_lodesign-47-large.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/started-from-the-bottom636meyer_lodesign-7-large.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/started-from-the-bottom636meyer_lodesign-7-large.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/started-from-the-bottom636meyer_lodesign-7-large.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/started-from-the-bottom636meyer_lodesign-21-large.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/started-from-the-bottom636meyer_lodesign-35-large.jpeg"
-    label: image 7
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/started-from-the-bottom636meyer_lodesign-23-large.jpeg"
-    label: image 6
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/started-from-the-bottom636meyer_lodesign-27-large.jpeg"
-    label: image 5
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/started-from-the-bottom636meyer_lodesign-46-large.jpeg"
-    label: image 4
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/started-from-the-bottom636meyer_lodesign-45-large.jpeg"
-    label: image 3
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/started-from-the-bottom20200707_121920-copy.jpeg"
-    label: image 2
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/started-from-the-bottom20210901_154901.jpeg"
-    label: image 1
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
 - template: block-related-projects
   related_project_title: 'Related projects '
   project_:
@@ -89,7 +325,7 @@ page_sections:
     offset_column_laptop: offset-lg-2
     column_size_desktop: col-xl-4
     offset_column_desktop: offset-xl-2
-    padding: " 20px 0px"
+    padding: "20px 0px 0px 0px"
   - project_title: MATERIAL & MINUTIAE
     project_image: "/images/material-and-minutia-hero-1366px.jpg"
     url: https://clever-hugle-2c32c1.netlify.app/portfolio/materialminutia/
@@ -101,7 +337,7 @@ page_sections:
     offset_column_laptop: none
     column_size_desktop: col-xl-4
     offset_column_desktop: none
-    padding: " 20px 0px"
+    padding: "20px 0px 0px 0px"
   - project_title: LIGHT BOX
     project_image: "/images/light-box-hero-1366px.jpg"
     url: https://clever-hugle-2c32c1.netlify.app/portfolio/lightbox/
@@ -113,7 +349,7 @@ page_sections:
     offset_column_laptop: none
     column_size_desktop: col-xl-4
     offset_column_desktop: none
-    padding: " 20px 0px"
+    padding: "0px 0px 20px 0px"
   - project_title: STARTED FROM THE BOTTOM
     project_image: "/images/started-from-the-bottom-hero-1366px.jpg"
     url: https://clever-hugle-2c32c1.netlify.app/portfolio/started-from-the-bottom/
@@ -125,6 +361,6 @@ page_sections:
     offset_column_laptop: none
     column_size_desktop: col-xl-4
     offset_column_desktop: none
-    padding: " 20px 0px"
+    padding: "0px 0px 20px 0px"
 
 ---

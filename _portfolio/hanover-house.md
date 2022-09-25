@@ -32,32 +32,275 @@ page_sections:
 - template: block-project-images
   project_images:
   - project_image: "/images/hanover-house.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/hanover-house-5_huntley_finaledit_6-medium.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/hanover-house-5_huntley_finaledit_3-medium.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/hanover-house-5_huntley_finaledit_1-medium.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/hanover-house-5_huntley_finaledit_17-medium.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/hanover-house-5_huntley_finaledit_59_sm.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/hanover-house-5_huntley_finaledit_21-medium.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/hanover-house-5_huntley_finaledit_38-medium.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/hanover-house-5_huntley_finaledit_62_sm.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/hanover-house-5_huntley_finaledit_22-medium.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/hanover-house-5_huntley_finaledit_55-medium.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/hanover-house-5_huntley_finaledit_35-medium.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/hanover-house-5_huntley_finaledit_35-medium.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/hanover-house-5_huntley_finaledit_16-medium.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/hanover-house-5_huntley_finaledit_7-medium.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/hanover-house-5_huntley_finaledit_7-medium.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/hanover-house-5_huntley_finaledit_33-medium.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/hanover-house-5_huntley_finaledit_52-medium.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/hanover-house-5_huntley_finaledit_58-medium.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/hanover-house-5_huntley_finaledit_29-medium.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/hanover-house-5_huntley_finaledit_20-medium.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/hanover-house-5_huntley_finaledit_43-medium.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/hanover-house-5_huntley_finaledit_34-medium.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/hanover-house-5_huntley_finaledit_45-medium.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/hanover-house-5_huntley_finaledit_24-medium.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/hanover-house-5_huntley_finaledit_26-medium.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
   - project_image: "/images/hanover-house-icon1647-0959-0000014a.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-6
+    offset_column_tablet: offset-md-3
+    column_size_laptop: col-lg-6
+    offset_column_laptop: offset-lg-3
+    column_size_desktop: col-xl-6
+    offset_column_desktop: offset-xl-3
 - template: block-related-projects
   related_project_title: 'Related projects '
   project_:
@@ -72,7 +315,7 @@ page_sections:
     offset_column_laptop: offset-lg-2
     column_size_desktop: col-xl-4
     offset_column_desktop: offset-xl-2
-    padding: " 20px 0px"
+    padding: "20px 0px 0px 0px"
   - project_title: MATERIAL & MINUTIAE
     project_image: "/images/material-and-minutia-hero-1366px.jpg"
     url: https://clever-hugle-2c32c1.netlify.app/portfolio/materialminutia/
@@ -84,7 +327,7 @@ page_sections:
     offset_column_laptop: none
     column_size_desktop: col-xl-4
     offset_column_desktop: none
-    padding: " 20px 0px"
+    padding: "20px 0px 0px 0px"
   - project_title: LIGHT BOX
     project_image: "/images/light-box-hero-1366px.jpg"
     url: https://clever-hugle-2c32c1.netlify.app/portfolio/lightbox/
@@ -96,7 +339,7 @@ page_sections:
     offset_column_laptop: none
     column_size_desktop: col-xl-4
     offset_column_desktop: none
-    padding: " 20px 0px"
+    padding: "0px 0px 20px 0px"
   - project_title: STARTED FROM THE BOTTOM
     project_image: "/images/started-from-the-bottom-hero-1366px.jpg"
     url: https://clever-hugle-2c32c1.netlify.app/portfolio/started-from-the-bottom/
@@ -108,6 +351,6 @@ page_sections:
     offset_column_laptop: none
     column_size_desktop: col-xl-4
     offset_column_desktop: none
-    padding: " 20px 0px"
+    padding: "0px 0px 20px 0px"
 
 ---
