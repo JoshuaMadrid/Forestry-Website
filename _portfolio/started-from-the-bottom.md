@@ -325,7 +325,7 @@ page_sections:
     offset_column_laptop: offset-lg-2
     column_size_desktop: col-xl-4
     offset_column_desktop: offset-xl-2
-    padding: "20px 0px 0px 0px"
+    padding: "20px 10px 0px 10px"
   - project_title: MATERIAL & MINUTIAE
     project_image: "/images/material-and-minutia-hero-1366px.jpg"
     url: https://clever-hugle-2c32c1.netlify.app/portfolio/materialminutia/
@@ -337,7 +337,7 @@ page_sections:
     offset_column_laptop: none
     column_size_desktop: col-xl-4
     offset_column_desktop: none
-    padding: "20px 0px 0px 0px"
+    padding: "20px 10px 0px 10px"
   - project_title: LIGHT BOX
     project_image: "/images/light-box-hero-1366px.jpg"
     url: https://clever-hugle-2c32c1.netlify.app/portfolio/lightbox/
@@ -349,7 +349,7 @@ page_sections:
     offset_column_laptop: none
     column_size_desktop: col-xl-4
     offset_column_desktop: none
-    padding: "0px 0px 20px 0px"
+    padding: "0px 10px 20px 10px"
   - project_title: STARTED FROM THE BOTTOM
     project_image: "/images/started-from-the-bottom-hero-1366px.jpg"
     url: https://clever-hugle-2c32c1.netlify.app/portfolio/started-from-the-bottom/
@@ -361,6 +361,6 @@ page_sections:
     offset_column_laptop: none
     column_size_desktop: col-xl-4
     offset_column_desktop: none
-    padding: "0px 0px 20px 0px"
+    padding: "0px 10px 20px 10px"
 
 ---
