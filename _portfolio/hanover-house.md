@@ -59,36 +59,55 @@ page_sections:
   - project_image: "/images/hanover-house-5_huntley_finaledit_26-medium.jpeg"
   - project_image: "/images/hanover-house-icon1647-0959-0000014a.jpeg"
 - template: block-related-projects
-  related_project_title: ''
-  project_: []
+  related_project_title: 'Related projects '
+  project_:
+  - project_title: POOL PARTY
+    project_image: "/images/pool-party-hero-1366px.jpg"
+    url: https://clever-hugle-2c32c1.netlify.app/portfolio/pool-party/
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-4
+    offset_column_tablet: offset-md-2
+    column_size_laptop: col-lg-4
+    offset_column_laptop: offset-lg-2
+    column_size_desktop: col-xl-4
+    offset_column_desktop: offset-xl-2
+    margin: " 20px 0px"
+  - project_title: MATERIAL & MINUTIAE
+    project_image: "/images/material-and-minutia-hero-1366px.jpg"
+    url: https://clever-hugle-2c32c1.netlify.app/portfolio/materialminutia/
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-4
+    offset_column_tablet: none
+    column_size_laptop: col-lg-4
+    offset_column_laptop: none
+    column_size_desktop: col-xl-4
+    offset_column_desktop: none
+    margin: " 20px 0px"
+  - project_title: LIGHT BOX
+    project_image: "/images/light-box-hero-1366px.jpg"
+    url: https://clever-hugle-2c32c1.netlify.app/portfolio/lightbox/
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-4
+    offset_column_tablet: offset-md-2
+    column_size_laptop: col-lg-4
+    offset_column_laptop: none
+    column_size_desktop: col-xl-4
+    offset_column_desktop: none
+    margin: " 20px 0px"
+  - project_title: STARTED FROM THE BOTTOM
+    project_image: "/images/started-from-the-bottom-hero-1366px.jpg"
+    url: https://clever-hugle-2c32c1.netlify.app/portfolio/started-from-the-bottom/
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-4
+    offset_column_tablet: none
+    column_size_laptop: col-lg-4
+    offset_column_laptop: none
+    column_size_desktop: col-xl-4
+    offset_column_desktop: none
+    margin: " 20px 0px"
 
 ---
-
-<!--  -->
-<!-- <div class="row" style="background-color: #ded9d3;">
-  <div class="col-lg-2"></div>
-  <div class="col-lg-4">
-       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 1200px; display: block; background-color: #ded9d3;" src="https://via.placeholder.com/1200x800/EEEEEE">
-  </div>
-  <div class="col-lg-4">
-       <img style="max-height: 100vh; width: 100%; height: auto; margin: 30px auto 0px auto; max-width: 1200px; display: block; background-color: #ded9d3;" src="https://via.placeholder.com/1200x800/EEEEEE">
-  </div>
-  <div class="col-lg-2"></div>
-</div>
-
-<div class="row" style="width: 100vw; padding: 0px; background-color: #ded9d3; margin: 0px 0px 0px 0px;">
-  <div class="col-lg-12" style="height: 100px; padding: 0px; margin: 0px;"></div>
-</div>
-
-<style>
-  .container-fluid{
-    padding-left: 0px !important;
-  }
-</style> -->
-
-<!-- <div class="container">
-  <div class="row" style="height: 100vh; width: 100vw; background-image: url(https://via.placeholder.com/1920x1080/eeeeee); background-size: cover; background-position: center center;">
-    <div class="col-lg-12">
-    </div>
-  </div>
-</div> -->
