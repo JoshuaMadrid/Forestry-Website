@@ -6,6 +6,9 @@ layout: default
 page_sections:
 - template: block-gallery
   project:
+  - title_project: STARTED FROM THE BOTTOM
+    project_cover_image: "/images/started-from-the-bottom-hero-1500px.jpg"
+    project_link: https://clever-hugle-2c32c1.netlify.app/portfolio/started-from-the-bottom/
   - title_project: Master of All Baths
     project_cover_image: "/images/257-merlin-road4.jpg"
     project_link: master-of-all-baths
@@ -33,6 +36,5 @@ page_sections:
   - title_project: Hanover House
     project_cover_image: "/images/5_huntley_finaledit_62_sm.jpg"
     project_link: hanover-house
+
 ---
-
-
