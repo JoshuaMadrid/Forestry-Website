@@ -27,7 +27,7 @@ fields:
     label: URL
   - name: column_size_phone
     type: select
-    default: []
+    default: none
     config:
       required: true
       options:
@@ -43,6 +43,7 @@ fields:
       - col-sm-10
       - col-sm-11
       - col-sm-12
+      - none
       source:
         type: simple
         section: 
@@ -51,7 +52,7 @@ fields:
     label: Column Size Phone
   - name: offset_column_phone
     type: select
-    default: []
+    default: none
     config:
       required: true
       options:
@@ -67,6 +68,7 @@ fields:
       - offset-sm-10
       - offset-sm-11
       - offset-sm-12
+      - none
       source:
         type: simple
         section: 
@@ -75,7 +77,7 @@ fields:
     label: Offset Column Phone
   - name: column_size_tablet
     type: select
-    default: []
+    default: none
     config:
       required: true
       options:
@@ -91,6 +93,7 @@ fields:
       - col-md-10
       - col-md-11
       - col-md-12
+      - none
       source:
         type: simple
         section: 
@@ -99,7 +102,7 @@ fields:
     label: Column Size tablet
   - name: offset_column_tablet
     type: select
-    default: []
+    default: none
     config:
       required: true
       options:
@@ -115,6 +118,7 @@ fields:
       - offset-md-10
       - offset-md-11
       - offset-md-12
+      - none
       source:
         type: simple
         section: 
@@ -123,7 +127,7 @@ fields:
     label: Offset Column tablet
   - name: column_size_laptop
     type: select
-    default: []
+    default: none
     config:
       required: true
       options:
@@ -139,6 +143,7 @@ fields:
       - col-lg-10
       - col-lg-11
       - col-lg-12
+      - none
       source:
         type: simple
         section: 
@@ -147,7 +152,7 @@ fields:
     label: Column Size Laptop
   - name: offset_column_laptop
     type: select
-    default: []
+    default: none
     config:
       required: true
       options:
@@ -163,6 +168,7 @@ fields:
       - offset-lg-10
       - offset-lg-11
       - offset-lg-12
+      - none
       source:
         type: simple
         section: 
@@ -171,7 +177,7 @@ fields:
     label: Offset Column Laptop
   - name: column_size_desktop
     type: select
-    default: []
+    default: none
     config:
       required: true
       options:
@@ -187,6 +193,7 @@ fields:
       - col-xl-10
       - col-xl-11
       - col-xl-12
+      - none
       source:
         type: simple
         section: 
@@ -195,7 +202,7 @@ fields:
     label: Column Size Desktop
   - name: offset_column_desktop
     type: select
-    default: []
+    default: none
     config:
       required: true
       options:
@@ -211,12 +218,18 @@ fields:
       - offset-xl-10
       - offset-xl-11
       - offset-xl-12
+      - none
       source:
         type: simple
         section: 
         file: 
         path: 
     label: Offset Column Desktop
+  - name: margin
+    type: text
+    config:
+      required: false
+    label: Margin
   config:
     min: 
     max: 
