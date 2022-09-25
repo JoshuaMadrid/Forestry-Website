@@ -15,30 +15,186 @@ page_sections:
 - template: block-project-images
   project_images:
   - project_image: "/images/summitgrillwaldo20180412-summit-0360_hr.jpeg"
-  - {}
+    column_size_phone: col-sm-1
+    column_size_tablet: col-md-1
+    offset_column_tablet: offset-md-1
+    column_size_laptop: col-lg-1
+    offset_column_laptop: offset-lg-1
+    column_size_desktop: col-xl-1
+    offset_column_desktop: offset-xl-1
+  - column_size_phone: col-sm-1
+    column_size_tablet: col-md-1
+    offset_column_tablet: offset-md-1
+    column_size_laptop: col-lg-1
+    offset_column_laptop: offset-lg-1
+    column_size_desktop: col-xl-1
+    offset_column_desktop: offset-xl-1
   - project_image: "/images/summit-grill-gladstone20190918-dscf0882-998.jpeg"
+    column_size_phone: col-sm-1
+    column_size_tablet: col-md-1
+    offset_column_tablet: offset-md-1
+    column_size_laptop: col-lg-1
+    offset_column_laptop: offset-lg-1
+    column_size_desktop: col-xl-1
+    offset_column_desktop: offset-xl-1
   - project_image: "/images/summit-grill-gladstone20190918-dscf1041-lr.jpeg"
+    column_size_phone: col-sm-1
+    column_size_tablet: col-md-1
+    offset_column_tablet: offset-md-1
+    column_size_laptop: col-lg-1
+    offset_column_laptop: offset-lg-1
+    column_size_desktop: col-xl-1
+    offset_column_desktop: offset-xl-1
   - project_image: "/images/summit-grill-gladstone20190918-dscf0869-lr.jpeg"
+    column_size_phone: col-sm-1
+    column_size_tablet: col-md-1
+    offset_column_tablet: offset-md-1
+    column_size_laptop: col-lg-1
+    offset_column_laptop: offset-lg-1
+    column_size_desktop: col-xl-1
+    offset_column_desktop: offset-xl-1
   - project_image: "/images/summit-grill-gladstone20190918-dscf1146-1099.jpeg"
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
+    column_size_phone: col-sm-1
+    column_size_tablet: col-md-1
+    offset_column_tablet: offset-md-1
+    column_size_laptop: col-lg-1
+    offset_column_laptop: offset-lg-1
+    column_size_desktop: col-xl-1
+    offset_column_desktop: offset-xl-1
+  - column_size_phone: col-sm-1
+    column_size_tablet: col-md-1
+    offset_column_tablet: offset-md-1
+    column_size_laptop: col-lg-1
+    offset_column_laptop: offset-lg-1
+    column_size_desktop: col-xl-1
+    offset_column_desktop: offset-xl-1
+  - column_size_phone: col-sm-1
+    column_size_tablet: col-md-1
+    offset_column_tablet: offset-md-1
+    column_size_laptop: col-lg-1
+    offset_column_laptop: offset-lg-1
+    column_size_desktop: col-xl-1
+    offset_column_desktop: offset-xl-1
+  - column_size_phone: col-sm-1
+    column_size_tablet: col-md-1
+    offset_column_tablet: offset-md-1
+    column_size_laptop: col-lg-1
+    offset_column_laptop: offset-lg-1
+    column_size_desktop: col-xl-1
+    offset_column_desktop: offset-xl-1
+  - column_size_phone: col-sm-1
+    column_size_tablet: col-md-1
+    offset_column_tablet: offset-md-1
+    column_size_laptop: col-lg-1
+    offset_column_laptop: offset-lg-1
+    column_size_desktop: col-xl-1
+    offset_column_desktop: offset-xl-1
+  - column_size_phone: col-sm-1
+    column_size_tablet: col-md-1
+    offset_column_tablet: offset-md-1
+    column_size_laptop: col-lg-1
+    offset_column_laptop: offset-lg-1
+    column_size_desktop: col-xl-1
+    offset_column_desktop: offset-xl-1
+  - column_size_phone: col-sm-1
+    column_size_tablet: col-md-1
+    offset_column_tablet: offset-md-1
+    column_size_laptop: col-lg-1
+    offset_column_laptop: offset-lg-1
+    column_size_desktop: col-xl-1
+    offset_column_desktop: offset-xl-1
+  - column_size_phone: col-sm-1
+    column_size_tablet: col-md-1
+    offset_column_tablet: offset-md-1
+    column_size_laptop: col-lg-1
+    offset_column_laptop: offset-lg-1
+    column_size_desktop: col-xl-1
+    offset_column_desktop: offset-xl-1
+  - column_size_phone: col-sm-1
+    column_size_tablet: col-md-1
+    offset_column_tablet: offset-md-1
+    column_size_laptop: col-lg-1
+    offset_column_laptop: offset-lg-1
+    column_size_desktop: col-xl-1
+    offset_column_desktop: offset-xl-1
+  - column_size_phone: col-sm-1
+    column_size_tablet: col-md-1
+    offset_column_tablet: offset-md-1
+    column_size_laptop: col-lg-1
+    offset_column_laptop: offset-lg-1
+    column_size_desktop: col-xl-1
+    offset_column_desktop: offset-xl-1
+  - column_size_phone: col-sm-1
+    column_size_tablet: col-md-1
+    offset_column_tablet: offset-md-1
+    column_size_laptop: col-lg-1
+    offset_column_laptop: offset-lg-1
+    column_size_desktop: col-xl-1
+    offset_column_desktop: offset-xl-1
+  - column_size_phone: col-sm-1
+    column_size_tablet: col-md-1
+    offset_column_tablet: offset-md-1
+    column_size_laptop: col-lg-1
+    offset_column_laptop: offset-lg-1
+    column_size_desktop: col-xl-1
+    offset_column_desktop: offset-xl-1
+  - column_size_phone: col-sm-1
+    column_size_tablet: col-md-1
+    offset_column_tablet: offset-md-1
+    column_size_laptop: col-lg-1
+    offset_column_laptop: offset-lg-1
+    column_size_desktop: col-xl-1
+    offset_column_desktop: offset-xl-1
+  - column_size_phone: col-sm-1
+    column_size_tablet: col-md-1
+    offset_column_tablet: offset-md-1
+    column_size_laptop: col-lg-1
+    offset_column_laptop: offset-lg-1
+    column_size_desktop: col-xl-1
+    offset_column_desktop: offset-xl-1
+  - column_size_phone: col-sm-1
+    column_size_tablet: col-md-1
+    offset_column_tablet: offset-md-1
+    column_size_laptop: col-lg-1
+    offset_column_laptop: offset-lg-1
+    column_size_desktop: col-xl-1
+    offset_column_desktop: offset-xl-1
+  - column_size_phone: col-sm-1
+    column_size_tablet: col-md-1
+    offset_column_tablet: offset-md-1
+    column_size_laptop: col-lg-1
+    offset_column_laptop: offset-lg-1
+    column_size_desktop: col-xl-1
+    offset_column_desktop: offset-xl-1
+  - column_size_phone: col-sm-1
+    column_size_tablet: col-md-1
+    offset_column_tablet: offset-md-1
+    column_size_laptop: col-lg-1
+    offset_column_laptop: offset-lg-1
+    column_size_desktop: col-xl-1
+    offset_column_desktop: offset-xl-1
+  - column_size_phone: col-sm-1
+    column_size_tablet: col-md-1
+    offset_column_tablet: offset-md-1
+    column_size_laptop: col-lg-1
+    offset_column_laptop: offset-lg-1
+    column_size_desktop: col-xl-1
+    offset_column_desktop: offset-xl-1
+  - column_size_phone: col-sm-1
+    column_size_tablet: col-md-1
+    offset_column_tablet: offset-md-1
+    column_size_laptop: col-lg-1
+    offset_column_laptop: offset-lg-1
+    column_size_desktop: col-xl-1
+    offset_column_desktop: offset-xl-1
   - project_image: "/images/summitgrillwaldo20180409-summit-0157-edit_hr.jpeg"
+    column_size_phone: col-sm-1
+    column_size_tablet: col-md-1
+    offset_column_tablet: offset-md-1
+    column_size_laptop: col-lg-1
+    offset_column_laptop: offset-lg-1
+    column_size_desktop: col-xl-1
+    offset_column_desktop: offset-xl-1
 - template: block-related-projects
   related_project_title: ''
   project_: []
