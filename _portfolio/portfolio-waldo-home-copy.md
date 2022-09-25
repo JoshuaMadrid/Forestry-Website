@@ -147,6 +147,17 @@ page_sections:
 - template: block-related-projects
   related_project_title: ''
   project_:
+  - project_title: MATERIAL & MINUTIAE
+    project_image: "/images/material-and-minutia-hero-1366px.jpg"
+    url: https://clever-hugle-2c32c1.netlify.app/portfolio/materialminutia/
+    column_size_phone: col-sm-1
+    offset_column_phone: offset-sm-1
+    column_size_tablet: col-md-1
+    offset_column_tablet: offset-md-1
+    column_size_laptop: col-lg-1
+    offset_column_laptop: offset-lg-1
+    column_size_desktop: col-xl-1
+    offset_column_desktop: offset-xl-1
   - project_title: LIGHT BOX
     project_image: "/images/light-box-hero-1366px.jpg"
     url: https://clever-hugle-2c32c1.netlify.app/portfolio/lightbox/
