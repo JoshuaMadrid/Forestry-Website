@@ -21,16 +21,6 @@ page_sections:
     requires.
 - template: block-project-images
   project_images:
-  - project_image: "/images/waldo-homepowderroom1.jpeg"
-    label: Bathroom Sink
-    column_size_phone: col-sm-1
-    offset_column_phone: offset-sm-1
-    column_size_tablet: col-md-1
-    offset_column_tablet: offset-md-1
-    column_size_laptop: col-lg-1
-    offset_column_laptop: offset-lg-1
-    column_size_desktop: col-xl-1
-    offset_column_desktop: offset-xl-1
   - project_image: "/images/waldo-homedining1.jpeg"
     label: Dining Room
     column_size_phone: col-sm-1
@@ -43,6 +33,16 @@ page_sections:
     offset_column_desktop: offset-xl-1
   - project_image: "/images/waldo-homekitchen1.jpeg"
     label: Kitchen Island
+    column_size_phone: col-sm-1
+    offset_column_phone: offset-sm-1
+    column_size_tablet: col-md-1
+    offset_column_tablet: offset-md-1
+    column_size_laptop: col-lg-1
+    offset_column_laptop: offset-lg-1
+    column_size_desktop: col-xl-1
+    offset_column_desktop: offset-xl-1
+  - project_image: "/images/waldo-homepowderroom1.jpeg"
+    label: Bathroom Sink
     column_size_phone: col-sm-1
     offset_column_phone: offset-sm-1
     column_size_tablet: col-md-1
