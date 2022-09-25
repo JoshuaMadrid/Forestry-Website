@@ -33,7 +33,6 @@ page_sections:
   - title_project: Hanover House
     project_cover_image: "/images/5_huntley_finaledit_62_sm.jpg"
     project_link: hanover-house
-
 ---
 
 
