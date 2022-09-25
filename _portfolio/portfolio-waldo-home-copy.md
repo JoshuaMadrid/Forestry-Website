@@ -55,11 +55,11 @@ page_sections:
     label: Image Name
     column_size_phone: col-sm-12
     offset_column_phone: none
-    column_size_tablet: col-md-4
+    column_size_tablet: col-md-7
     offset_column_tablet: none
-    column_size_laptop: col-lg-4
+    column_size_laptop: col-lg-7
     offset_column_laptop: none
-    column_size_desktop: col-xl-4
+    column_size_desktop: col-xl-7
     offset_column_desktop: none
   - project_image: "/images/waldo-homekitchen2.jpeg"
     label: Image Name
