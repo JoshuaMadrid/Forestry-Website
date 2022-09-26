@@ -25,12 +25,12 @@ page_sections:
     label: Image Name
     column_size_phone: col-sm-12
     offset_column_phone: none
-    column_size_tablet: col-md-5
+    column_size_tablet: col-md-2
     offset_column_tablet: offset-md-2
-    column_size_laptop: col-lg-5
+    column_size_laptop: col-lg-2
     offset_column_laptop: offset-lg-2
-    column_size_desktop: col-lg-5
-    offset_column_desktop: offset-lg-2
+    column_size_desktop: col-xl-2
+    offset_column_desktop: offset-xl-2
   - project_image: "/images/waldo-homekitchen1.jpeg"
     label: Image Name
     column_size_phone: col-sm-12
@@ -175,7 +175,7 @@ page_sections:
     offset_column_laptop: offset-lg-2
     column_size_desktop: col-xl-4
     offset_column_desktop: offset-xl-2
-    padding: "20px 10px 0px 10px"
+    padding: 20px 10px 0px 10px
   - project_title: MATERIAL & MINUTIAE
     project_image: "/images/material-and-minutia-hero-1366px.jpg"
     url: https://clever-hugle-2c32c1.netlify.app/portfolio/materialminutia/
@@ -187,7 +187,7 @@ page_sections:
     offset_column_laptop: none
     column_size_desktop: col-xl-4
     offset_column_desktop: none
-    padding: "20px 10px 0px 10px"
+    padding: 20px 10px 0px 10px
   - project_title: LIGHT BOX
     project_image: "/images/light-box-hero-1366px.jpg"
     url: https://clever-hugle-2c32c1.netlify.app/portfolio/lightbox/
@@ -199,7 +199,7 @@ page_sections:
     offset_column_laptop: none
     column_size_desktop: col-xl-4
     offset_column_desktop: none
-    padding: "0px 10px 20px 10px"
+    padding: 0px 10px 20px 10px
   - project_title: STARTED FROM THE BOTTOM
     project_image: "/images/started-from-the-bottom-hero-1366px.jpg"
     url: https://clever-hugle-2c32c1.netlify.app/portfolio/started-from-the-bottom/
@@ -211,6 +211,6 @@ page_sections:
     offset_column_laptop: none
     column_size_desktop: col-xl-4
     offset_column_desktop: none
-    padding: "0px 10px 20px 10px"
+    padding: 0px 10px 20px 10px
 
 ---
