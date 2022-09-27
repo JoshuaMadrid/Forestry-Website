@@ -21,6 +21,16 @@ page_sections:
     requires.
 - template: block-project-images
   project_images:
+  - project_image: "/images/waldo-homekitchen2.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-4
+    offset_column_tablet: none
+    column_size_laptop: col-lg-4
+    offset_column_laptop: none
+    column_size_desktop: col-xl-4
+    offset_column_desktop: none
   - project_image: "/images/waldo-homedining1.jpeg"
     label: Image Name
     column_size_phone: col-sm-12
@@ -61,16 +71,6 @@ page_sections:
     offset_column_laptop: offset-lg-1
     column_size_desktop: col-xl-4
     offset_column_desktop: offset-xl-1
-  - project_image: "/images/waldo-homekitchen2.jpeg"
-    label: Image Name
-    column_size_phone: col-sm-12
-    offset_column_phone: none
-    column_size_tablet: col-md-4
-    offset_column_tablet: none
-    column_size_laptop: col-lg-4
-    offset_column_laptop: none
-    column_size_desktop: col-xl-4
-    offset_column_desktop: none
   - project_image: "/images/waldo-homekitchen1.jpeg"
     label: Image Name
     column_size_phone: col-sm-12
