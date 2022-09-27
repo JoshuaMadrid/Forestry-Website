@@ -17,17 +17,17 @@ page_sections:
 - template: block-accordion
   personal_bios:
   - name: Laura
-    bio: "<p>Laura Bauers is a registered architect who has been practicing for over
-      10 years. She has experience in a wide array of typologies including healthcare,
-      labs, academic, adaptive reuse, corporate, residential, and hospitality. She
-      is both an optimist and a skeptic. She will buy the occasional Power Ball ticket,
-      but needs peer reviewed evidence for everything else.<br><br>Education: University
-      of Missouri - Columbia BA in English; Minor in Environmental Design<br><br>Washington
-      University in St. Louis; Master of Architecture<br><br>Experience: Hufft Project,
-      Kansas City, MO January 2018- September 2014<br><br>Voith and Mactavish Architects,
-      Philadelphia, PA August 2014- February 2013<br><br>Ballinger, Philadelphia,
-      PA February 2013 - August 2009<br><br>Cannon Design, St. Louis, MO July 2009
-      - June 2008</p>"
+    bio: "<p><strong>Laura Bauers</strong> is a registered architect who has been
+      practicing for over 10 years. She has experience in a wide array of typologies
+      including healthcare, labs, academic, adaptive reuse, corporate, residential,
+      and hospitality. She is both an optimist and a skeptic. She will buy the occasional
+      Power Ball ticket, but needs peer reviewed evidence for everything else.</p><p>Education:</p><p>University
+      of Missouri - Columbia<br>BA in English<br>Minor in Environmental Design</p><p>Washington
+      University in St. Louis<br>Master of Architecture</p><p>Experience</p><p>Hufft
+      Project, Kansas City, MO<br>September 2014 - January 2018</p><p>Voith and Mactavish
+      Architects, Philadelphia, PA<br>February 2013 - August 2014</p><p>Ballinger,
+      Philadelphia, PA<br>August 2009 - February 2013</p><p>Cannon Design, St. Louis,
+      MO<br>June 2008 - July 2009</p>"
   - name: Brian
     bio: "<p><strong>Brian Michener</strong> is a licensed architect and urban designer
       with extensive experience in both fields of work. His principal interest is
