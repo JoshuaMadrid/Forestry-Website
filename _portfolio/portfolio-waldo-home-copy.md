@@ -31,26 +31,6 @@ page_sections:
     offset_column_laptop: offset-lg-2
     column_size_desktop: col-xl-2
     offset_column_desktop: offset-xl-2
-  - project_image: "/images/waldo-homekitchen1.jpeg"
-    label: Image Name
-    column_size_phone: col-sm-12
-    offset_column_phone: none
-    column_size_tablet: col-md-4
-    offset_column_tablet: offset-md-1
-    column_size_laptop: col-lg-4
-    offset_column_laptop: offset-lg-1
-    column_size_desktop: col-xl-4
-    offset_column_desktop: offset-xl-1
-  - project_image: "/images/waldo-homepowderroom1.jpeg"
-    label: Image Name
-    column_size_phone: col-sm-12
-    offset_column_phone: none
-    column_size_tablet: col-md-4
-    offset_column_tablet: offset-md-1
-    column_size_laptop: col-lg-4
-    offset_column_laptop: offset-lg-1
-    column_size_desktop: col-xl-4
-    offset_column_desktop: offset-xl-1
   - project_image: "/images/waldo-homediagrams1.gif"
     label: Image Name
     column_size_phone: col-sm-12
@@ -60,16 +40,6 @@ page_sections:
     column_size_laptop: col-lg-7
     offset_column_laptop: none
     column_size_desktop: col-xl-7
-    offset_column_desktop: none
-  - project_image: "/images/waldo-homekitchen2.jpeg"
-    label: Image Name
-    column_size_phone: col-sm-12
-    offset_column_phone: none
-    column_size_tablet: col-md-4
-    offset_column_tablet: none
-    column_size_laptop: col-lg-4
-    offset_column_laptop: none
-    column_size_desktop: col-xl-4
     offset_column_desktop: none
   - project_image: "/images/waldo-homeplayroom2.jpeg"
     label: Image Name
@@ -81,6 +51,36 @@ page_sections:
     offset_column_laptop: none
     column_size_desktop: col-xl-4
     offset_column_desktop: none
+  - project_image: "/images/waldo-homepowderroom1.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-4
+    offset_column_tablet: offset-md-1
+    column_size_laptop: col-lg-4
+    offset_column_laptop: offset-lg-1
+    column_size_desktop: col-xl-4
+    offset_column_desktop: offset-xl-1
+  - project_image: "/images/waldo-homekitchen2.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-4
+    offset_column_tablet: none
+    column_size_laptop: col-lg-4
+    offset_column_laptop: none
+    column_size_desktop: col-xl-4
+    offset_column_desktop: none
+  - project_image: "/images/waldo-homekitchen1.jpeg"
+    label: Image Name
+    column_size_phone: col-sm-12
+    offset_column_phone: none
+    column_size_tablet: col-md-4
+    offset_column_tablet: offset-md-1
+    column_size_laptop: col-lg-4
+    offset_column_laptop: offset-lg-1
+    column_size_desktop: col-xl-4
+    offset_column_desktop: offset-xl-1
   - project_image: "/images/waldo-homehall1.jpeg"
     label: Image Name
     column_size_phone: col-sm-12
