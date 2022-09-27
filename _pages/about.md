@@ -7,10 +7,11 @@ layout: default
 page_sections:
 - template: block-page-description
   page_headline: about lo design
-  page_description: Lo to call attention or to express wonder or surprise. At Lo.Design
-    we approach every project with enthusiasm and joy. We work thoughtfully. We create
-    beautiful spaces. We respect our clients. We dream big while designing down to
-    earth. This is Lo.Design.
+  page_description: "At Lo Design we approach every project with enthusiasm and joy.
+    We work thoughtfully to create beautiful spaces. We respect our clients and feel
+    strongly that architecture should be approachable to anyone, on any budget. \n\nWe
+    believe that good design is not exclusive. Good design is NOT high design…it’s
+    better. \n\nGood design is Lo Design."
 - template: block-about-image
   about_image: "/images/laura-brian_bw.jpeg"
 - template: block-accordion
@@ -28,21 +29,32 @@ page_sections:
       PA February 2013 - August 2009<br><br>Cannon Design, St. Louis, MO July 2009
       - June 2008</p>"
   - name: Brian
+    bio: "<p><strong>Brian Michener</strong> is a licensed architect and urban designer
+      with extensive experience in both fields of work. His principal interest is
+      in the interrelation of architecture and urban design, shaping the built environment
+      through the creation of vibrant and engaging places that are both environmentally
+      sustainable and intensely site-specific. Brian will research a subject until
+      he knows everything there is to know about it; however, he will also impulsively
+      jump into something with a seriously healthy dose of naive confidence.</p><p>Education:</p><p>Williams
+      College<br>BA in English<br>BA in Art History</p><p>Washington University in
+      St. Louis<br>Master of Architecture</p><p>Master of Urban Design</p><p>Experience</p><p>El
+      Dorado Inc, Kansas City, MO<br>July 2016 - February 2021</p><p>HOK, Kansas City,
+      MO<br>August 2014 - July 2016</p><p>MGA Partners, Philadelphia, PA<br>January
+      2012 - July 2014</p><p>WRT, Philadelphia, PA<br>May 2008 - January 2012</p>"
   bio: "<p>Brian is an architect and urban designer whose experience is with projects
     of a wide range of scales. His work focuses on the interrelation of architecture
     and urban design, shaping the built environment through the creation of vibrant
-    and engaging places that are both environmentally sustainable and intensely
-    site-specific. He has completed regional master plans, large-scale watershed
-    plans, governmental and collegiate campus plans, non-profit community center
-    feasibility studies and multi-family housing site plans. In addition, he has
-    designed, detailed and built projects as small as single-family row home renovations
-    to large-scale, multi-family housing projects, with a constant eye on the intersection
-    and interrelation of architecture and urbanism.<br><br>Education: Bachelor of
-    Arts, English; Bachelor of Arts, Art History; Williams Collage, MA<br><br>Master
-    of Architecture; Master of Urban Design; Washington University, St. Louis<br><br>Experience:
-    </p><p>El Dorado, Inc, Kansas City, MO:  July 2016 - February 2021<br><br>HOK,
-    Kansas City, MO:  August 2014 - July 2016</p><p>MGA Partners, Philadelphia,
-    PA:  January 2013 - July 2016</p><p>WRT, Philadelphia, PA:  September 2009 -
-    January 2013</p>"
+    and engaging places that are both environmentally sustainable and intensely site-specific.
+    He has completed regional master plans, large-scale watershed plans, governmental
+    and collegiate campus plans, non-profit community center feasibility studies and
+    multi-family housing site plans. In addition, he has designed, detailed and built
+    projects as small as single-family row home renovations to large-scale, multi-family
+    housing projects, with a constant eye on the intersection and interrelation of
+    architecture and urbanism.<br><br>Education: Bachelor of Arts, English; Bachelor
+    of Arts, Art History; Williams Collage, MA<br><br>Master of Architecture; Master
+    of Urban Design; Washington University, St. Louis<br><br>Experience: </p><p>El
+    Dorado, Inc, Kansas City, MO:  July 2016 - February 2021<br><br>HOK, Kansas City,
+    MO:  August 2014 - July 2016</p><p>MGA Partners, Philadelphia, PA:  January 2013
+    - July 2016</p><p>WRT, Philadelphia, PA:  September 2009 - January 2013</p>"
 
 ---
