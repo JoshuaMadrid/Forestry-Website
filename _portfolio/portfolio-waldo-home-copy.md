@@ -5,7 +5,7 @@ date: '2016-03-23T11:48:41.000-04:00'
 layout: portfolioDoc
 page_sections:
 - template: block-hero-project
-  hero_image: "/images/waldo-homedining1.jpeg"
+  hero_image: "/images/waldo-homekitchen1.jpeg"
   project_title: WALDO HOME
   project_description: When the we first walked into this house a few things struck
     us. First, were the large windows and ample natural light. Second, were the high
