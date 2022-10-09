@@ -16,7 +16,7 @@ last_modified_at:
 <div class="row" style="margin: 15px 30px;">
     <div class="col-sm-6 col-lg-6" style="font-size: 25px;">
         <p style="font-size: 35px; font-weight: normal; line-height: 0.5em;">laura@lodesign.us</p>
-        <p>Click to Copy</p>
+        <!-- <p>Click to Copy</p> -->
         <br>
         <p style="font-size: 35px; font-weight: normal;">816.527.5424</p>
         <br>
