@@ -487,10 +487,11 @@ body{
 
 .backgroundEle {
   position: absolute;
-  top: 0px;
-  left: 0px;
-  width: 100%;
-  height: auto;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 100vh;
+  min-width: calc((100vh / 9) * 16);
   z-index: -99;
 }
 .container-fluid { 
@@ -622,12 +623,12 @@ a:hover{
     
   }
   .backgroundEle{
-      position: absolute;
-      top: 0px;
-      left: 0px;
-      width: unset;
-      height: 100vh;
-      z-index: -99;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 100vh;
+    min-width: calc((100vh / 9) * 16);
   }
   
 }
