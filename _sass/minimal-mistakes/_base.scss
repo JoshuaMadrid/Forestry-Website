@@ -632,26 +632,45 @@ a:hover{
   
 }
 
+// @media (max-width: 1100px) {
+//   .limitedFull{
+//       overflow-x: hidden;
+      
+//   }
+//   img.backgroundEle{
+//       min-width: 1920px;
+//       // display: none;
+//   }
+//   img.backgroundEleTablet{
+//       // display: block !important;
+//       position: absolute;
+//       top: 0px;
+//       left: 0px;
+//       height: 100vh;
+//       z-index: -99;
+//       min-width: 1280px;
+//   }
+// }
+
 @media (max-width: 1100px) {
   .limitedFull{
       overflow-x: hidden;
       
   }
   img.backgroundEle{
-      min-width: 1920px;
-      display: none;
-  }
-  img.backgroundEleMobile{
-      display: block !important;
-      position: absolute;
-      top: 0px;
-      left: 0px;
-      width: unset;
+       position: absolute;
+       top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
       height: 100vh;
+      min-width: calc((100vh / 9) * 16);
       z-index: -99;
+    //   display: none;
+  }
+  img.backgroundEleMoble{
+      display: none !important;
   }
 }
-
 
 /*
 transition: width 2s;
