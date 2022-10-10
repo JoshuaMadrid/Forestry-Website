@@ -5,7 +5,9 @@ date: '2016-03-23T11:48:41.000-04:00'
 layout: portfolioDoc
 page_sections:
 - template: block-hero-project
+  hero_image_lg: "/images/pool-party-hero-2500px.jpg"
   hero_image: "/images/pool-party-hero-1920px.jpg"
+  hero_image_t: "/images/pool-party-hero-1280px.jpg"
   hero_image_m: "/images/pool-party-hero-720px.jpg"
   project_title: POOL PARTY
   project_description: |-
