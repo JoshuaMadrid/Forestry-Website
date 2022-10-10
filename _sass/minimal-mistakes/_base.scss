@@ -629,7 +629,28 @@ a:hover{
       height: 100vh;
       z-index: -99;
   }
+  
 }
+
+@media (max-width: 1100px) {
+  .limitedFull{
+      overflow-x: hidden;
+      
+  }
+  img.backgroundEle{
+      min-width: 1920px;
+  }
+  img.backgroundEleMobile{
+      display: block !important;
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      width: unset;
+      height: 100vh;
+      z-index: -99;
+  }
+}
+
 
 /*
 transition: width 2s;

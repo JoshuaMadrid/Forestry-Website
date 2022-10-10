@@ -6,9 +6,10 @@ layout: portfolioDoc
 page_sections:
 - template: block-hero-project
   hero_image: "/images/pool-party-hero-1920px.jpg"
+  hero_image_m: "/images/pool-party-hero-720px.jpg"
   project_title: POOL PARTY
   project_description: |-
-    If you are walking down this Brookside street, you probably won’t notice the garage at the bottom of the driveway. It blends seamlessly into the traditional neighborhood. You’d never guess at what you’ll find at the end of the driveway. But as you come into the backyard, you’ll find a pool, fire pit, expansive deck, hot tub. We collaborated closely with the owners to fully maximize their modest backyard to create an oasis of fun for their family and friends.
+    If you are walking down this Brookside street, you probably won’t notice the garage at the bottom of the driveway. It blends seamlessly into the traditional neighborhood. You’d never guess at what you’ll find at the end of the driveway. But as you come into the backyard, you’ll find a pool, fire pit, expansive deck, hot tub. We collaborated closely with the owners to fully maximize their modest backyard to create an oasis of fun for their family and friends. 
 
     <br><br>
 
